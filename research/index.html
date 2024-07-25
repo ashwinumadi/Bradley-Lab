@@ -1,0 +1,492 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.26.2 by Michael Rose
+  Copyright 2013-2024 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+
+<html lang="en-US" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Bradley Lab - Bradley Lab</title>
+<meta name="description" content="">
+
+
+  <meta name="author" content="Your Name">
+  
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Bradley Lab">
+<meta property="og:title" content="Bradley Lab">
+<meta property="og:url" content="http://localhost:4000/bradley_lab/research/">
+
+
+  <meta property="og:description" content="">
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="http://localhost:4000/bradley_lab/research/">
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/bradley_lab/feed.xml" type="application/atom+xml" rel="alternate" title="Bradley Lab Feed">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script type="text/javascript">
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/bradley_lab/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--general_content" dir="ltr">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+          
+          <a class="site-title" href="/bradley_lab/" style='color:#7393B3'>
+            Bradley Lab
+            
+          </a>
+          <ul class="visible-links"><li class="masthead__menu-item">
+                <a
+                  href="/bradley_lab/research/"
+                  
+                  
+                ><span style='color:#7393B3'>Research</span></a>
+              </li><li class="masthead__menu-item">
+                <a
+                  href="/bradley_lab/course_materials/"
+                  
+                  
+                ><span style='color:#7393B3'>Course Materials</span></a>
+              </li><li class="masthead__menu-item">
+                <a
+                  href="/bradley_lab/publications/"
+                  
+                  
+                ><span style='color:#7393B3'>Publications</span></a>
+              </li><li class="masthead__menu-item">
+                <a
+                  href="/bradley_lab/vita/"
+                  
+                  
+                ><span style='color:#7393B3'>Vita</span></a>
+              </li><li class="masthead__menu-item">
+                <a
+                  href="/bradley_lab/#people"
+                  
+                  
+                ><span style='color:#7393B3'>People</span></a>
+              </li><li class="masthead__menu-item">
+                <a
+                  href="/bradley_lab/#contact"
+                  
+                  
+                ><span style='color:#7393B3'>Contact</span></a>
+              </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      <style>
+    .content-container {
+      padding-left: 10px; /* Adjust the padding as needed */
+      margin: 0 auto;
+      /*max-width: 1200px;*/
+      display: flex;
+    }
+    .sidebar {
+      width: 20%;
+      padding: 2px;
+      /*background-color: #f8f9fa;
+      top: 10px;
+      left: 10px;
+      max-height: 100vh;
+      overflow-y: auto;
+      height: 100%;
+      border: 1px solid gray;
+      max-height: none;*/
+      position: fixed;
+      padding-top: 5px;
+      height: 60vh;
+      box-sizing: border-box;
+      border-radius: 5px;
+      box-shadow: 0 12px 24px rgba(222, 34, 34, 0.1);
+      overflow-y: auto;
+      font-size: x-large;
+    }
+    .sidebar ul {
+      list-style-type: none; /* Remove bullet points */
+      padding: 0;
+    }
+    .sidebar ul li a {
+      font-weight: bold; /* Make each line appear bold */
+      text-decoration: none;
+      display: block;
+      padding: 5px 0;
+    }
+    .sidebar ul li a.active {
+      background-color: white; /* Stylish white background for active link */
+      border-radius: 5px; /* Optional: rounded corners for active link */
+    }
+    .main-content {
+      /*width: 70%;
+      margin-left: 25%;*/
+      padding-left: 25%;
+      padding-right: 5%;
+      overflow-y: auto;
+    }
+    body {
+      font-family: Arial, sans-serif;
+      font-size:large;
+      line-height: 1.6;
+      overflow-x: hidden;
+    }
+    /*header, footer {
+      background-color: #f8f9fa;
+      padding: 10px 0;
+      text-align: center;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 20px;
+      color: #343a40;
+    }
+    a {
+      color: #007bff;
+      text-decoration: none;
+    }*/
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+
+<div class="content-container">
+    <div class="sidebar" id="sidebar">
+        <!-- Sidebar content will be generated by JavaScript -->
+      </div>
+      <div class="main-content">
+          <h3>Current Projects </h3>
+
+<ul>
+
+<li> <a href="/bradley_lab/current_projects/nltsa/">Nonlinear time-series 
+analysis</a>: theory, algorithms, and applications!</li>
+
+<li> <a href="/bradley_lab/current_projects/topology/">Computational 
+topology</a>: techniques for describing the morphology of an object, using only 
+discrete data
+about that object, and applications of those algorithms to data analysis.</li>
+
+<!-- To do: update topology.html to have all the papers and to
+mention Zach's work and the new grant -->
+
+<li> <a href="/bradley_lab/current_projects/bees/">Collective behavior 
+in honeybees</a>: understanding and modeling resource distribution in honeybee colonies.</li>
+
+</ul>
+
+<h3>Past Projects</h3>
+
+<ul>
+<li> <a href="/bradley_lab/past_projects/paleoWPE/">Information-theoretic 
+analysis of ice-core data:</a> the Shannon entropy rate of time-series data from ice 
+cores reveals some pretty cool stuff about the paleoclimate.</li>
+
+<li> <a href="/bradley_lab/past_projects/sunspots/">Solar-flare prediction
+</a>: using computational topology and computational geometry to engineer features 
+for forecasting methods.</li>
+
+<li> <a href="/bradley_lab/past_projects/earthquake-ML/">Seismic event 
+detection</a>: using time-series analysis to engineer features for phase-picking methods.</li>
+
+<li> Human movement dynamics: this area has two distinct foci:</li>
+
+<ul> 
+
+<li> <i> understanding</i> the nonlinear dynamics of movement (e.g.,
+<a href="http://scitation.aip.org/content/aip/magazine/physicstoday/news/10.1063/PT.5.7029">
+runners with amputations</a>)</li>
+
+<li> <i> manipulating </i> those dynamics: in particular, 
+<a href="/bradley_lab/past_projects/chaotic-dance/">using machine learning 
+and the dynamics of chaos to generate human motion sequences</a>.</li>
+
+</ul> 
+
+Riffing on that, students in my group (and
+in <a href="/bradley_lab/courses/chaotic_dynamics/"> my class</a>) have used 
+chaos to
+generate variations on different kinds of sequences,
+including <a href="/bradley_lab/past_projects/chaotic-dance/">dance</a>, <a href="http://www.kunc.org/post/climbing-chaos">
+rock climbing</a>, and many other movement genres - as well as music
+genres ranging from jazz guitar to tabla.
+
+<li> <a href="/bradley_lab/past_projects/flame/">Flow control</a>: intentionally 
+inducing, suppressing, and "guiding" chaotic flows in a fluid using micromachined flaps in 
+the boundary layer of a jet.</li>
+
+<li> <a href="/bradley_lab/past_projects/computer-dynamics/">The nonlinear dynamics 
+of computer performance:</a> frameworks for modeling computers as deterministic nonlinear 
+dynamical systems, and using those models to forecast their performance.</li>
+
+<li> <a href="/bradley_lab/past_projects/dos/">Control of internet attacks</a> using 
+nonlinear dynamics, stochastic models, and control theory.</li>
+
+<li> <a href="/bradley_lab/past_projects/rps/">Recurrence plots</a>: a visualization 
+tool that brings out correlations in time-series data.</li>
+
+<li> <a href="/bradley_lab/past_projects/pll/">Phase-locked loop</a>: using chaos to 
+improve the capture range of a common and useful electronic circuit.</li>
+
+<li> <a href="/bradley_lab/past_projects/cscience/">CScience</a>: an integrated software 
+system that helps geoscientists construct <i> age models</i> (which relate depth to calendar age) 
+for an ice or ocean-sediment core.</li>
+
+<li> <a href="http://ace.hwr.arizona.edu">ACE</a>: an argumentation system that helps geologists 
+deduce the age of a landform, given
+samples of rocks from that landform.  As a successful, deployed workflow-based system for doing 
+earth science, ACE has been featured
+on the <a href="https://sites.google.com/site/earthcubeworkflow/workflow-vignettes">
+EarthCube Workflow Community Group's "workflow vignettes"</a> website
+and in the <a href="http://www.isi.edu/%7Egil/EarthCube/EC-WorkflowsRoadmap-September2012.pdf">
+<i>EarthCube Workflows Roadmap for the Geosciences</i> </a> document (see pp33-36).</li>
+
+<li> <a href="/bradley_lab/past_projects/reachability/">Intelligent computation of 
+reachability sets</a>: automatically exploring the evolving geometry
+of the set of allowed paths of a spacecraft.</li>
+
+<li> <a href="/bradley_lab/past_projects/model/">PRET</a>, a computer program that 
+deduces the internal dynamics of a nonlinear black-box system solely
+from observations of its outputs, automating the process known to control theorists as <i> 
+system identification</i>.</li>
+
+<li> <a href="/bradley_lab/past_projects/features/">Feature recognition in scientific 
+data sets</a>: computer tools for recognizing when a numerical simulation
+is going bad, when an atmospheric data set contains a hurricane, when two photos of the sky show 
+the emergence of a supernova, etc.</li>
+
+</ul>
+
+<p>Many of the links in the "Current Projects" section above point to documents that describe 
+current research opportunities.  These range from one-semester undergraduate research projects 
+through M.S. and Ph.D. theses to postdoctoral appointments.  Please shoot me an email message 
+if you're interested in any of these opportunities.  And I'm happy to work with smart, independent 
+students on projects of their own choosing, even if I don't know much about the associated area.
+Here are some examples:
+
+<ul>
+<li> <a href="http://jessicalandreth95.wix.com/research">Recognition of
+bird calls</a></li>
+
+<li> <a href="http://kenny.gruchalla.org/research.html">Scientific
+	visualization</a></li>
+
+<li> <a href="https://www.colorado.edu/biofrontiers/2012/02/01/multi-discipline-research-makes-big-impact">
+	Agent-based optimization of residential landscape design</a></li>
+<!--
+	(click <a
+	href="http:/worldartsme.com/blog/archives/476">
+	here</a> for a Russian translation of that feature).
+-->
+
+<li> <a href="http://www.dailycamera.com/boulder/ci_19064233">
+Optimization algorithms for food-waste redistribution</a> (this work is also featured in <a href="http://biofrontiers.colorado.edu/news/multi-discipline-research-makes-a-big-impact"> the 
+news feature in the previous bullet</a> and has since grown into
+<a href="http://www.fastcoexist.com/3025169/engineering-an-end-to-food-waste-with-smarter-logistics-for-our-leftovers">
+other projects</a>).</li>
+<!-- Emilia Costales <emilia.costales@Colorado.EDU -->
+</ul>
+</p>
+
+      </div>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const sidebar = document.getElementById("sidebar");
+    const headings = document.querySelectorAll(".main-content h3");
+
+    if (headings.length > 0) {
+      const navList = document.createElement("ul");
+
+      headings.forEach((heading, index) => {
+        const listItem = document.createElement("li");
+        const link = document.createElement("a");
+        const id = `heading-${index}`;
+
+        heading.id = id;
+        link.href = `#${id}`;
+        link.textContent = heading.textContent;
+
+        listItem.appendChild(link);
+        navList.appendChild(listItem);
+      });
+
+      sidebar.appendChild(navList);
+
+      const links = navList.querySelectorAll("a");
+
+      // Adding scroll behavior when clicking on links
+      links.forEach((link) => {
+        link.addEventListener("click", function(event) {
+          event.preventDefault();
+          const targetId = this.getAttribute("href").substring(1);
+          const targetElement = document.getElementById(targetId);
+
+          // Scroll to the target element with an offset of 70px
+          window.scrollTo({
+            top: targetElement.offsetTop - 70,
+            behavior: "smooth"
+          });
+        });
+      });
+
+      // Adding active class based on scroll position
+      window.addEventListener("scroll", function() {
+        let current = "";
+
+        headings.forEach((heading) => {
+          const headingTop = heading.getBoundingClientRect().top;
+          if (headingTop <= 70) { // Adjusting for the offset
+            current = heading.getAttribute("id");
+          }
+        });
+
+        links.forEach((link) => {
+          link.classList.remove("active");
+          if (link.getAttribute("href").substring(1) === current) {
+            link.classList.add("active");
+          }
+        });
+      });
+    }
+  });
+</script>
+
+      
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+      
+        
+      
+        
+          <li><a href="https://ashwinumadi.github.io" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+        
+      
+        
+      
+        
+      
+    
+
+    
+      <li><a href="/bradley_lab/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<p style="font-size: small;">Check out the home page of the <A HREF="http://www.cs.colorado.edu" style="color: blue;font-size: small;">Computer Science Department</A> at
+  the <A HREF="http://www.colorado.edu" style="color: blue;">University of Colorado</A> for more information.</p>
+
+<BR>
+
+<div class="page__footer-copyright">&copy; 2024 <a href="http://localhost:4000">Bradley Lab</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/bradley_lab/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+
+
+  </body>
+</html>

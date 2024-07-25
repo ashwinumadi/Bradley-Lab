@@ -1,0 +1,105 @@
+==================================================================
+LINUX:
+========
+
+If you follow the "Installation" instructions on the TISEAN website,
+you may get an error message that tells you to install gfortran --
+which you can do, for instance, with
+
+   apt install gfortran
+
+When you compile using gfortran/gcc, you'll probably get a bunch of
+errors.  Most of them can be ignored, but you may need to change line
+50 of source_f/cluster.f from:
+
+    999  if(iv_io(iverb).eq.1) write(0,'(a,i)') "matrix size ", np
+
+to have the length of the formatted integer specified, e.g.:
+
+    999  if(iv_io(iverb).eq.1) write(0,'(a,i8)') "matrix size ", np
+
+Regarding the pyTisean wrapper: check out these github repos...
+
+https://github.com/yidk/pytisean
+https://github.com/BrianGlassman/pytisean
+
+FYI the github repo for PyTisean is more up to date than the PyPi
+version (which gets installed by default when using pip).  The github
+version can be installed with
+
+    pip install git+https://github.com/bogeholm/pytisean.
+
+[[Aren't computers wonderful???  <not>]]
+
+Windows:
+
+Just download the binaries and run them from the Windows command
+prompt.
+
+Some folks have gotten TISEAN to work by copying the executable files
+in the Bin folder of the Windows TISEAN Package and using the command
+prompt through MatLab's system( ) function.  
+
+For example if 'mutual.exe' and 'datafile' are in the current
+folder, we can run:
+
+  system('mutual datafile -o output')
+
+which creates the 'output' file in the current Matlab directory..
+
+==================================================================
+MAC:
+=====
+
+Download the binaries from the Tisean website, then install them and
+fire up a Terminal window.  Navigate to the Tisean folder to run the
+commands.  You may need to use the ./ syntax - i.e.,
+
+./mutual datafile -o outputfile
+
+rather than just mutual datafile -o outputfile.
+
+Sadly, if simply downloading the binaries doesn't work for you and
+you're not a unix hacker who can go under the hood using the Linux
+instructions above, you may want to consider using the CSEL version.
+
+'brew tap brewsci/science' followed by 'brew install tisean' has
+worked in the past on Macs, but leaves the commands prefaced by a '-'
+... i.e., 'tisean-mutual'.  Unfortunately, that stopped working in
+early 2022 because of backward compatibility issues with a new python
+release and I'm not sure if it's fixed yet.  
+
+If you do get it working, please please let me know so I can update
+this help doc!
+
+==================================================================
+In the CSEL:
+=============
+
+TISEAN is in /usr/lib/tisean on all of the CSEL desktops, as well as
+these two ssh-accessible machines:
+
+ elra-01.cs.colorado.edu
+ elra-02.cs.colorado.edu
+
+You can sign up for an account on these machines by going to
+sac.colorado.edu and choosing "CSEL" from the dropdown.  If you have
+any trouble, email trouble@cs.colorado.edu.
+
+The IT folks were kind enough to add a shell function called 'tisean'
+that will put /usr/lib/tisean in your $PATH.  Just open up a shell,
+type 'tisean', then all of the tools should be available to you.
+
+To run {\tt mutual}, for instance, you would just type the command
+name and then the arguments that specify how you want to run it (e.g.,
+what input data, what parameter values, how you want it to output the
+data):
+
+   mutual datafile -o outputfile
+
+If that doesn't work, try using the ./ syntax described above:
+
+   ./mutual datafile -o outputfile
+
+
+

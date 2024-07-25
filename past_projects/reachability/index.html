@@ -1,0 +1,486 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.26.2 by Michael Rose
+  Copyright 2013-2024 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+
+<html lang="en-US" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Bradley Lab - Bradley Lab</title>
+<meta name="description" content="">
+
+
+  <meta name="author" content="Your Name">
+  
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Bradley Lab">
+<meta property="og:title" content="Bradley Lab">
+<meta property="og:url" content="http://localhost:4000/bradley_lab/past_projects/reachability/">
+
+
+  <meta property="og:description" content="">
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="http://localhost:4000/bradley_lab/past_projects/reachability/">
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/bradley_lab/feed.xml" type="application/atom+xml" rel="alternate" title="Bradley Lab Feed">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script type="text/javascript">
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/bradley_lab/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--general_content" dir="ltr">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+          
+          <a class="site-title" href="/bradley_lab/" style='color:#7393B3'>
+            Bradley Lab
+            
+          </a>
+          <ul class="visible-links"><li class="masthead__menu-item">
+                <a
+                  href="/bradley_lab/research/"
+                  
+                  
+                ><span style='color:#7393B3'>Research</span></a>
+              </li><li class="masthead__menu-item">
+                <a
+                  href="/bradley_lab/course_materials/"
+                  
+                  
+                ><span style='color:#7393B3'>Course Materials</span></a>
+              </li><li class="masthead__menu-item">
+                <a
+                  href="/bradley_lab/publications/"
+                  
+                  
+                ><span style='color:#7393B3'>Publications</span></a>
+              </li><li class="masthead__menu-item">
+                <a
+                  href="/bradley_lab/vita/"
+                  
+                  
+                ><span style='color:#7393B3'>Vita</span></a>
+              </li><li class="masthead__menu-item">
+                <a
+                  href="/bradley_lab/#people"
+                  
+                  
+                ><span style='color:#7393B3'>People</span></a>
+              </li><li class="masthead__menu-item">
+                <a
+                  href="/bradley_lab/#contact"
+                  
+                  
+                ><span style='color:#7393B3'>Contact</span></a>
+              </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      <style>
+    .content-container {
+      padding-left: 10px; /* Adjust the padding as needed */
+      margin: 0 auto;
+      /*max-width: 1200px;*/
+      display: flex;
+    }
+    .sidebar {
+      width: 20%;
+      padding: 2px;
+      /*background-color: #f8f9fa;
+      top: 10px;
+      left: 10px;
+      max-height: 100vh;
+      overflow-y: auto;
+      height: 100%;
+      border: 1px solid gray;
+      max-height: none;*/
+      position: fixed;
+      padding-top: 5px;
+      height: 60vh;
+      box-sizing: border-box;
+      border-radius: 5px;
+      box-shadow: 0 12px 24px rgba(222, 34, 34, 0.1);
+      overflow-y: auto;
+      font-size: x-large;
+    }
+    .sidebar ul {
+      list-style-type: none; /* Remove bullet points */
+      padding: 0;
+    }
+    .sidebar ul li a {
+      font-weight: bold; /* Make each line appear bold */
+      text-decoration: none;
+      display: block;
+      padding: 5px 0;
+    }
+    .sidebar ul li a.active {
+      background-color: white; /* Stylish white background for active link */
+      border-radius: 5px; /* Optional: rounded corners for active link */
+    }
+    .main-content {
+      /*width: 70%;
+      margin-left: 25%;*/
+      padding-left: 25%;
+      padding-right: 5%;
+      overflow-y: auto;
+    }
+    body {
+      font-family: Arial, sans-serif;
+      font-size:large;
+      line-height: 1.6;
+      overflow-x: hidden;
+    }
+    /*header, footer {
+      background-color: #f8f9fa;
+      padding: 10px 0;
+      text-align: center;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 20px;
+      color: #343a40;
+    }
+    a {
+      color: #007bff;
+      text-decoration: none;
+    }*/
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+
+<div class="content-container">
+    <div class="sidebar" id="sidebar">
+        <!-- Sidebar content will be generated by JavaScript -->
+      </div>
+      <div class="main-content">
+          <h2>Automatic Computation of Reachability Sets</h2>
+
+<h3>Project Description</h3>
+
+<p>In space mission planning, scenarios that lead to mission failure,
+such as impact and escape for a small body orbiter, must be discovered
+and avoided.  This problem becomes challenging if the spacecraft
+cannot communicate with Earth in sufficient time to make a decision,
+or if the dynamics of the system are unknown or uncertain, as in
+asteroid systems.  This paper introduces a technique for automatically
+and intelligently exploring the <i>reachability set </i> of a
+spacecraft: the set of trajectories from a given initial condition
+that are possible under a specified range of control actions, so that
+delta-v expenditures leading to failure can be identified and avoided.</p>
+
+<p>The high dimension of this problem and the nonlinear nature of
+gravitational interactions make reachability sets hard to compute and
+all but impossible to visualize.  Currently, analytical approximations
+and heuristic reasoning about variations on known solutions are
+employed to plan space missions.  This could both miss out on novel
+and improved design solutions, and also be impractical in unknown
+environments.  The goal of this work is to automatically map out the
+regions that lead to failure and success.  Brute-force exploration of
+reachability sets is computationally prohibitive, so one must focus on
+regions of interest: the boundaries between impact, escape, and
+in-system regions, known collectively as the <i> end result</i>
+regions.  Doing so results in higher quality reachability sets with
+less error, leading to improved confidence in planning.</p>
+
+<p>Reachability sets are defined from a given initial condition with a
+given range of velocity impulses.  If the spacecraft’s engine can
+deliver an impulse of up to 1 unit in any direction, for instance, the
+set of possible velocity impulses forms a sphere (or disk, in 2D) of
+radius 1.  A naive way to explore the reachability set, then, is to
+randomly choose a number of points on the delta-v surface
+(“exploration points”), integrate them forward in time to the mission
+horizon, and determine whether the associated trajectory impacts one
+of the bodies, remains in the system without impacting, or escapes the
+system.  The image below shows a set of trajectories in the circular
+restricted three-body problem at two different timepoints in such an
+exploration:</p>
+
+<p><a href="/bradley_lab/assets/images/CRTBP.jpg" height="500" onmousemove="window.status='Show this image a little larger'; return true"><img src="/bradley_lab/assets/images/CRTBP.jpg" height="250" /></a></p>
+
+<p>In the image below, regions of the delta-v disk are color coded
+according to the outcomes of those trajectories: green and red for
+impacts on each of the two bodies, blue for in-system trajectories,
+and yellow for escapes.  The black points are the randomly-chosen
+seeds; those points are used to generate simplices that form a mesh of
+the surface.  Each simplex is colored according to the outcome(s) of
+its vertices.</p>
+
+<p><a href="/bradley_lab/assets/images/nonadaptive-CRTBP.jpg" height="600" onmousemove="window.status='Show this image a little larger'; return true"><img src="/bradley_lab/assets/images/nonadaptive-CRTBP.jpg" height="400" /></a></p>
+
+<p>Obviously, choosing more exploration points on the initial delta-v
+disk will produce a finer-grained picture of the outcomes, but it will
+also increase the computational complexity of the process.  The
+intellectual contribution of this project is a set of algorithms for
+adaptively refining the choice of exploration points in order to zero
+in on important regions of the reachability set while ignoring
+unimportant regions.  This focuses the computational effort where it
+is most needed.</p>
+
+<p>The image below shows a reachability set for the same problem as
+in the image above, computed by these algorithms.  The number of
+vertices in the mesh is the same, but the algorithm has distributed
+those vertices in a way that exposes the geometry of the region
+boundaries.  The refinement of the boundaries between the regions is
+significant, but the computational effort of the adaptive algorithm is
+only somewhat higher.</p>
+
+<p><a href="/bradley_lab/assets/images/adaptive-CRTBP.jpg" height="600" onmousemove="window.status='Show this image a little larger'; return true"><img src="/bradley_lab/assets/images/adaptive-CRTBP.jpg" height="400" /></a></p>
+
+<p>See the papers below for more information on these ideas, issues,
+and solutions.</p>
+
+<h3> People</h3>
+<ul> 
+    <li>
+    <a href="http://ccar.colorado.edu/scheeres/Scheeres/Home.html">Professor
+    Dan Scheeres</a> of the Aerospace Engineering Department.
+    </li>
+    <li> PhD student <a href="http://correll.cs.colorado.edu/?page_id=1214/">Erik
+    Komendera</a> did the first round of work on this project.
+    </li>
+    <li>
+    PhD student David Surovik is taking the next steps.
+    </li>
+    <li>
+    PhD student <a href="http://csel.cs.colorado.edu/~garlanjt/">Joshua Garland</a> is
+    helping along the way.</li>
+    <li> <a href="/bradley_lab/"> Liz Bradley</a>, Professor of Computer
+    Science.
+    </li>
+</ul>
+
+<h3> Papers</h3>
+
+<ul>
+    <li> E. Komendera, D. Scheeres, and E. Bradley,
+    ``Intelligent Computation of Reachability Sets for Space Missions,''
+    <i> IAAI-12 (Proceedings of the 24th Conference on Innovative
+    Applications of Artificial Intelligence)</i>, Toronto; July 2012.
+    </li>
+    <li> E. Bradley, E. Komendera, and D. Scheeres, ``Efficiently Locating
+    Impact and Escape Scenarios in Spacecraft Reachability Sets,''
+    <i>AIAA/AAS Astrodynamics Specialist Conference</i>, Minneapolis; doi:
+    10.2514/6.2012-4810; eISBN: 978-1-62410-182-3; August 2012.
+    </li>
+</ul>
+
+<h3> Support</h3>
+<ul>
+    <li>
+    An Innovative Seed Grant from the Office of the Vice Chancellor
+    for Research at the University of Colorado.
+    </li>
+</ul>
+
+<p><img src="/bradley_lab/assets/gifs/rainbow.gif" width="350" height="5" /></p>
+
+<p>View <a href="http://www.pkwteile.ch/science/?p=52"> Mary Orban’s
+translation of this page into Slovenian</a> (Note: we do not speak
+Slovenian and cannot check the correspondence between this translation
+and the material above).</p>
+
+
+      </div>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const sidebar = document.getElementById("sidebar");
+    const headings = document.querySelectorAll(".main-content h3");
+
+    if (headings.length > 0) {
+      const navList = document.createElement("ul");
+
+      headings.forEach((heading, index) => {
+        const listItem = document.createElement("li");
+        const link = document.createElement("a");
+        const id = `heading-${index}`;
+
+        heading.id = id;
+        link.href = `#${id}`;
+        link.textContent = heading.textContent;
+
+        listItem.appendChild(link);
+        navList.appendChild(listItem);
+      });
+
+      sidebar.appendChild(navList);
+
+      const links = navList.querySelectorAll("a");
+
+      // Adding scroll behavior when clicking on links
+      links.forEach((link) => {
+        link.addEventListener("click", function(event) {
+          event.preventDefault();
+          const targetId = this.getAttribute("href").substring(1);
+          const targetElement = document.getElementById(targetId);
+
+          // Scroll to the target element with an offset of 70px
+          window.scrollTo({
+            top: targetElement.offsetTop - 70,
+            behavior: "smooth"
+          });
+        });
+      });
+
+      // Adding active class based on scroll position
+      window.addEventListener("scroll", function() {
+        let current = "";
+
+        headings.forEach((heading) => {
+          const headingTop = heading.getBoundingClientRect().top;
+          if (headingTop <= 70) { // Adjusting for the offset
+            current = heading.getAttribute("id");
+          }
+        });
+
+        links.forEach((link) => {
+          link.classList.remove("active");
+          if (link.getAttribute("href").substring(1) === current) {
+            link.classList.add("active");
+          }
+        });
+      });
+    }
+  });
+</script>
+
+      
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+      
+        
+      
+        
+          <li><a href="https://ashwinumadi.github.io" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+        
+      
+        
+      
+        
+      
+    
+
+    
+      <li><a href="/bradley_lab/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<p style="font-size: small;">Check out the home page of the <A HREF="http://www.cs.colorado.edu" style="color: blue;font-size: small;">Computer Science Department</A> at
+  the <A HREF="http://www.colorado.edu" style="color: blue;">University of Colorado</A> for more information.</p>
+
+<BR>
+
+<div class="page__footer-copyright">&copy; 2024 <a href="http://localhost:4000">Bradley Lab</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/bradley_lab/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+
+
+  </body>
+</html>

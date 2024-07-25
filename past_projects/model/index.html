@@ -1,0 +1,595 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.26.2 by Michael Rose
+  Copyright 2013-2024 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+
+<html lang="en-US" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Bradley Lab - Bradley Lab</title>
+<meta name="description" content="">
+
+
+  <meta name="author" content="Your Name">
+  
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Bradley Lab">
+<meta property="og:title" content="Bradley Lab">
+<meta property="og:url" content="http://localhost:4000/bradley_lab/past_projects/model/">
+
+
+  <meta property="og:description" content="">
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="http://localhost:4000/bradley_lab/past_projects/model/">
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/bradley_lab/feed.xml" type="application/atom+xml" rel="alternate" title="Bradley Lab Feed">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script type="text/javascript">
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/bradley_lab/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--general_content" dir="ltr">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+          
+          <a class="site-title" href="/bradley_lab/" style='color:#7393B3'>
+            Bradley Lab
+            
+          </a>
+          <ul class="visible-links"><li class="masthead__menu-item">
+                <a
+                  href="/bradley_lab/research/"
+                  
+                  
+                ><span style='color:#7393B3'>Research</span></a>
+              </li><li class="masthead__menu-item">
+                <a
+                  href="/bradley_lab/course_materials/"
+                  
+                  
+                ><span style='color:#7393B3'>Course Materials</span></a>
+              </li><li class="masthead__menu-item">
+                <a
+                  href="/bradley_lab/publications/"
+                  
+                  
+                ><span style='color:#7393B3'>Publications</span></a>
+              </li><li class="masthead__menu-item">
+                <a
+                  href="/bradley_lab/vita/"
+                  
+                  
+                ><span style='color:#7393B3'>Vita</span></a>
+              </li><li class="masthead__menu-item">
+                <a
+                  href="/bradley_lab/#people"
+                  
+                  
+                ><span style='color:#7393B3'>People</span></a>
+              </li><li class="masthead__menu-item">
+                <a
+                  href="/bradley_lab/#contact"
+                  
+                  
+                ><span style='color:#7393B3'>Contact</span></a>
+              </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      <style>
+    .content-container {
+      padding-left: 10px; /* Adjust the padding as needed */
+      margin: 0 auto;
+      /*max-width: 1200px;*/
+      display: flex;
+    }
+    .sidebar {
+      width: 20%;
+      padding: 2px;
+      /*background-color: #f8f9fa;
+      top: 10px;
+      left: 10px;
+      max-height: 100vh;
+      overflow-y: auto;
+      height: 100%;
+      border: 1px solid gray;
+      max-height: none;*/
+      position: fixed;
+      padding-top: 5px;
+      height: 60vh;
+      box-sizing: border-box;
+      border-radius: 5px;
+      box-shadow: 0 12px 24px rgba(222, 34, 34, 0.1);
+      overflow-y: auto;
+      font-size: x-large;
+    }
+    .sidebar ul {
+      list-style-type: none; /* Remove bullet points */
+      padding: 0;
+    }
+    .sidebar ul li a {
+      font-weight: bold; /* Make each line appear bold */
+      text-decoration: none;
+      display: block;
+      padding: 5px 0;
+    }
+    .sidebar ul li a.active {
+      background-color: white; /* Stylish white background for active link */
+      border-radius: 5px; /* Optional: rounded corners for active link */
+    }
+    .main-content {
+      /*width: 70%;
+      margin-left: 25%;*/
+      padding-left: 25%;
+      padding-right: 5%;
+      overflow-y: auto;
+    }
+    body {
+      font-family: Arial, sans-serif;
+      font-size:large;
+      line-height: 1.6;
+      overflow-x: hidden;
+    }
+    /*header, footer {
+      background-color: #f8f9fa;
+      padding: 10px 0;
+      text-align: center;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 20px;
+      color: #343a40;
+    }
+    a {
+      color: #007bff;
+      text-decoration: none;
+    }*/
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+
+<div class="content-container">
+    <div class="sidebar" id="sidebar">
+        <!-- Sidebar content will be generated by JavaScript -->
+      </div>
+      <div class="main-content">
+          <h2>
+Automatic Construction of Accurate Models of Physical Systems
+</h2>
+
+<!--
+<p>
+<a href="http://www.piecesauto.fr/science/?p=202">View a translation
+of this page into Polish</a>
+-->
+
+<h3>Project Description</h3>
+
+<p>PRET automates the process that control theorists call <i> system
+identification</i>: deducing the internal dynamics of a black-box
+system solely from observations of its outputs.  PRET builds ordinary
+differential equation (ODE) models of physical systems, linear or
+nonlinear; it accomplishes this by wrapping a layer of AI techniques
+around a core of traditional system identification (SID) methods.
+This AI layer executes many of the high-level parts of the SID
+procedure that are normally performed by a human expert: it
+intelligently assesses the situation at each stage of the process and
+then reasons from the available information to automatically choose,
+invoke, and interpret the results of appropriate lower-level
+techniques.  During its parameter estimation phase, for example, PRET
+uses qualitative reasoning techniques to derive good starting values
+for a nonlinear least-squares solver call, allowing the latter to
+avoid local extrema in the regression landscape.  Like human experts,
+PRET uses a heterogeneous collection of reasoning modes during the
+model-building process, and the intelligent orchestration of these
+modes is critical to its success.  This knowledge representation and
+reasoning task is performed by a special first-order logic system,
+which selects and coordinates the appropriate reasoning tactics in
+order to guide the search quickly and accurately to an ODE model that
+accounts for the important behavior of the system.</p>
+
+<p>PRET is designed to be an engineer’s tool; because of this, it differs
+sharply from other AI modeling programs in a variety of important
+ways.  First, it explicitly avoids all attempts to “discover” any
+physics that falls outside its user’s specifications; rather, it works
+very hard to find a <i>minimal</i> model - one that matches the
+observations to within a user-prescribed resolution, and no more.
+Second, it does not adhere to a single, neat paradigm; rather, it
+calls upon a wide variety of reasoning techniques, ranging from
+classic AI ideas like constraint propagation to standard engineering
+tricks like power series, and it works hard to use the right technique
+at the right time.  This mix of methods is the source of PRET’s
+ability to solve real-world problems in a variety of engineering
+domains.  Third, PRET works directly with the physical world, using
+sensors and actuators to interact with its target systems — an
+<i>input/output modeling</i> approach that is both very powerful and
+extremely difficult because of the nonlinear control theory that is
+involved.</p>
+
+<p>In terms of performance, PRET attained the functional level of a smart
+undergraduate.  It solves garden-variety textbook SID problems fairly
+well, struggles occasionally with the harder ones, and has
+successfully (with some minor hand-holding concerning the
+relationships between different coordinate systems) modeled one
+real-world system: a <a href="/bradley_lab/assets/images/rccar.ps">radio-controlled
+car</a> destined for use in a soccer-playing robot project.  SID is an
+essential first step in the design of a system like this; without an
+accurate ODE model of the car’s dynamics, it is impossible to build a
+controller to direct its behavior according to a plan - and ODEs are
+not part of a Radio Shack spec sheet.  From an engineering standpoint,
+modeling this device is a nontrivial accomplishment; nonlinear SID is
+considered to be an open problem.  The AI issues in this example were
+also interesting: PRET not only duplicated the model that the project
+analyst had derived by hand; interacting with the AI tool also helped
+the human expert refine his explicit mental model of the system.</p>
+
+<h3> People</h3>
+
+<ul>
+    <li>
+    <a href="/bradley_lab/"> Prof. Liz Bradley</a>, project leader.
+    </li>
+    <li>
+    <a href="http://www.cs.colorado.edu/~easley/Home.html">Matt
+    Easley</a>, who finished his Ph.D. in 2000, developed representation
+    and reasoning facilities for model building and input/output modeling.
+    </li>
+    <li>
+    Apollo Hogan, an undergraduate research assistant, wrote PRET's
+    GUI and helped Reinhard with lots of other bits and pieces.
+    </li>
+    <li>
+    <a href="liz-and-bal-on-audubon.html">Brian LaMacchia</a>, a
+    postdoc, helped write some of PRET's symbolic algebra facilities.
+    </li> <!-- Chheck this -->
+    <li>
+    Janet Rogers and Abbie O'Gallagher of NIST helped write PRET's
+    nonlinear parameter estimator.
+    </li>
+    <li>
+    <a href="http://www.cs.colorado.edu/~stolle/Home.html">Reinhard
+    Stolle</a>, who finished his Ph.D. in 1998, designed and implemented
+    PRET's model tester and its declarative reasoning techniques.  He also
+    played a key role in most of the main design decisions on the project
+    as a whole.
+    </li>
+    <li>
+    Tom Wrensch wrote PRET's qualitative simulator.
+    </li>
+</ul>
+
+<h3> Papers</h3>
+
+<p>For space reasons, sets of closely related papers
+have been pruned.  See my <a href="/bradley_lab/publications/">publications</a>
+page for a complete list, and please <a href="#contact">contact</a> me for reprints if what you want isn’t
+here (or won’t download).</p>
+
+<ul>
+    <li>
+    <b>General: </b>
+    <ul>
+        <li> R. Stolle, M. Easley, and E. Bradley, "Reasoning about Models of
+        Nonlinear Systems," in <i> Logical and Computational Aspects of
+        Model-Based Reasoning</i>, L. Magnani <i>et al.</i>, eds. Kluwer,
+        2002.
+        </li>
+        <li>
+        E. Bradley, M. Easley, and R. Stolle, <a href="/bradley_lab/assets/papers/aij.html">"Reasoning about nonlinear system
+        identification,"</a> <i> Artificial Intelligence</i> <b>
+        133</b>:139-188 (2001)
+        </li><!-- Check this -->
+        <li>
+        E. Bradley and R. Stolle, <a href="/bradley_lab/assets/papers/ai-math95.pdf">"Automatic Construction of Accurate
+        Models of Physical Systems,"</a> <i> Annals of Mathematics and
+        Artificial Intelligence</i>, <b>17</b>:1-28 (1996).
+        </li>
+    </ul>
+    </li>
+    <li>
+    <b>Knowledge representation and reasoning: </b>
+    <ul>
+        <li>
+        R. Stolle, A. Hogan, and E. Bradley, "Agenda Control for
+        Heterogeneous Reasoners," <i> Journal of Logic and Algebraic
+        Programming </i> <b> 62</b>:41-69 (2005)
+        </li>
+        <li>
+        M. Easley and E. Bradley, "Incorporating Engineering Formalisms
+        into Automated Model Builders," in <i>The Computational Discovery of
+        Communicable Knowledge</i>, L. Todorovski and S. Dzeroski, eds.
+        Springer, 2004.
+        </li>
+        <li>
+        R. Stolle and E. Bradley, "Communicable Knowledge in Automated
+        System Identification," in <i>The Computational Discovery of
+        Communicable Knowledge</i>, L. Todorovski and S. Dzeroski, eds.,
+        Springer 2004.
+        </li>
+        <li>
+        M. Easley and E. Bradley, "Meta-domains for automated system
+        identification," <i>Smart Engineering System Design (ANNIE)</i>
+        St. Louis; November 2000.  Also available as <a href="http://www.cs.colorado.edu/department/publications/reports/reports.html">
+        Department of Computer Science Technical Report</a> CU-CS-904-00
+        </li>
+        <li>
+        M. Easley and E. Bradley, <a href="/bradley_lab/assets/papers/ijcai99.pdf">"Generalized physical networks for model
+        building,"</a> Proceedings <a href="http://www.ijcai.org"> <i>
+        International Joint Conference on Artificial Intelligence </i>
+        (IJCAI)</a>, Stockholm, August 1999.
+        </li>
+        <li>
+        R. Stolle and E. Bradley, <a href="/bradley_lab/assets/papers/stolle-aaai98.html">"Multimodal Reasoning for Automatic
+        Model Construction"</a>, <i>Proceedings <a href="http://www.aaai.org/Conferences/National/1998/aaai98.html">Fifteenth
+        National Conference on Artificial Intelligence 1998 (AAAI-98)</a></i>,
+        Madison, Wisconsin, July 1998.
+        </li>
+        <li>
+        R. Stolle and E. Bradley, <a href="/bradley_lab/resources/stolle-ijcai97/">"Opportunistic modeling,"</a> <i>
+        Proceedings of the IJCAI (International Joint Conference on
+        Artificial Intelligence) Workshop on Engineering Problems in
+        Qualitative Reasoning</i>, Nagoya Japan; August 1997.
+        </li>
+    </ul>
+    </li>
+    <li>
+    <b>Input/output modeling:</b>
+    <ul>
+        <li> M. Easley and E. Bradley, "Information Granulation in Automated
+        Modeling," in W. Pedrycz, editor, <i>Granular Computing: An Emerging
+        Paradigm</i>, Physica-Verlag, 2001.
+        </li>
+        <li>
+        M. Easley and E. Bradley, "Intelligent Sensor Analysis and
+        Actuator Control," <i>IDA-01 (International Symposium on Intelligent
+        Data Analysis)</i>, Lisbon; September 2001.
+        </li>
+        <li>
+        M. Easley and E. Bradley, <a href="/bradley_lab/assets/papers/ida99.pdf">"Reasoning
+        about input-output modeling of dynamical systems,"</a> <i><a href="http://www.wi.leidenuniv.nl/~ida99/"> International Symposium on
+        Intelligent Data Analysis</a> (IDA)</i>, Amsterdam; August 1999.
+        </li>
+        <li>
+        E. Bradley and M. Easley, <a href="/bradley_lab/assets/papers/easley-ida98.pdf">"Reasoning About Sensor Data for
+        Automated System Identification,"</a> <i>Intelligent Data Analysis: An
+        International Journal</i>, volume 2, number 2, Elsevier Science
+        (1998).
+        </li>
+    </ul>
+    </li>
+    <li> <b>Nonlinear parameter estimation: </b>
+    <ul>
+        <li> E. Bradley, A. O'Gallagher, and J. Rogers, <a href="/bradley_lab/assets/papers/ai-math98.html">"Global Solutions for Nonlinear Systems
+        using Qualitative Reasoning,"</a> <i>Annals of Mathematics and
+        Artificial Intelligence</i> <b> 23</b>:211-228 (1998)
+        </li>
+    </ul>
+    </li>
+</ul>
+
+<h3> Links</h3>
+<ul>
+    <li> The qualitative reasoning/qualitative physics <a href="http://ai-www.aist-nara.ac.jp/doc/qphysics/">home page</a>.
+    </li>
+</ul>
+
+<h3> Support</h3>
+<ul>
+    <li> This material is based upon work supported by the National
+    Science Foundation under grant numbers MIP-9403223 and National Young
+    Investigator Award CCR-9357740, by the Office of Naval Research under
+    grant number N00014-96-1-0720, and by a Packard Fellowship in Science
+    and Engineering.  Any opinions, findings, and conclusions or
+    recommendations expressed in this material are those of the author(s)
+    and do not necessarily reflect the views of these funding agencies.
+    </li>
+</ul>
+
+<p><br />
+<img src="/bradley_lab/assets/gifs/rainbow.gif" width="350" height="5" /></p>
+
+
+      </div>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const sidebar = document.getElementById("sidebar");
+    const headings = document.querySelectorAll(".main-content h3");
+
+    if (headings.length > 0) {
+      const navList = document.createElement("ul");
+
+      headings.forEach((heading, index) => {
+        const listItem = document.createElement("li");
+        const link = document.createElement("a");
+        const id = `heading-${index}`;
+
+        heading.id = id;
+        link.href = `#${id}`;
+        link.textContent = heading.textContent;
+
+        listItem.appendChild(link);
+        navList.appendChild(listItem);
+      });
+
+      sidebar.appendChild(navList);
+
+      const links = navList.querySelectorAll("a");
+
+      // Adding scroll behavior when clicking on links
+      links.forEach((link) => {
+        link.addEventListener("click", function(event) {
+          event.preventDefault();
+          const targetId = this.getAttribute("href").substring(1);
+          const targetElement = document.getElementById(targetId);
+
+          // Scroll to the target element with an offset of 70px
+          window.scrollTo({
+            top: targetElement.offsetTop - 70,
+            behavior: "smooth"
+          });
+        });
+      });
+
+      // Adding active class based on scroll position
+      window.addEventListener("scroll", function() {
+        let current = "";
+
+        headings.forEach((heading) => {
+          const headingTop = heading.getBoundingClientRect().top;
+          if (headingTop <= 70) { // Adjusting for the offset
+            current = heading.getAttribute("id");
+          }
+        });
+
+        links.forEach((link) => {
+          link.classList.remove("active");
+          if (link.getAttribute("href").substring(1) === current) {
+            link.classList.add("active");
+          }
+        });
+      });
+    }
+  });
+</script>
+
+      
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+      
+        
+      
+        
+          <li><a href="https://ashwinumadi.github.io" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+        
+      
+        
+      
+        
+      
+    
+
+    
+      <li><a href="/bradley_lab/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<p style="font-size: small;">Check out the home page of the <A HREF="http://www.cs.colorado.edu" style="color: blue;font-size: small;">Computer Science Department</A> at
+  the <A HREF="http://www.colorado.edu" style="color: blue;">University of Colorado</A> for more information.</p>
+
+<BR>
+
+<div class="page__footer-copyright">&copy; 2024 <a href="http://localhost:4000">Bradley Lab</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/bradley_lab/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+
+
+  </body>
+</html>
