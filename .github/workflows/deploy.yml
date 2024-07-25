@@ -33,7 +33,7 @@ jobs:
             echo "Changes detected. Committing and pushing changes."
             git add .
             git commit -m 'Pushing Ruby Scripts outputs'
-            git push origin master
+            git push origin main
         else
             echo "No changes detected. No commit or push performed."
         fi
