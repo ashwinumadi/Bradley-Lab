@@ -23,7 +23,7 @@ jobs:
         gem install bundler
         bundle install
 
-    - name: Run Ruby Scripts
+    - name: Run Ruby Scriptss
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
       run: |
