@@ -23,7 +23,7 @@ jobs:
         gem install bundler
         bundle install
 
-    - name: Run Automated Ruby Scripts
+    - name: Run Ruby Scripts
       env:
         GH_PAT: ${{ secrets.GH_PAT }}
       run: |
