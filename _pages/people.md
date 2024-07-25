@@ -2,6 +2,7 @@
 <h2> Current Research Collaborators</h2>
 </div>
 
+- [**Ashwin Umadi**](https://mbyers31.github.io), MS student, Computer Science.
 - [**Morgan Byers**](https://mbyers31.github.io), PhD student, Computer Science.
 - [**Lily Cothren**](https://lilycothren.netlify.app), PhD student, Electrical and Computer Engineering.
 - [**Varad Deshmukh**](http://vrd1243.github.io), Meta.
