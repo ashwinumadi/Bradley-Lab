@@ -18,7 +18,7 @@
 - **Srinivas Bhaskar**, is at Google.
 - **Nancy Collins**, is at NCAR.
 - [**Varad Deshmukh**](http://vrd1243.github.io), is at Meta.
-- **Matt Easley**, is the [deputy Principal Information Operations Advisor to the Under Secretary of Defense for Policy](https://www.defense.gov/About/Biographies/Biography/Article/2950348/major-general-matthew-p-easley/) working under the Assistant Secretary of Defense for Special Operations & Low-Intensity Conflict (ASD(SO/LIC)), in the official acronyms.
+- **Matt Easley**, is the [deputy Principal Information Operations Advisor to the Under Secretary of Defense for Policy](https://www.defense.gov/About/Biographies/Biography/Article/2950348/major-general-matthew-p-easley/) working under the Assistant Secretary of Defense for Special Operations & Low-Intensity Conflict (ASD(SO/LIC), in the official acronyms.
 - [**Joshua Garland**](https://news.asu.edu/20220207-university-news-researcher-joins-asu-battle-disinformation), is an Associate Research Professor in the Global Security Initiative at Arizona State University (see link above). Here's a [nice feature about him from DSWeb](https://dsweb.siam.org/Students/StudentFeature/TabId/798/ArtMID/1990/ArticleID/1693/Student-Feature-Joshua-Garland.aspx) and a [link to his thesis](https://arxiv.org/abs/1805.07360).
 - **James Garnett**, is somewhere in the Pacific Northwest.
 - [**Kenny Gruchalla**](http://kenny.gruchalla.org), leads the scientific visualization group at NREL.
