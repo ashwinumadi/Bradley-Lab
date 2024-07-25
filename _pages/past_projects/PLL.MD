@@ -42,7 +42,7 @@ capture range out to the original lock range limits.
 <h3> Papers </h3>
 <ul>
   <li>
-  E. Bradley, <a href="{{ '/resources/pll-casI/' | relative_url }}"> "Using Chaos to
+  E. Bradley, <a href="https://ieeexplore.ieee.org/document/251819"> "Using Chaos to
   Improve the Capture Range of a Phase-Locked Loop,"</a> <i> IEEE
   Transactions on Circuits and Systems</i>, <b> 40</b>:808-818 (1993).
   </li> <!-- CHECK THIS -->

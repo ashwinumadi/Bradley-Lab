@@ -414,7 +414,7 @@ See the papers listed below for more details on these points.
     </li>
     <li>
     Z. Ma, E. Bradley, T. Peacock, J. Hertzberg, and Y-C. Lee, <A
-    href="{{ 'papers/zhichun-ieee03.pdf.gz' | relative_url }}">"Solder-assembled large MEMS flaps
+    href="https://ieeexplore.ieee.org/document/1236527">"Solder-assembled large MEMS flaps
     for fluid mixing,"</a> <I>IEEE Transactions on Advanced Packaging</I>,
     <b>26</b>268-276 (2003)
     </li>

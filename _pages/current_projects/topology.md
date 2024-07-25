@@ -647,7 +647,7 @@ topology.  Here are a few that we've thought about:
     <li>
     <a href="{{ '/past_projects/sunspots/' | relative_url }}">characterizing sunspot shape</a> for the
     purposes of solar-flare prediction.</li>
-    <li> studying <a href="bee-tda.html">how bees cluster</a>.
+    <li> studying <a href="{{ '/current_project/bees/' | relative_url }}">how bees cluster</a>.
     </li>
 </ul>
 
@@ -788,7 +788,6 @@ topology.  Here are a few that we've thought about:
     A link to our <a href="https://github.com/lizbradley/PHETS">
     persistent homology on embedded time series (PHETS) code</a>.  If you
     find this code useful, please cite it via DOI 10.5281.zenodo.1245175.
-    Here is that citation in <a href="phets.bib">in bibtex format</a>.
     </li>
     <li>
     A link

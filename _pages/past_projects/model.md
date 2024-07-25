@@ -96,9 +96,8 @@ the human expert refine his explicit mental model of the system.
     GUI and helped Reinhard with lots of other bits and pieces.
     </li>
     <li>
-    <a href="liz-and-bal-on-audubon.html">Brian LaMacchia</a>, a
-    postdoc, helped write some of PRET's symbolic algebra facilities.
-    </li> <!-- Chheck this -->
+    <a href="https://www.brianlamacchia.net">Brian LaMacchia</a> helped write some of PRET's symbolic algebra facilities.
+    </li>
     <li>
     Janet Rogers and Abbie O'Gallagher of NIST helped write PRET's
     nonlinear parameter estimator.
@@ -136,10 +135,10 @@ here (or won't download).
         </li>
         <li>
         E. Bradley, M. Easley, and R. Stolle, <a
-        href="{{ '/assets/papers/aij.html' | relative_url }}">"Reasoning about nonlinear system
+        href="https://www.sciencedirect.com/science/article/pii/S0004370201001436">"Reasoning about nonlinear system
         identification,"</a> <i> Artificial Intelligence</i> <b>
         133</b>:139-188 (2001)
-        </li><!-- Check this -->
+        </li>
         <li>
         E. Bradley and R. Stolle, <a
         href="{{ '/assets/papers/ai-math95.pdf' | relative_url }}">"Automatic Construction of Accurate

@@ -121,11 +121,11 @@ true"><IMG SRC="{{ '/assets/RPs/images/fig4a_3D.jpg' | relative_url }}" height="
 </TR>
 </TABLE>
 
-These UPOs were found by Ricardo Mantilla's <a href="UPOcode.html">UPOExplorer program</a>, which is based on the
+These UPOs were found by Ricardo Mantilla's UPOExplorer program, which is based on the
 algorithms in "Chaos beyond Onset: A Comparison of Theory and
 Experiment, " <i>Physical Review Letters</i> <b>63:</b>1 (1989).  ODE
 and solver parameters can be found in the Bradley/Mantilla paper
-listed below. <!-- CHECK THIS -->
+listed below.
 
 
 On a recurrence plot, UPOs manifest in a visually obvious way.  The
@@ -178,20 +178,20 @@ for more details.
 <h3> Papers</h3>
 <ul>
     <li>
-    E. Bradley and R. Mantilla, <A href="papers/upo-rps.html"> <!-- CHECK THIS -->
+    E. Bradley and R. Mantilla, <A href="https://pubs.aip.org/aip/cha/article-abstract/12/3/596/447146/Recurrence-plots-and-unstable-periodic-orbits">
     "Recurrence plots and unstable periodic orbits." </A> <I>Chaos</I>
     <b>12</b>:596-600 (2002).  Auxiliary figures available <a
     href="{{ '/assets/RPs/rp-details.html' | relative_url }}">here</a>.
     </li>
     <li>
     J. Iwanski and E. Bradley, <a
-    href="{{ 'papers/iwanski-chaos98.html' | relative_url }}">"Recurrence plot analysis: To embed
+    href="https://pubs.aip.org/aip/cha/article-abstract/8/4/861/136051/Recurrence-plots-of-experimental-data-To-embed-or">"Recurrence plot analysis: To embed
     or not to embed?,"</a> <i> Chaos</i> <b>8</b>:861-871 (1998).
     <b>Addendum:</b> These results have been corroborated independently
     (e.g., J. Zbilut <i> et al., Physics Letters A</i>246:122 (1998)) but
     they do depend on the choice of norm, so the conclusions in this paper
     do not hold for all norms or all systems.
-    </li> <!-- CHECK THIS -->
+    </li>
 </ul>
 
 

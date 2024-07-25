@@ -388,7 +388,7 @@ motion-capture.  We are currently working on this problem....
     the 1998 <i>Chaos</i> paper listed above)
     </li>
     <li>
-    E. Bradley, D. Capps, and A. Rubin, <a href="{{ 'papers/idat99.html' | relative_url }}"> 
+    E. Bradley, D. Capps, and A. Rubin, <a href="{{ 'papers/idat99.pdf' | relative_url }}"> 
     "Can Computers Learn to Dance?,"</a> <i> International Conference on
     Dance and Technology</i>, Tempe, AZ; February 1999 (written for the dance world)
     </li> <!-- Check this -->
