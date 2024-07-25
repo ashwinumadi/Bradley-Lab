@@ -24,12 +24,15 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        ruby news_generator.rb
-        ruby publications_generator.rb
+        ruby ruby_scripts/affiliations_generator.rb
+        ruby ruby_scripts/contact_generator.rb
+        ruby ruby_scripts/course_page_generator.rb
+        ruby ruby_scripts/office_hours_generator.rb
+        ruby ruby_scripts/people_generator.rb
         if [[ -n $(git status --porcelain) ]]; then
             echo "Changes detected. Committing and pushing changes."
             git add .
-            git commit -m 'Generating News and Publications page'
+            git commit -m 'Pushing Ruby Scripts outputs'
             git push origin master
         else
             echo "No changes detected. No commit or push performed."
