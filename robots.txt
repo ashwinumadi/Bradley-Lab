@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/bradley_lab/sitemap.xml
+Sitemap: http://localhost:4000/Bradley-Lab/sitemap.xml
