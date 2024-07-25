@@ -1,0 +1,18 @@
+contact:
+  - label: "Email"
+    value: "lizb@cs.colorado.edu"
+    type: "email"
+  - label: "Phone"
+    value: "+1-303-492-5355"
+  - label: "Fax"
+    value: "+1-303-492-2844"
+  - label: "Office"
+    value: "7th Floor, Room ECOT 747"
+  - label: "URL"
+    value: "{{ '/' | relative_url }}"
+    type: "url"
+  - label: "Mail"
+    value: |
+      University of Colorado 430 UCB,
+      Department of Computer Science,
+      Boulder, CO 80309-0430 USA

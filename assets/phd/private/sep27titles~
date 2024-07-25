@@ -1,0 +1,1216 @@
+From Yogesh.Virkar@colorado.edu  Thu Sep 27 16:30:29 2012
+MIME-Version: 1.0 (Apple Message framework v1283)
+Content-type: text/plain; charset=us-ascii
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.2 required=5.0 tests=BAYES_00,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AtAGAGzSZFDAqBGa/2dsb2JhbABFDo4EsQCCYbk9iQiOFYJAYAOIWJ9oWg
+X-IronPort-AV: E=Sophos;i="4.80,498,1344232800"; 
+   d="scan'208";a="6645150"
+From: Yogesh Shrikant Virkar <Yogesh.Virkar@colorado.edu>
+Subject: Title for Sriram's talk
+Date: Thu, 27 Sep 2012 16:30:29 -0600
+To: lizb@cs.colorado.edu
+X-MIME-Autoconverted: from quoted-printable to 8bit by research.cs.colorado.edu id q8RMURQX030017
+
+Hi Liz,
+
+Here is my alternative title for Sriram's talk. 
+
+"Finding temporal logic falsification using the robustness metric: With application to optimal insulin infusion."
+
+Thanks,
+Yogesh
+
+
+
+From Ning.Gao@colorado.edu  Thu Sep 27 16:31:17 2012
+MIME-Version: 1.0 (Mac OS X Mail 6.1 \(1498\))
+Content-type: text/plain; charset=us-ascii
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.9 required=5.0 tests=BAYES_00 autolearn=ham
+	version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AtEGANjSZFDAqBGa/2dsb2JhbABFDo4EsQCCYRmBZIgYlnmYLIkIkFVgA4hYnTyCLFo
+X-IronPort-AV: E=Sophos;i="4.80,498,1344232800"; 
+   d="scan'208";a="6574332"
+From: Ning Gao <Ning.Gao@colorado.edu>
+Subject: Another title for Sriram's Talk
+Date: Thu, 27 Sep 2012 16:31:00 -0600
+To: "lizb@cs.colorado.edu" <lizb@cs.colorado.edu>
+X-MIME-Autoconverted: from quoted-printable to 8bit by research.cs.colorado.edu id q8RMVFVe030111
+
+Hi, Liz
+I'm Ning Gao and another title for the talk is "fault detection in cyber systems".
+Thank you
+
+
+From josenavasmolina@gmail.com  Thu Sep 27 16:47:29 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=047d7b33d4cc34de9604cab6b9fa
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,HTML_MESSAGE autolearn=ham
+	version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Ar8FAN/WZFDRVaAzk2dsb2JhbABFDoU2AbctBIEMCCMBAQEBCQkoBCOCOQIsARseAxIIAQIFXQERAQUBPRqHUAEDD5Z1gmEJA4wlgnWFAAoZJw1ZiHUBBQyLUII5gyADiFiNEY5MFimDTFo
+X-IronPort-AV: E=Sophos;i="4.80,498,1344232800"; 
+   d="scan'208";a="37969635"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=ojF1ume5eesMrFM1eEQD1CAH3abA78WSmqumNffwooE=;
+        b=Eyj9zlR0ECYnxi65sXhTqlXnCGVe55b699gAKakYNpy42X56QH9bagbckroLA8V+1W
+         Iqzs21ei7reKH1DD9Eda1PYtpOEtBVAOxqNcATjodtCfWxbdyjtJbBpEHlIKyxGOknwk
+         Jo6a0mtYLoqUwJAiERmMED2kP9FsQSnx2V9yJBabZFDhGZpPJrPluMDczkFZmAUccnzJ
+         iwsaXKeoxx3XOpw83B2ggLrW8fXZTHr4AMdkgLDkBwDWCKn9/n5GNX0XwssK0AeJe0+N
+         +ay19kwJna+TcuExL3PV5lzwGpIFhVxFNrE8O935PIxPkGKrBfnwEZEmVXI0sSXesSIc
+         7Zgw==
+Date: Thu, 27 Sep 2012 16:47:26 -0600
+Subject: CSCI 6000 - Alternative title for Sriram's talk
+From: Jose Navas <josenavasmolina@gmail.com>
+To: lizb@cs.colorado.edu
+
+--047d7b33d4cc34de9604cab6b9fa
+Content-Type: text/plain; charset=ISO-8859-1
+
+S-Taliro: breaking Complex Cyber-Physical System models
+
+-- 
+Jose Navas
+
+--047d7b33d4cc34de9604cab6b9fa
+Content-Type: text/html; charset=ISO-8859-1
+
+S-Taliro: breaking Complex Cyber-Physical System models<br clear="all"><div><br></div>-- <br>Jose Navas<br>
+
+--047d7b33d4cc34de9604cab6b9fa--
+
+From nksconnor@gmail.com  Thu Sep 27 20:56:44 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=14dae9399871999c0604caba348c
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.8 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	HTML_MESSAGE,T_DKIM_INVALID autolearn=no version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AigCAC0RZVDRVdszm2dsb2JhbABFDoU2pkaReAgjAQEBAQEICRQUJ4IXIgIsATkDDQUIAQIFXRIBBQE9GodRAw+WcYJhCQOPGoUuJw1MiQIBBQyOE4MgA4hYjRGOTBYpgVaBdlo
+X-IronPort-AV: E=Sophos;i="4.80,498,1344232800"; 
+   d="scan'208";a="38043986"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:date:x-google-sender-auth:message-id:subject
+         :from:to:content-type;
+        bh=Bv2K4N//nWGDJth5cIyWz1FKsznOyqvrhBh7/71hY4I=;
+        b=EJXWb2/s1kEhKACvC2Illy6olzfwMNJR8D/VSXkKy+Kd/ue2Lz99uVLCL7DPs/mLqT
+         AOZhTZ7mPTdxyeCUHQBFJqa4NR5XUMBwuFUfPq1owZ23tDJUEQA2BAHAV1/0+JjVk3OF
+         RGNyreAKsJ8/uC28gUKA2vLSZKgL3if1a+DFwv2z8T9MKgLRVmiU2FImW8v45u9X54Re
+         CABHN3LOhqdf/qOiUXTgrM8UbJYhq5q8mbP2BIONRicDzuXQ2K4oxx+Pk8jSLQ8BTqYa
+         NfwpzB2lqyddQSmRAwFFUgBFrz1VoqeLxs0VKvcWnw2R0N1dYjVGaYXlOCsI98c2XtgT
+         S5ww==
+Sender: nksconnor@gmail.com
+Date: Thu, 27 Sep 2012 20:56:42 -0600
+X-Google-Sender-Auth: -Be1Zagf45yKw4HiEKIsDIYphHs
+Subject: CSCI 6000 hw -- alternative title
+From: Nora Connor <Nora.Connor@colorado.edu>
+To: lizb@cs.colorado.edu
+
+--14dae9399871999c0604caba348c
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hi Liz,
+  My alternative title for today's Butcher award talk by Dr. Elizabeth
+Blackburn is:
+
+"The correlation between stress and telomere shortening, and its
+implications for human disease."
+
+  Cheers, Nora
+
+--14dae9399871999c0604caba348c
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hi Liz,<br>=A0 My alternative title for today&#39;s Butcher award talk by D=
+r. Elizabeth Blackburn is:<br><br>&quot;The correlation between stress and =
+telomere shortening, and its implications for human disease.&quot;<br><br>
+=A0 Cheers, Nora<br>
+
+--14dae9399871999c0604caba348c--
+
+From abbie.jacobs@gmail.com  Thu Sep 27 23:53:24 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=f46d044280ce5b4e3704cabcac1c
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,HTML_MESSAGE autolearn=ham
+	version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApsCAL86ZVBKfVKzk2dsb2JhbABFDoU2uEAIIwEBAQEJCRQUBCOCOQIsARseAxIIAQIFXQERAQUBV4dQAQMPlxOCYQkDjCWCdYUSChknDVmIdQEFDI4TgyADiFiNEYk4DIUIFimDTFo
+X-IronPort-AV: E=Sophos;i="4.80,499,1344232800"; 
+   d="scan'208";a="38095470"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:from:date:message-id:subject:to:content-type;
+        bh=R6VsZ+rnpQyH+ny93kDGMEX4CZxjzYxrBuWUeOyvQV8=;
+        b=RXbNcyKlSaCr0wUhBIEToDe2fzVAwuzNjbrRgfpHC+Iz1INdQhSQnlM/gGroj9QY43
+         3Nh3uXSiWvM88iOpdAlVU3gRrH0B2IM2Gf85sEvgyJPYRn/8fhBTXlcoaE5+ry/ebj1Y
+         rURMkSZssWMHy04xoq46i8t9AtldQw4Wyrh7Upq9F8J/SXeOfnSsG6UNZ6FfWwTN3h8h
+         Jfoyy5xlpnPhol0qj706TeBYm1G3VpydWYnoOXrw+zFBAi7WQ/22l93qfTtrBsyH9i8V
+         VYrJtjALBfvSxtDiQs8bF3NLe+N02mhCYv12JlIFvkyKDbg5ouFHBOuAxlxhpqwfd1gu
+         Wqqg==
+From: Abbie Jacobs <abbie.jacobs@gmail.com>
+Date: Thu, 27 Sep 2012 23:53:00 -0600
+Subject: CSCI 6000 - alternate title for seminar (BioFrontiers/Butcher Award
+ Lecture - Liz Blackburn)
+To: lizb@cs.colorado.edu
+
+--f46d044280ce5b4e3704cabcac1c
+Content-Type: text/plain; charset=ISO-8859-1
+
+Understanding telomerase regulation, from origins to senescence to cancer
+
+--f46d044280ce5b4e3704cabcac1c
+Content-Type: text/html; charset=ISO-8859-1
+
+<div>Understanding telomerase regulation, from origins to senescence to cancer</div>
+
+--f46d044280ce5b4e3704cabcac1c--
+
+From hadi.ra@gmail.com  Sat Sep 29 14:14:44 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=e0cb4efe30f28aeb3d04cadcd289
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.3 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,HTML_MESSAGE,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AqkBADZWZ1DRVdmzm2dsb2JhbABFDoI9gnkBuGQIIwEBAQEBCAkLCRQnghciAiwBGx4DEggBB10BEQEFAVeHUAEDD5kWgmEJA4wlgnWEOwoZJw1ZiHUBBQyOPoMgA4hYjRGOTBYpg0xa
+X-IronPort-AV: E=Sophos;i="4.80,509,1344232800"; 
+   d="scan'208";a="38383501"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:from:date:message-id:subject:to:content-type;
+        bh=ARVee2kOfiZLzV5ig76JrqgOKFEJ+g/heE2b3ssvRFk=;
+        b=0mF+tWTIMbDYLdqu/gardtztNHbLj72DzKyericPw/aVWHA3XcoONyxFW4218F24jy
+         0LtRjmn/ISgqt0P83DGwGLg+oeHQ1xQfnBo3YG8b2cexhuZGbqof5kQ7SDht7wZVHAbO
+         EzxbWl3a5eWs8/tFELiR7pcCIwRY4D5EffXU2K+PAsCcZwkJrtv15QutRgFvvf/fyX5Z
+         EB/MK0e47vH5wz1vYsYkrgioKKRVIzhS+ig35XCDGO9hvrE6Odwr/XPDm3ASvqGJLBVu
+         yYbEXMhdg1PbDhJ1zCTf6fBAz7iba1K+UgJ8mDlAwMI2x/GpuPr+NLbWL++Gkkwsm6Dq
+         t0PQ==
+From: Hadi RavanBakhsh <hadi.ra@gmail.com>
+Date: Sat, 29 Sep 2012 14:14:20 -0600
+Subject: Alternative Title for Sriram's Colloquium Talk
+To: lizb@cs.colorado.edu
+
+--e0cb4efe30f28aeb3d04cadcd289
+Content-Type: text/plain; charset=ISO-8859-1
+
+Dear Prof. Bradly,
+
+I assume that the following title suits the talk:
+
+An Optimization Approach to Falsify Hybrid Systems
+
+Regards,
+
+--Hadi Ravanbakhsh
+
+--e0cb4efe30f28aeb3d04cadcd289
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div style=3D"color:rgb(34,34,34);font-family:arial,sans-s=
+erif;font-size:12.727272033691406px;background-color:rgb(255,255,255)"><div=
+>Dear Prof. Bradly,</div><div><br></div><div>I assume that the following ti=
+tle suits the talk:</div>
+
+<div><br></div><div>An Optimization Approach to Falsify Hybrid Systems</div=
+></div><div style=3D"color:rgb(34,34,34);font-family:arial,sans-serif;font-=
+size:12.727272033691406px;background-color:rgb(255,255,255)"><br></div><div=
+ style=3D"color:rgb(34,34,34);font-family:arial,sans-serif;font-size:12.727=
+272033691406px;background-color:rgb(255,255,255)">
+
+Regards,</div><div style=3D"color:rgb(34,34,34);font-family:arial,sans-seri=
+f;font-size:12.727272033691406px;background-color:rgb(255,255,255)"><br></d=
+iv><div style=3D"color:rgb(34,34,34);font-family:arial,sans-serif;font-size=
+:12.727272033691406px;background-color:rgb(255,255,255)">
+
+--Hadi Ravanbakhsh</div></div>
+
+--e0cb4efe30f28aeb3d04cadcd289--
+
+From shaosong2012@gmail.com  Sat Sep 29 21:43:01 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative;
+	boundary="----=_NextPart_000_0013_01CD9E8B.663192A0"
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.3 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,HTML_MESSAGE,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AsMBAH6+Z1DRVdszm2dsb2JhbABFDoI9gnmoVIdDiFMIIwEBAQEBCAkLCRQngicICgIUAgMTARseAwkFBAkLUAoRAQUBHQEEHheHUAEDD5k7gmEJA4wlgnWEDgoZJw1ZiHUBBQyOPoMgA4hYm10/g0xa
+X-IronPort-AV: E=Sophos;i="4.80,511,1344232800"; 
+   d="scan'208,217";a="38673632"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=from:to:subject:date:message-id:mime-version:content-type:x-mailer
+         :thread-index:content-language;
+        bh=lHz0MhXojGbvTULLmHhKUCMYYZZLAHNArRemJM39SNE=;
+        b=ZCHoWAvbpYIBCugMkYAsVqZzNFEGTZhsQpyTyFacj6O8H31MPWzAz4oThMqs7r+yZ+
+         EvGUlnraNTSZRPMZCEeSFWtuowbR8cpycqDZwgWh246rbpSFXxR7bf8WyXs0jXWbNqlz
+         MyA37YmQ/LvGjWAGBVa0p1AG63RzsmdW69D61kV7OPjoOAqTwPRUkp0CqkJVNgcMTalW
+         27JWVDjUli8aHdkmInN3slA81UsZpVCzLugD29tbtRtgMhaFFHqLrVVvhO2Ec0cpq47G
+         s7+mrVtG7yTfbriLAiCPX2ApPISFETN+fup3w4TYcEKzGovCdh/liDX3o1IzuE5p4AO0
+         NxqA==
+From: "steven.lee" <shaosong2012@gmail.com>
+To: <lizb@cs.colorado.edu>
+Subject: title for Sriram's colloquium talk
+Date: Sat, 29 Sep 2012 21:43:00 -0600
+Thread-Index: Ac2eva/2Kvxv8sHQQKqqOwPEd/uwRg==
+Content-Language: zh-cn
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0013_01CD9E8B.663192A0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Professor White,
+
+ 
+
+My title for Sriram's colloquium talk is   Robustness-Guided Model Checking.
+
+ 
+
+Best Regrads,
+
+Shaosong Li
+
+
+------=_NextPart_000_0013_01CD9E8B.663192A0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><META =
+HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 12 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:\5B8B\4F53;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"\@\5B8B\4F53";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal>Professor =
+White,<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal>My title for Sriram's colloquium talk is&nbsp;&nbsp; =
+Robustness-Guided Model Checking.<o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Best =
+Regrads,<o:p></o:p></p><p class=3DMsoNormal>Shaosong =
+Li<o:p></o:p></p></div></body></html>
+------=_NextPart_000_0013_01CD9E8B.663192A0--
+
+From emily.panxin@gmail.com  Mon Oct  1 00:13:17 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=047d7b603e72ff7d7a04caf94cf2
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.1 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	HTML_MESSAGE,RCVD_IN_DNSWL_MED,T_DKIM_INVALID autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AnkCANczaVBKfVMzjmdsb2JhbABFDoI9gnkBpneRdggjAQEBAQkLCQkSBiOCFyICLAE5Aw0FCAEHXRIBBQFXh1EDD5kmgmEJA48ahEYnDUyJAgEFDI4+gyADiFiNEY5MFimBVoF2Wg
+X-IronPort-AV: E=Sophos;i="4.80,514,1344232800"; 
+   d="scan'208";a="38825132"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:date:x-google-sender-auth:message-id:subject
+         :from:to:content-type;
+        bh=hXPDHYbEjZOlXWL6hiaKyzQ2jZgk/A17n2MBsKBtHhE=;
+        b=CfmUVoeeZLf7cnuUAyw05gzeRWhr6166RnbMsUfGiZsTB4QhoXSjgS+RDdUHoGTbf2
+         ijze0132txTOFgrvJRnUH99XRoaI/dJ8c/6z1OG4jDV6ldYLrwZ4YH392qAFK6So2yvL
+         jhiyXqwFZGcpDq+k7NUqP0xKki45YUo0jgXDj/hB+yopAOJrsXg1TynX6/xI/YXeLpGy
+         8JJL5epZE0hNBO9iSgCtig0NTl7ZWXNZAeuqt5OrkN7/kRD8l3sSfiT9hnDnIAQUyK5p
+         6oRpWzBJwCVuU5DNnXDF63K9zw9dU+ZK9EHS9AdwhtXhgEX90cwrDtFEsnhehLxh2L24
+         9NYQ==
+Sender: emily.panxin@gmail.com
+Date: Mon, 1 Oct 2012 00:13:14 -0600
+X-Google-Sender-Auth: ND0sqRY_U1EEMUKhYrNIcDaNulQ
+Subject: CSCI6000 - Alternative Title for Sriram's Colloquium Talk
+From: "Xin (Emily) Pan" <Xin.Pan@colorado.edu>
+To: lizb@cs.colorado.edu
+
+--047d7b603e72ff7d7a04caf94cf2
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hi Professor Bradley,
+
+My alternative title is "A Testing Framework for Finding Falsification
+Behaviors in Cyber Physical Systems".
+
+Regards,
+Xin
+
+--047d7b603e72ff7d7a04caf94cf2
+Content-Type: text/html; charset=ISO-8859-1
+
+<div><span style="color:rgb(34,34,34);font-family:arial,sans-serif;font-size:12.800000190734863px">Hi Professor Bradley,</span></div><div><span style="color:rgb(34,34,34);font-family:arial,sans-serif;font-size:12.800000190734863px"><br>
+</span></div><div><span style="color:rgb(34,34,34);font-family:arial,sans-serif;font-size:12.800000190734863px">My alternative title is &quot;</span>A Testing Framework for Finding Falsification Behaviors in Cyber Physical Systems&quot;.</div>
+<div><br></div><div>Regards,</div>
+<div>Xin</div><br>
+
+--047d7b603e72ff7d7a04caf94cf2--
+
+From james.balasalle@gmail.com  Sun Sep 30 23:34:06 2012
+MIME-Version: 1.0
+Content-type: multipart/mixed; boundary=20cf3079b58edf087804caf8c046
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.3 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,HTML_MESSAGE,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AjMCAIIqaVDRVdQzk2dsb2JhbAA8CQ6+IwgjAQEBAQcLCwkUBCOCFyICLAEbHgMSCAECBQk0IAERAQUBNQgah1ABAw+ZIIJhCQOMJYJ1hBwKGScNWYh1AQUMixMRgxqDIAOIWIYWhnuOTBYpg0xagUQ
+X-IronPort-AV: E=Sophos;i="4.80,514,1344232800"; 
+   d="txt'?scan'208";a="38817433"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=4uu6KbWTOm4w9YkOWgkOXug4ZMUNoLh5Jf/KOnHowEI=;
+        b=1KYcKj4iumMFLAXnNzBJYcfB1KH/DZb41W4g3pQHcqjCDBrCMnJHqg6zMO3fC3ooO0
+         DwdNEe2oyqHC1H4E4tGWm6VZy0rOJqInThnKomNEZy3ycUp9XEwhgVPQa8OO5zvbfQBY
+         gGYgg9Pvg/bJyjMHeWZWFhCREwCdLOpMi2mF+qdfku9qfL9+vkLS/nIUxNluZMBLyBgL
+         w9gXZQNppZbplPzIKNM5e0dZiP6D00BgMxJO9B69sIzpXLROdZ0NK5YGvLVLCt28afD8
+         K4vBcewWBaKOI7o8ASvSuIxCWuszixM/wWFKRDySYJh7xrlRkQVr4kiQOck2aoA/44uk
+         bc1A==
+Date: Sun, 30 Sep 2012 23:34:03 -0600
+Subject: CSCI 6000 Talk Summary
+From: James Balasalle <james.balasalle@gmail.com>
+To: lizb@cs.colorado.edu
+
+--20cf3079b58edf087804caf8c046
+Content-Type: multipart/alternative; boundary=20cf3079b58edf087404caf8c044
+
+--20cf3079b58edf087404caf8c044
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hi Liz,
+
+Here is my summary for the Butcher Award Lecture I attended instead of the
+CS colloquium last week.
+
+    James
+
+--20cf3079b58edf087404caf8c044
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hi Liz,<div><br></div><div>Here is my summary for the Butcher Award Lecture=
+ I attended instead of the CS colloquium last week.</div><div><br></div><di=
+v>=A0 =A0 James</div>
+
+--20cf3079b58edf087404caf8c044--
+--20cf3079b58edf087804caf8c046
+Content-Type: text/plain; charset=US-ASCII; name="telomere-talk.txt"
+Content-Disposition: attachment; filename="telomere-talk.txt"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: f_h7r57j3m0
+
+TmFtZTogSmFtZXMgQmFsYXNhbGxlClRhbGsgRGF0ZTogOS8yNy8yMDEyIDQ6MDBwbQpUaXRsZTog
+IkNhbmNlciBhbmQgUmVzcG9uc2VzIHRvIFBlcnR1YmluZyBUZWxvbWVyZSBNYWludGVuYW5jZSIK
+U3BlYWtlcjogTGl6IEJsYWNrYnVybgpFbWFpbDogIGVsaXphYmV0aC5ibGFja2J1cm5AdWNzZi5l
+ZHUKClN1bW1hcnkKCkRyLiBCbGFja2J1cm4ncyB0YWxrIGZvY3VzZWQgb24gdGVsb21lcmVzOiBz
+dHJ1Y3R1cmVzIGF0IHRoZQoiZW5kIiBvZiBlYWNoIGNocm9tb3NvbWUgaGVscCB0byBwcm90ZWN0
+IHRoZSBpZGVudGl0eSBhbmQgaW50ZWdyaXR5IG9mCnRoZSBjaHJvbW9zb21lLiAgSGVyIHJlc2Vh
+cmNoIGZvY3VzZXMgb24gaG93IHRoZSBsZW5ndGggb2YgdGhlCnRlbG9tZXJlcyBjaGFuZ2VzIG92
+ZXIgdGltZSBhbmQgd2hhdCB0aGlzIG1lYW5zIHdpdGggcmVzcGVjdCB0bwpkaXNlYXNlLiAgQWZ0
+ZXIgYSBicmllZiBpbnRyb2R1Y3Rpb24sIHN0YXRpbmcgdGhlIGFib3ZlLCBzaGUgd2VudCBpbnRv
+CmEgcHJldHR5IGRldGFpbGVkIGV4cGxhbmF0aW9uIG9mIGJpb2xvZ3kgb2YgdGVsb21lcmVzLiAg
+SSBoYWQgYSBoYXJkCnRpbWUgZm9sbG93aW5nIHRoaXMgcG9ydGlvbiwgaXQgd2FzIG92ZXIgbXkg
+aGVhZC4gIFNoZSB0YWxrZWQgYWJvdXQKZ2VuZXMgdGhhdCBhZmZlY3QgdGhlIHRlbG9tZXJlcyBv
+ciB0aGF0IHJlZ3VsYXRlIHZhcmlvdXMgY29tb3BvbmVudHMKbGlrZSB0ZWxvbWVyYXNlIG9yIHJl
+dmVyc2UgdHJhbnNyaXB0YXNlIHRoYXQgYWxzbyBhZmZlY3QgdGhlCnRlbG9tZXJlcy4gIFRoaXMg
+d2FzIHRoZSBmaXJzdCBoYWxmIG9mIGhlciB0YWxrLiAgRm9yIHRoZSBzZWNvbmQgaGFsZiwKc2hl
+IGRpc2N1c3NlZCBzdHVkaWVzLCBhbmQgdmFyaW91cyBvdGhlciBkYXRhIHRoYXQgY29ycmVsYXRl
+ZCB0ZWxvbWVyZQpsZW5ndGggdG8gdGhlIG9jY3VyZW5jZSBvZiB2YXJpb3VzIGRpc2Vhc2VzIGFu
+ZCBjb25kaXRpb25zLiAgRm9yCmV4YW1wbGUsIGluIGEgbGFyZ2Ugc3R1ZHkgaW4gQ2FsaWZvcm5p
+YSwgc2hvcnRlciB0ZWxvbWVyZSBsZW5ndGgKc2hvd2VkIGEgZGlyZWN0IGNvcnJlbGF0aW9uIHRv
+IGRpYWJldGVzIGFuZCBwdWxtb25hcnkgZmlicm9zaXMuICBTaGUKYWxzbyBkaXNjdXNzZWQgb3Ro
+ZXIgbXV0YXRpb25zIHdoaWNoIGluaGliaXQgdGhlIHByb2R1Y3Rpb24gb2YKdGVsb21lcmFzZSwg
+aGVuY2Ugc2hvcnRlbmluZyB0ZWxvbWVyZXMgYW5kIGNvbnRyaWJ1dGluZyB0byBkaXNlYXNlLgpM
+YXN0bHksIHNoZSB0YWxrZWQgYWJvdXQgaG93IHBzeWNob2xvZ2ljYWwgc3RyZXNzIGNhdXNlcyBz
+aG9ydGVyCnRlbG9tZXJlcy4KClF1ZXN0aW9ucyAvIENvbW1lbnRzCgoxKSBEb2VzIGFuIGV4Y2Vz
+cyBvZiB0ZWxvbWVyYXNlIHNsb3cgdGhlIGRlZ3JhZGF0aW9uIG9mIHRoZSB0ZWxvbWVyZXM/Cgoy
+KSBIYXZlIGFueSBzdHVkaWVzIGJlZW4gZG9uZSB0aGF0IHNlZWsgdG8gc2hvdyBhbGwgb2YgdGhl
+IGdlbmVzIHRoYXQKYWZmZWN0IHRlbG9tZXJhc2UgcHJvZHVjdGlvbiwgcG9zc2libHkgbGlua2lu
+ZyBpdCB3aXRoIG90aGVyCmRpc29yZGVycz8KCgoKCgoKCgoKCg==
+--20cf3079b58edf087804caf8c046--
+
+From John.Klingner@colorado.edu  Mon Oct  1 17:28:49 2012
+MIME-Version: 1.0
+Content-type: text/plain; charset=us-ascii
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.2 required=5.0 tests=BAYES_00,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApwEAAIlalDAqBGa/2dsb2JhbABFDr9HghslIRkFukiJCI5KgyADiFiNEJJYWg
+X-IronPort-AV: E=Sophos;i="4.80,520,1344232800"; 
+   d="scan'208";a="7001627"
+From: John Klingner <John.Klingner@colorado.edu>
+Subject: Title for Prof. Sriram's Talk
+To: lizb@cs.colorado.edu
+Date: Mon,  1 Oct 2012 17:28:46 -0600 (MDT)
+
+A Robust Approach to Model Falsification
+
+From David.T.Coleman@colorado.edu  Mon Oct  1 17:29:07 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=e89a8fb1ef1269b6ab04cb07c54d
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.2 required=5.0 tests=BAYES_00,HTML_MESSAGE,
+	RCVD_IN_DNSWL_MED autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AosIAKAmalDAqBGb/2dsb2JhbABCAw6sagGRTIEQghciAoEDAQIFXRIBBQFXh2OXfYJhCQOVaYkIjkUFgyADiFiNEY5MFimBIIIsWg
+X-IronPort-AV: E=Sophos;i="4.80,520,1344232800"; 
+   d="scan'208";a="6936554"
+From: David Coleman <David.T.Coleman@colorado.edu>
+Date: Mon, 1 Oct 2012 17:28:48 -0600
+Subject: Alternative Title: Sriram's Talk
+To: lizb@cs.colorado.edu
+
+--e89a8fb1ef1269b6ab04cb07c54d
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hi Professor Bradley,
+
+My alternative title for Sriram's talk is "Verification of Complex
+Safety-Critical Cyber-Physical Systems"
+
+Thanks!
+
+--
+Dave Coleman
+Grad Student, Correll Lab
+University of Colorado Boulder
+251.463.2345
+
+--e89a8fb1ef1269b6ab04cb07c54d
+Content-Type: text/html; charset=ISO-8859-1
+
+<div><div>Hi Professor Bradley,</div></div><div><br></div><div>My alternative title for Sriram&#39;s talk is &quot;Verification of Complex Safety-Critical Cyber-Physical Systems&quot;</div><div><br></div>Thanks!<div><br clear="all">
+
+--<br>Dave Coleman<div><font color="#666666">Grad Student, Correll Lab<br></font><div><font color="#666666">University of Colorado Boulder<br>
+<a href="tel:251.463.2345" value="+12514632345" target="_blank">251.463.2345</a></font></div></div><br>
+</div>
+
+--e89a8fb1ef1269b6ab04cb07c54d--
+
+From Murad.Kaplan@colorado.edu  Mon Oct  1 20:17:36 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative;
+	boundary="----=_NextPart_000_0001_01CDA011.CC56EF30"
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.2 required=5.0 tests=BAYES_00,HTML_MESSAGE,
+	RCVD_IN_DNSWL_MED autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Ai0FAPtNalDAqBGb/2dsb2JhbABCAw6CPbMzhRaET4InCAIeBSYzAQQNWwI9AQQeBbhkiQgEjkEFgyADiFifaFo
+X-IronPort-AV: E=Sophos;i="4.80,520,1344232800"; 
+   d="scan'208,217";a="7015287"
+From: Murad Kaplan <Murad.Kaplan@colorado.edu>
+To: <lizb@cs.colorado.edu>
+Subject: Prof.  Sriram Sankaranarayanan talk's title
+Date: Mon, 1 Oct 2012 20:17:36 -0600
+Thread-Index: Ac2gRAAlLS2Qt+OMQ+69tgLKf/L+vg==
+Content-Language: en-us
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0001_01CDA011.CC56EF30
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Robustness Computation and Modeling
+
+ 
+
+ 
+
+----------------
+
+Murad Kaplan
+Ph.D. Student
+
+ECCR 1B 54 - Systems Lab
+
+Computer Science Department
+
+University of Colorado
+
+Boulder, CO 80309-0430
+Phone: +1 508 615 0768
+
+ 
+
+
+------=_NextPart_000_0001_01CDA011.CC56EF30
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><META =
+HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 14 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Segoe Print";
+	panose-1:2 0 6 0 0 0 0 0 0 0;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal =
+style=3D'text-autospace:none'><span style=3D'font-family:"Segoe =
+Print"'>Robustness Computation and Modeling<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'color:#1F497D'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'color:#1F497D'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'color:#1F497D'>----------------<o:p></o:p></span></p><p =
+class=3DMsoNormal><span style=3D'color:#1F497D'>Murad Kaplan<br>Ph.D. =
+Student<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'>ECCR 1B 54 - </span><span =
+style=3D'color:#1F497D'>Systems Lab</span><span =
+style=3D'color:#1F497D'><o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'>Computer Science =
+Department<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'>University of Colorado<o:p></o:p></span></p><p =
+class=3DMsoNormal><span style=3D'color:#1F497D'>Boulder, CO =
+80309-0430</span><span style=3D'color:#1F497D'><br>Phone: +1 508 615 =
+0768</span><span style=3D'color:#1F497D'><o:p></o:p></span></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+------=_NextPart_000_0001_01CDA011.CC56EF30--
+
+From Eric.Goodman@colorado.edu  Tue Oct  2 03:32:36 2012
+MIME-Version: 1.0
+Content-type: text/plain; charset=iso-8859-1
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.9 required=5.0 tests=BAYES_00 autolearn=ham
+	version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApsIAPWzalDAqBGb/2dsb2JhbABFDr01BASCFoIbZBCzIIdniQiORYMgA4hYjRABklcuLA
+X-IronPort-AV: E=Sophos;i="4.80,522,1344232800"; 
+   d="scan'208";a="7033892"
+From: Eric L Goodman <Eric.Goodman@colorado.edu>
+Subject: Title and out on Wednesday
+To: Elizabeth.Bradley@colorado.edu
+Date: Tue,  2 Oct 2012 03:32:33 -0600 (MDT)
+X-MIME-Autoconverted: from quoted-printable to 8bit by research.cs.colorado.edu id q929WY2r015954
+
+Dr. Bradley,
+Last Thursday I had a parent-teacher conference to attend at the same time as Dr. Sankaranarayanan's talk, so I do not have an alternate title to provide.
+
+I will be out this Wednesday (October 2nd) due to a program review for a sponsor.  I will touch base with James to find out what I missed.
+
+Since I will not be present, below is my outline.
+
+Thanks,
+Eric
+
+1. Introduction
+  a. A new algorithm for performing SPARQL Queries: Sprinkle SPARQL
+  b. Two benefits
+    i.  Constrains problem
+    ii. Near optimal execution path
+  c. Example graph
+2. Conventions/Definitions
+  a. RDF as a graph
+  b. Results
+  c. Variables
+  d. Triapps
+3. Data Structures
+  a. Compressed Sparse Row Graph
+  b. Multimap
+4. Cray XMT
+  a. Useful supercomputer for graph-type algorithms
+5. Naïve Implementation
+6. Sprinkle SPARQL
+  a. Three phases
+    i.	Scoping
+    ii.	Sprinkle
+    iii. Join
+7. Evaluation
+  a. LUBM
+  b. R-MAT
+8. Related Works
+9. Conclusions
+
+From mcevoy.andy@gmail.com  Tue Oct  2 08:24:25 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=e89a8f838a555273a604cb1447bc
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,HTML_MESSAGE autolearn=ham
+	version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AocBAJv4alDRVd+zm2dsb2JhbABCAw6FNgG5DQgjAQEBAQEICQsJFCeCFyICLAEbHgMSCAECBV0BEQEFAVeHUAEDD5d2gmEJA4wlgWyBCYUzChknDVmIdQEFDI40BYMgA4hYjRGOTBYpg0xa
+X-IronPort-AV: E=Sophos;i="4.80,523,1344232800"; 
+   d="scan'208";a="39816163"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=ZLeJSPFXIw/Un73OX/Uz8ff33rSZ/HinxLXen/Vs8l0=;
+        b=MtAfKKsbIRzOzSgLVqFwpYh6SgRQ5b2cYf5hn2r+QhbmeOVuKbspvQJITWcqGTIa7u
+         XGu1AfPIkWi43F0wfG/q0EF8j8erPm4TMD9GX9bT+DKzeyQ9v9lxk8axZn1qpXcPGlCI
+         cWX8pmuT0h3mxi/CjMi6hqtP9FGEqMP0wydOyeguzw0/dyLpF6dCpOnirIuwFSQpagnj
+         JGMfk074YBjOlshKsf9kg1c3+fsZzftLmqoXnoVChjp9rOt5NNwUM9tMNtc0EEuQoZFn
+         XTBhfDnal7gKGzjzh9mcNrcPJ7s7wO2mplD4yUWT21oClcqsh+aIEvokb9vTbUhfPMLH
+         1Jnw==
+Date: Tue, 2 Oct 2012 08:24:23 -0600
+Subject: Title
+From: Andy McEvoy <mcevoy.andy@gmail.com>
+To: lizb@cs.colorado.edu
+
+--e89a8f838a555273a604cb1447bc
+Content-Type: text/plain; charset=ISO-8859-1
+
+Falsifying control systems
+
+
+
+Andy McEvoy
+
+Doctoral Student
+Correll Lab
+Department of Computer Science
+University of Colorado at Boulder
+
+(832) 439 - 6150
+
+--e89a8f838a555273a604cb1447bc
+Content-Type: text/html; charset=ISO-8859-1
+
+Falsifying control systems<br><br><br clear="all"><br>Andy McEvoy<br>
+<br>
+Doctoral Student <br>Correll Lab<br>
+Department of Computer Science<br>
+University of Colorado at Boulder<br>
+<br>
+(832) 439 - 6150<br>
+
+--e89a8f838a555273a604cb1447bc--
+
+From acardenas89@gmail.com  Tue Oct  2 11:18:26 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=047d7b10ce6b9b291c04cb16b51e
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.8 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	HTML_MESSAGE,T_DKIM_INVALID autolearn=no version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Ai0CAO0ga1DRVdwzm2dsb2JhbABFDgiFLgGnE5F5CCMBAQEBAQgJCwkUJ4IXIgIsATkDDQUIAQddEgEFASI1h1EDDwuXWoJhCQOOEYEJhUwnDUyJAgEFDJFRA4hYjRGBFYoOgykWKYFWgXZa
+X-IronPort-AV: E=Sophos;i="4.80,524,1344232800"; 
+   d="scan'208";a="39936356"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:date:x-google-sender-auth:message-id:subject
+         :from:to:content-type;
+        bh=oLkj5KikIi1YF+Yciega+4YLj/9VThhCBOUOxf5E23U=;
+        b=LHz5WpoHliCH2fyJ38L0Sp9nveu1MlZr+D5hBMInDewsnD3s3a1WDlh9B4LL9s9o4p
+         pBuhuvIzJkXslvxQJgj974UJEgspzy18ZknfM0VDWTPLPJowPOtsEuk49Aeh+oob33dV
+         1K9seokD4xKgfHUbUAcuZr16bAjs5w3qQbPbWomGwS8uRWGtFpecojnRBPkYlfos9bVl
+         Hined341iNU7frzogHUhTfqF4rPbihTGep5qxXyz3xgDjjhMpoPQMnqNUY/j9Z4Ge3cF
+         gXqQKihqj/C80pgFbvferN5X0G/smyrqcHeMirJ5qEjVbvWuCC0r4UKoBbATGmUmE8ne
+         P4Fg==
+Sender: acardenas89@gmail.com
+Date: Tue, 2 Oct 2012 11:18:23 -0600
+X-Google-Sender-Auth: swbTKxBQ9XnXnIeahQGhJdYmEAc
+Subject: Alternate title for Sriram Sankaranarayanan
+From: Adam Cardenas <Adam.Cardenas@colorado.edu>
+To: lizb <lizb@cs.colorado.edu>
+
+--047d7b10ce6b9b291c04cb16b51e
+Content-Type: text/plain; charset=ISO-8859-1
+
+Good day Professor,
+
+Here is my alternate title for Professor Sankaranarayanan's talk.
+
+"Software Testing and Verification for Tomorrow's Tech"
+
+-- 
+Warm Regards,
+
+Adam Cardenas <http://csel.cs.colorado.edu/~adca8964/>
+Graduate Student <http://www.colorado.edu/cs/>
+University of Colorado Boulder <http://www.colorado.edu/>
+
+--047d7b10ce6b9b291c04cb16b51e
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Good day Professor,<div><br></div><div>Here is my alternate title for Profe=
+ssor=A0Sankaranarayanan&#39;s talk.</div><div><br></div><div>&quot;Software=
+ Testing and Verification for Tomorrow&#39;s Tech&quot;<br clear=3D"all"><d=
+iv>
+<br></div>-- <br>Warm Regards,=A0<div><br></div><div><a href=3D"http://csel=
+.cs.colorado.edu/~adca8964/" target=3D"_blank">Adam Cardenas</a><div><a hre=
+f=3D"http://www.colorado.edu/cs/" target=3D"_blank">Graduate Student</a></d=
+iv><div>
+<a href=3D"http://www.colorado.edu/" target=3D"_blank">University of Colora=
+do Boulder</a></div></div><div><br></div><br>
+</div>
+
+--047d7b10ce6b9b291c04cb16b51e--
+
+From gungjm@gmail.com  Tue Oct  2 14:36:39 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=bcaec54d476886431104cb197a1e
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.3 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,HTML_MESSAGE,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AlMCAOJPa1DRVdazk2dsb2JhbABFDoU2AbkSCCMBAQEBCQkLCRQEI4IXCQEBAQMTAiwBGx4DAREIAQdcAQERAQUBNQgah1ABAwkGlmuCYQkDjCWBbIEJhRwKGScNWYh1AQUMijNkgxqDIAOIWIs8gVWLIIMsFimDTFo
+X-IronPort-AV: E=Sophos;i="4.80,524,1344232800"; 
+   d="scan'208";a="39873635"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=mS2hirnQmnJb36Vc3wNOr4gg52cX8D49co/jZ9qumdk=;
+        b=bBW1S+/gZfpTAO3rYehBqftkEH3KSlZeCOMi8vZH0LMCw1946KLk4OuGqEf92DbSKd
+         ysI8Q9OWCJQlGAjYMgMBe/c2levE+zKaxXKMM9cPXI3xNaZ/kXo3pZat5IcAhVl+6gpV
+         25CdU+vzvSe3RjWS7s+vqKhuy+7udPx0RKE1W4ad65bbMKscyI1OgDT0iarOa5X4KsVv
+         2NTH9KVM5U6dT/dQMzwK2iswhUCg/u4IWFD7yEFDg0dR2S3ite0itjoSsNFgOJtDYP5l
+         BPiXfqktlhny5ug+heyVCpqEhIfWgMTLZpRngylq/uc3F9mNH1XgaZKhGzAc/x3eZVHv
+         WZBA==
+Date: Tue, 2 Oct 2012 14:36:37 -0600
+Subject: Alternative title for Sriram's Talk
+From: James Gung <gungjm@gmail.com>
+To: lizb@cs.colorado.edu
+
+--bcaec54d476886431104cb197a1e
+Content-Type: text/plain; charset=ISO-8859-1
+
+I would title Dr. Sankaranarayanan's talk, *An optimization-based approach
+to falsification*
+
+James Gung
+
+On Tue, Sep 18, 2012 at 10:40 AM, James Gung <gungjm@gmail.com> wrote:
+
+> I would title Dr. Rozenberg's talk, *Formal Representation of Biochemical
+> Reactions, an Introduction.*
+>
+> James Gung
+>
+
+--bcaec54d476886431104cb197a1e
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+I would title Dr. Sankaranarayanan&#39;s talk, <i>An optimization-based app=
+roach to falsification</i><div><br></div><div>James Gung<br><br><div class=
+=3D"gmail_quote">On Tue, Sep 18, 2012 at 10:40 AM, James Gung <span dir=3D"=
+ltr">&lt;<a href=3D"mailto:gungjm@gmail.com" target=3D"_blank">gungjm@gmail=
+.com</a>&gt;</span> wrote:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex"><div>I would title Dr. Rozenberg&#39;s talk,=
+=A0<i>Formal Representation of Biochemical Reactions, an Introduction.</i><=
+/div>
+<span class=3D"HOEnZb"><font color=3D"#888888"><div><br></div><div>James Gu=
+ng</div>
+</font></span></blockquote></div><br></div>
+
+--bcaec54d476886431104cb197a1e--
+
+From Dana.Hughes@colorado.edu  Tue Oct  2 18:02:29 2012
+MIME-Version: 1.0
+Content-type: text/plain; charset=us-ascii
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.2 required=5.0 tests=BAYES_00,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApwEAFqAa1DAqBGb/2dsb2JhbABFDr9hghtGGQWxUYdEiQiOPYJAYAOIWI0QAZJXWg
+X-IronPort-AV: E=Sophos;i="4.80,525,1344232800"; 
+   d="scan'208";a="7071746"
+From: Dana Hughes <Dana.Hughes@colorado.edu>
+Subject: CSCI6000:  Alternative Title for Dr. Sankaranarayanan's
+ Talk
+To: lizb@cs.colorado.edu
+Date: Tue,  2 Oct 2012 18:02:26 -0600 (MDT)
+
+Hello Dr. Bradley,
+
+I propose for as an alternative title to Dr. Sankaranarayanan's talk "Applications of Fault Detection Systems in Safety Critical Systems"
+
+Thank you.  See you tomorrow.
+
+--Dana
+
+From fdkong.jd@gmail.com  Tue Oct  2 18:23:10 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=f46d042f94e890b82c04cb1ca451
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.1 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	HTML_MESSAGE,RCVD_IN_DNSWL_MED,T_DKIM_INVALID autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AlYCAJmEa1DRVdczk2dsb2JhbABFDoU2AacnkXkIIwEBAQEJCQsJFAQjghciAiwBOQMNBQgBB10SAQUBPRqHUQMPllyCYQkDjhGBCYU4Jw1MiQIBBQyOMYMgA4hYjRGOTBYpgVaBdlo
+X-IronPort-AV: E=Sophos;i="4.80,525,1344232800"; 
+   d="scan'208";a="39837842"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:date:x-google-sender-auth:message-id:subject
+         :from:to:content-type;
+        bh=25skte+YH2N/+a/nffqHLb/N0/nBqV5zbqMRPDYqqRE=;
+        b=EbBPzo+PIHmJD37NzaRE1rqWpS8SNQc6kIcKvfJZWmgumHSFQz29Fb6d8Z/41molUg
+         bkynGbPC0SRKk2VzfejG7jDUksykLj7qnwEYisn2a5aHRs0bLth7r/DwwJhHYcsYZFxb
+         VTQ3I7UHJTw+bAPGApL83rO9LOyI0BY5SR72pb1CORLyYkpT7fKrIBqHTil6iS1PUA5Q
+         BDIXnkhNueY7WFEclCU8luG2dUtviJchX89R6rrU8rpKD+P/u4i/jZKFczN5KKpEvUWV
+         V60eIJLcdhqvh32+bI+taTkNWpepy2AV0ARFmQKkXbrr6GWPFsG1+5RQtuGcaIaA6dAi
+         hayw==
+Sender: fdkong.jd@gmail.com
+Date: Tue, 2 Oct 2012 18:23:07 -0600
+X-Google-Sender-Auth: _S6jFxNstPFvF1rabgNacEWf0E4
+Subject: my alternative title for Sriram's colloquium talk
+From: Fande Kong <Fande.Kong@colorado.edu>
+To: lizb@cs.colorado.edu
+
+--f46d042f94e890b82c04cb1ca451
+Content-Type: text/plain; charset=ISO-8859-1
+
+Dear Prof. Bradley,
+
+The title is: falsification methods in non-linear cyber-physical systems
+using the global optimization techniques
+
+
+Fande Kong
+
+CU Boulder
+
+--f46d042f94e890b82c04cb1ca451
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Dear Prof.=A0Bradley,<div><br></div><div>The title is: <span style=3D"backg=
+round-color:rgb(255,255,255);font-family:Arial,sans-serif;white-space:pre-w=
+rap">falsification methods in non-linear c</span><span style=3D"background-=
+color:rgb(255,255,255);font-family:Arial,sans-serif;white-space:pre-wrap">y=
+ber-physical systems using the global optimization techniques</span></div>
+<div><span style=3D"background-color:rgb(255,255,255);font-family:Arial,san=
+s-serif;white-space:pre-wrap"><br></span></div><div><span style=3D"backgrou=
+nd-color:rgb(255,255,255);font-family:Arial,sans-serif;white-space:pre-wrap=
+"><br>
+</span></div><div><span style=3D"background-color:rgb(255,255,255);font-fam=
+ily:Arial,sans-serif;white-space:pre-wrap">Fande Kong</span></div><div><spa=
+n style=3D"background-color:rgb(255,255,255);font-family:Arial,sans-serif;w=
+hite-space:pre-wrap"><br>
+</span></div><div><span style=3D"background-color:rgb(255,255,255);font-fam=
+ily:Arial,sans-serif;white-space:pre-wrap">CU Boulder </span></div><div><br=
+></div>
+
+--f46d042f94e890b82c04cb1ca451--
+
+From arashm81@gmail.com  Tue Oct  2 22:09:23 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=20cf3074d4da95d49f04cb1fcd00
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,HTML_MESSAGE autolearn=ham
+	version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AnwCAFW5a1DRVdizk2dsb2JhbABFDoU4AbkhCCMBAQEBCQkLCRQEI4I5AiwBGx4DEggBAgUDWgERAQUBIjWHUAEDD5Z0gmEJA4wlgWyBCYUMChknDVmIdQEFDJFRA4hYjRGOTBYpg0xa
+X-IronPort-AV: E=Sophos;i="4.80,527,1344232800"; 
+   d="scan'208";a="40208324"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=+5SoxkzTeyvSy0DK9YkSAU95Ri55Z49R/wk5zodDkYw=;
+        b=ID+YflfOftgjzdsc7KRSTnLZkFPIyEwnJN77ZdTXKjOTT7c48kDK2AXqDWy57BOa5T
+         MDEDWHrQxyxfLi+zsd+QLHlIZ83CYA3Gn3tLV2xlhx1e8qnfP7Z3ZpNNNZoVFUW+gDwR
+         TpD0WVxbL62mb4mYvxNJrzI71MzAJiZtF4RIbmolpBzclUMD3UqEn66cerBnehPHvra5
+         hnwIL3M3V9ZcuUwc3nPaQEFpDAb84crjWomPFPRGcERmxZytRdGTwwCRO643wrkOeTWu
+         37sEzQLRHN/uGTlRdw83O9kOSKzxframq5xBmlh6GK5a6qRSKqkNkn+FTEmgSOugOXK2
+         xhtg==
+Date: Tue, 2 Oct 2012 22:09:20 -0600
+Subject: Sriram's Topic on Thursday Sept 27th
+From: Arash Mehraban <arashm81@gmail.com>
+To: Liz Bradley <Elizabeth.Bradley@colorado.edu>
+
+--20cf3074d4da95d49f04cb1fcd00
+Content-Type: text/plain; charset=ISO-8859-1
+
+Integration of computation with physical processes.
+
+--20cf3074d4da95d49f04cb1fcd00
+Content-Type: text/html; charset=ISO-8859-1
+
+Integration of computation with physical processes.<br>
+
+--20cf3074d4da95d49f04cb1fcd00--
+
+From Mohammad.Khajah@colorado.edu  Tue Oct  2 22:42:04 2012
+MIME-Version: 1.0
+Content-type: text/plain; charset=ISO-8859-1; format=flowed
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.2 required=5.0 tests=BAYES_00,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Av0EALHAa1DAqBGa/2dsb2JhbABFDr5hgQmCXxslPRYYAwIBAgFYCAEBiAGWcZB+hzOJCI49gyADiFidPIIsWg
+X-IronPort-AV: E=Sophos;i="4.80,527,1344232800"; 
+   d="scan'208";a="7155851"
+Date: Tue, 02 Oct 2012 22:42:06 -0600
+From: Mohammad Khajah <Mohammad.Khajah@colorado.edu>
+To: lizb@cs.colorado.edu
+Subject: Title for Dr. Sriram's Talk
+
+Dear Dr. Bradley,
+
+My title for Dr. Sriram's Talk is  "Formal Verification as a Search 
+Problem".
+
+I liked how he used robustness as the output of a formal verifier which 
+allowed him to frame the problem as a search problem. I think he 
+oversimplified his research but his presentation was effective through 
+use of pictures and colors.
+
+Regards,
+Mohammad
+
+From Marina.Kogan@colorado.edu  Tue Oct  2 23:13:14 2012
+MIME-Version: 1.0
+Content-type: text/plain; charset="us-ascii"
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.2 required=5.0 tests=BAYES_00,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Ap4EAOHIa1DAqBGa/2dsb2JhbAA7Cg6CYL0Lgic6GTgBPkIPEAgEG4d9AZZ0kH6HMYkIizOFSmADiFiNEZArgixa
+X-IronPort-AV: E=Sophos;i="4.80,527,1344232800"; 
+   d="scan'208";a="7157162"
+From: Marina Kogan <Marina.Kogan@colorado.edu>
+To: "lizb@colorado.edu" <lizb@colorado.edu>
+Date: Tue, 2 Oct 2012 23:13:10 -0600
+Subject: talk title
+Thread-Topic: talk title
+Thread-Index: AQHNoSXIj/14BBhbTUuZEShIoBUB9w==
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+acceptlanguage: en-US
+X-MIME-Autoconverted: from quoted-printable to 8bit by research.cs.colorado.edu id q935DB1h026448
+
+Hi Dr. Bradley,
+Sorry it's so late. My title for Sriram's talk would be: 
+
+Improving cyber-physical systems by using robustness measure to identify their failures
+
+thanks,
+Marina
+
+From homa.hosseinmardi@gmail.com  Tue Oct  2 23:33:53 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=f46d04479f77c81c0a04cb20fb71
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.3 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,HTML_MESSAGE,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AnsCAH3Na1DRVdazk2dsb2JhbABFDoU4AbkiCCMBAQEBCQkLCRQEI4IXIgIsARseAxIIAQddAREBBQFXh1ABAw+WfYJhCQOMJYFsgQmFBAoZJw1ZiHUBBQyOMYMgA4hYjRGOTBYpg0xa
+X-IronPort-AV: E=Sophos;i="4.80,527,1344232800"; 
+   d="scan'208";a="40080187"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=koE54XtICb1VX12WSno+oMkdnymulNWb9z0Z0VmtpYs=;
+        b=PATCLNGsuCr/Fyq/19kSX6oj4+BRQbA14IVWOuZ9aEuPFPZcncozItYLe/oCeNJN7B
+         /tmpaxuNQXEU109Gr/gspYxA9hMbMLxMp44PEXEZHUaFqb2Qab79cO34+GFMl9Li7+Ht
+         qRPLt/QPyt72lclNX5TWqGByZa61GDF+KsRcC0gpPfiUfQmXsGrE8BPj3TV1nPAqBcJh
+         5i1+1xObnjwR+pCs2cbdLit/VTWG19T54o+ZLBr3tZBDV58isiOBqQ+C9+qOsNafwXA/
+         5IVH+YZf+zSynyMvgiQNZF5RToLF2c7iTC4+kHXftuSXhvl0lzucoC0h6wGQG4bymucs
+         VSTQ==
+Date: Tue, 2 Oct 2012 23:33:50 -0600
+Subject: topic for Professor Sankaranarayanan talk
+From: Homa Hosseinmardi <homa.hosseinmardi@gmail.com>
+To: lizb@cs.colorado.edu
+
+--f46d04479f77c81c0a04cb20fb71
+Content-Type: text/plain; charset=ISO-8859-1
+
+Dear Professor Bradley,
+
+here is my topic for Professor Sankaranarayanan talk:
+
+" theoretical approach in solving Cyber Physical System's challenges"
+
+Best Regards
+Homa
+
+--f46d04479f77c81c0a04cb20fb71
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Dear Professor Bradley,<div><br><div>here is my topic for Professor=A0<span=
+ style=3D"font-family:Arial,sans-serif;white-space:pre-wrap;background-colo=
+r:rgb(255,255,255)">Sankaranarayana</span><span style=3D"font-family:Arial,=
+sans-serif;white-space:pre-wrap;background-color:rgb(255,255,255)">n talk:<=
+/span></div>
+<div><font face=3D"Arial, sans-serif"><span style=3D"white-space:pre-wrap">=
+<br></span></font><div>&quot; theoretical approach in solving Cyber Physica=
+l System&#39;s challenges&quot;</div></div><div><br></div><div>Best Regards=
+</div>
+<div>Homa</div></div>
+
+--f46d04479f77c81c0a04cb20fb71--
+
+From khaled.alanezi@colorado.edu  Wed Oct  3 08:29:45 2012
+MIME-Version: 1.0
+Content-type: text/plain; charset=us-ascii
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.2 required=5.0 tests=BAYES_00,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AgsKAJpKbFDAqBGa/2dsb2JhbABFDr1QBAKCF4IbRh64a4kIjj2DIAOIWI0Qkl5a
+X-IronPort-AV: E=Sophos;i="4.80,528,1344232800"; 
+   d="scan'208";a="7117805"
+From: Khaled Alanezi <khaled.alanezi@colorado.edu>
+Subject: Title for Dr. Sriram's Colloquium 
+To: Elizabeth.Bradley@colorado.edu
+Date: Wed,  3 Oct 2012 08:27:20 -0600 (MDT)
+
+Hello Prof. Liz,
+
+I would suggest giving the talk the title of: "Using Robustness to Enhance the 
+Accuracy of CPS Falsification Methods".
+
+Please accept my apology for being late.
+
+Warm regards,
+Khaled.
+

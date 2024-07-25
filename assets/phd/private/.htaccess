@@ -1,0 +1,5 @@
+AuthType Digest
+AuthName "PhD-course"
+AuthDigestProvider file
+AuthUserFile /home/research/faculty/lizb/public_html/.htdigest
+Require valid-user

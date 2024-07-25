@@ -1,0 +1,1124 @@
+From John.Klingner@colorado.edu  Thu Oct 25 16:15:13 2012
+MIME-Version: 1.0
+Content-type: text/plain; charset=us-ascii
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.9 required=5.0 tests=BAYES_00 autolearn=ham
+	version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApwIAMK5iVDAqBGa/2dsb2JhbABEDsEcBASCD4IZJSEZBRW+bYkIjyqCQ2EDiFyNGZJwXA
+X-IronPort-AV: E=Sophos;i="4.80,650,1344232800"; 
+   d="scan'208";a="9894483"
+From: John Klingner <John.Klingner@colorado.edu>
+Subject: Colloquium Title
+To: lizb@cs.colorado.edu
+Date: Thu, 25 Oct 2012 16:15:04 -0600 (MDT)
+
+Modeling Learning: Why won't the clicking stop?
+
+From nksconnor@gmail.com  Thu Oct 25 16:17:18 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=f46d0438eba9caa34d04cce990d1
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.1 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	HTML_MESSAGE,RCVD_IN_DNSWL_MED,T_DKIM_INVALID autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AjICAMK5iVBKfVItk2dsb2JhbABEDoVBAapfkgIIIwEBAQEJCQsJFAQjgjcCLAEsDQMNBQgBAgVdEgEFAVeHUAMPnE+CCWAJA48khSQnDUyJAgEFDI8egyQDiFyNGo5cFimBWIF8XA
+X-IronPort-AV: E=Sophos;i="4.80,650,1344232800"; 
+   d="scan'208";a="50870587"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:date:x-google-sender-auth:message-id:subject
+         :from:to:content-type;
+        bh=48+XQoaPbstdHqH9wYYvewiRuaCubCXXNtb+QAfw2os=;
+        b=DERBA2vI7RQOQ92SbzCMoUJx7InIPtd93AfxZUIgmbJVGNxrAVZgLFkaNnCOI6OufD
+         HwMr8Y/J7z2c6jK1DNQoAgCZkeM9N57Gxl/a368yi+TtJJ/kQauwI5yvZFkRlIr7XO86
+         z1G5eM2bVPJ325U5IEvf9YyqoXbshjfP9wXvH/Ng8Y1QqiS3+G6ikNkwLpB0Kg1tSZsF
+         o/HSxRVnC+jfxX21+oGAP5B3kXDF3pnwiMiHxyxqAqwa5zqnzgipy+cPmfxiAtI19fm6
+         EaDI8WrVyKR1GCswo5Cc3Y6dlp/g8yZDirMBKMe40QdK1/Oe8ua84nOECcqQRR9cHS55
+         2B9Q==
+Sender: nksconnor@gmail.com
+Date: Thu, 25 Oct 2012 16:17:15 -0600
+X-Google-Sender-Auth: L5FvOyBiW3ZieWMcot7PtpjPh9g
+Subject: Seminar title
+From: Nora Connor <Nora.Connor@colorado.edu>
+To: lizb@cs.colorado.edu
+
+--f46d0438eba9caa34d04cce990d1
+Content-Type: text/plain; charset=ISO-8859-1
+
+My alternative title for today's CS colloquium:
+
+Inferring "Eureka!" moments from learning data
+
+Cheers, Nora
+
+--f46d0438eba9caa34d04cce990d1
+Content-Type: text/html; charset=ISO-8859-1
+
+My alternative title for today&#39;s CS colloquium:<br><br>Inferring &quot;Eureka!&quot; moments from learning data<br><br>Cheers, Nora<br>
+
+--f46d0438eba9caa34d04cce990d1--
+
+From josenavasmolina@gmail.com  Thu Oct 25 16:39:07 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=047d7b10cf37d97ca704cce9de61
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.3 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,HTML_MESSAGE,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AjICAJu+iVDRVaAzjWdsb2JhbABEDoVBAbxhCCMBAQEBCQkLCRIGI4I3AiwBGx4DEggBAgVdAREBBQFXh08BAw+cToIJYAkDjC6CdoR/ChknDVmIdQEFDI8egyQDiFyNGo5cFimDVFw
+X-IronPort-AV: E=Sophos;i="4.80,650,1344232800"; 
+   d="scan'208";a="50884985"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=iFlnaaI4JVDjiUHkMv1EnQZd2aJRDKvMI9bdEbL0BAU=;
+        b=QbvW4Mr1D6BgehPUWktM7h1ipM7ogDCZkl/oijutQnbGJxXe9PFpgceDIIOmVm8GRk
+         6NmFvfY93u6p/c9M8VRFmKf1PmYo5yVpf0ycp5RREpMYjIkRAWO/H/zFh4OaTFPD8qAb
+         Ox+fnSjjPn3raoVPCyU68IHUSQ9t1jSefRg9QalXTnJqTIHjAvSsrj6E4oH/u4T44nSA
+         +yI48cOXqio5p3yyGHw+KhybcDFSPEveeQOjWg+YOr0Sr+I0FtAWlQfrV2xcMqeSo/yE
+         kiGyR2RKt8dlnsf81NB4pxNv+9yRKwkJFss+aje5kkBSyDgK+C9mGMC7jwQzLadC3N43
+         LFuQ==
+Date: Thu, 25 Oct 2012 16:39:04 -0600
+Subject: CSCI 6000: alternative title for Ryan Baker's talk
+From: Jose Navas <josenavasmolina@gmail.com>
+To: lizb@cs.colorado.edu
+
+--047d7b10cf37d97ca704cce9de61
+Content-Type: text/plain; charset=ISO-8859-1
+
+WWWRWWRRWRRR When students learn?
+
+-- 
+Jose Navas
+
+--047d7b10cf37d97ca704cce9de61
+Content-Type: text/html; charset=ISO-8859-1
+
+WWWRWWRRWRRR When students learn?<br clear="all"><div><br></div>-- <br>Jose Navas<br>
+
+--047d7b10cf37d97ca704cce9de61--
+
+From Yogesh.Virkar@colorado.edu  Thu Oct 25 16:48:25 2012
+MIME-Version: 1.0 (Apple Message framework v1283)
+Content-type: text/plain; charset=us-ascii
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.2 required=5.0 tests=BAYES_00,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AsMIAODAiVDAqBGb/2dsb2JhbABEDo4bswEEBIIPgl8zvnCJCI8qgkNhA4hcoAlc
+X-IronPort-AV: E=Sophos;i="4.80,650,1344232800"; 
+   d="scan'208";a="9900159"
+From: Yogesh Shrikant Virkar <Yogesh.Virkar@colorado.edu>
+Subject: Alternative title for Ryan Baker's Colloquium
+Date: Thu, 25 Oct 2012 16:48:23 -0600
+To: lizb@cs.colorado.edu
+
+'A simple approach to model student learning'
+
+From fdkong.jd@gmail.com  Thu Oct 25 17:39:52 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=0016e6db2d780c538504cceab8d9
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.1 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	HTML_MESSAGE,RCVD_IN_DNSWL_MED,T_DKIM_INVALID autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AjICAMPMiVDRVdSxjWdsb2JhbABEDoVBAapfkgIIIwEBAQEJCQsJEgYjghUiAiwBOQMNBQgBAgVdEgEFAVeHUAMPnD+CCWAJA48khSknDUyJAgEFDI8egyQDiFyNGo5cFimBWIF8XA
+X-IronPort-AV: E=Sophos;i="4.80,650,1344232800"; 
+   d="scan'208";a="50994472"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:date:x-google-sender-auth:message-id:subject
+         :from:to:content-type;
+        bh=KM3vmGmjLfzF892V5+Jd8d6SNAAV5v9dUnlI2rCUqSI=;
+        b=F+p+MIeCcEovoyyugVpl5Pq9eP/5YtYkYWtvzNPpeoHW75ZDpgUkfLlCmqy7Wf2Ldb
+         KhT3F20L1joWpTzjjWy0GR2dxAxQ5ff1RReFxNSjbCv3k7U4MsR4MrTdfIPZwTSNmarv
+         3wy1nn0oM2B3YMkIbm24n99t3UPjsg0eZEGbLN+pzTs/ZZ/HzL8dgD522jAtL+qHQlKg
+         xwgQvNBMnEHI5sTtHUYplWeJni0/p3ey7x05hu1xtpx4R3F6vN61FUmq3vguXH9ew3NM
+         9wyv81jQwrl4CDJOuNFdCXyMsbAy/9oIMZLwxGegLTU1EIcaaXOx4BEL1/mQbYI2bsQe
+         8qeQ==
+Sender: fdkong.jd@gmail.com
+Date: Thu, 25 Oct 2012 17:39:49 -0600
+X-Google-Sender-Auth: q53stf0l4UyU3DMsFg3W_pxIJcc
+Subject: my alternative title for the colloquium talk (Fande Kong)
+From: Fande Kong <Fande.Kong@colorado.edu>
+To: Elizabeth.Bradley@colorado.edu
+
+--0016e6db2d780c538504cceab8d9
+Content-Type: text/plain; charset=ISO-8859-1
+
+Dear Prof.Bradley,
+
+My alternative title for the colloquium talk is:  use a new machine-learned
+model to assess the probability that a student learned a skill.
+
+Regards,
+-- 
+Fande Kong
+Department of Computer Science
+University of Colorado at Boulder
+
+--0016e6db2d780c538504cceab8d9
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Dear Prof.Bradley,<div><br></div><div>My alternative title for the colloqui=
+um talk is: =A0use a new machine-learned model to assess the probability th=
+at a student learned a skill.<br clear=3D"all"><div><br></div><div>Regards,=
+</div>
+-- <br><div>Fande Kong</div>Department of Computer Science<div>University o=
+f Colorado at Boulder</div><br>
+<br>
+</div>
+
+--0016e6db2d780c538504cceab8d9--
+
+From arashm81@gmail.com  Fri Oct 26 06:38:28 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=20cf3074d566b2880804ccf59777
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.3 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,HTML_MESSAGE,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Am8DAA6EilDRVdgzjWdsb2JhbABEDoVCAbxeCCMBAQEBCQkLCRIGI4I3AiwBGx4DEggBAgVdAREBBQFXh08BAw+bbIIJYAkDjC6CdoR2ChknDVmIdQEFDI8mgyQDiFyNGo5cFimDVFw
+X-IronPort-AV: E=Sophos;i="4.80,654,1344232800"; 
+   d="scan'208";a="51043316"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=w5vYfD1Rb48YF176NSmzc0KUyFg1Jd8DWoKVnGbqt58=;
+        b=t/fj05kO9eLLkZO/SysYn7THevsR3X+9pplhzVU+PK3mi0FsMP1zfrm0kRQ+4LjhpF
+         o4JXbxVi74HdqQF+AHEu8BjILJcAw/45XaxTeCt3OJ+zinoEnADNFYRnlCfROw2M1Kfa
+         +GqnAfQwHWuXWTi3eWlQwbv9oTzr+1ynKJznnXgExuIXlL1N7gZHL4r7kYV/rpxvQltG
+         LggjX9JNvEDxG2vOmp1sIzCybZuiF2ga3Q/lJ69Pnq3N6Chz6lGfMR6hjkwmh/RuFEbN
+         cO8yKTdGmq36Mdx40rEnLrFuAx7Ou/SkBT3lVX2cuvtC2taVkAU1AjnZeShgyLixXwoQ
+         IX+g==
+Date: Fri, 26 Oct 2012 06:38:10 -0600
+Subject: Alternative topic for the Oct, 25th talk
+From: Arash Mehraban <arashm81@gmail.com>
+To: lizb@cs.colorado.edu
+
+--20cf3074d566b2880804ccf59777
+Content-Type: text/plain; charset=ISO-8859-1
+
+Educational data mining as an emerging technology
+
+--20cf3074d566b2880804ccf59777
+Content-Type: text/html; charset=ISO-8859-1
+
+Educational data mining as an emerging technology<br>
+
+--20cf3074d566b2880804ccf59777--
+
+From Adam.Robbinspianka@colorado.edu  Fri Oct 26 07:57:01 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=20cf3074d4c061e77a04ccf6b14b
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.2 required=5.0 tests=BAYES_00,HTML_MESSAGE,
+	RCVD_IN_DNSWL_MED autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AqIJAB2WilDAqBGa/2dsb2JhbABEDrBLAY9jgXmBEII3AoEDAQIFXRIBBQFXh2Sbb4IJYgkDlUKJCI87gyQDiFmNGo5dFimBIoIyXA
+X-IronPort-AV: E=Sophos;i="4.80,654,1344232800"; 
+   d="scan'208";a="9946548"
+Date: Fri, 26 Oct 2012 07:56:56 -0600
+Subject: Alternate title for 25 Oct CS Seimiar
+From: Adam Robbins-Pianka <Adam.Robbinspianka@colorado.edu>
+To: lizb@cs.colorado.edu
+
+--20cf3074d4c061e77a04ccf6b14b
+Content-Type: text/plain; charset=ISO-8859-1
+
+Eureka! Pinpointing the Moment of Skill Acquisition
+
+--20cf3074d4c061e77a04ccf6b14b
+Content-Type: text/html; charset=ISO-8859-1
+
+Eureka! Pinpointing the Moment of Skill Acquisition
+
+--20cf3074d4c061e77a04ccf6b14b--
+
+From wasade@gmail.com  Fri Oct 26 13:02:07 2012
+MIME-Version: 1.0
+Content-type: text/plain; charset=ISO-8859-1
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.3 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,RCVD_IN_DNSWL_MED autolearn=ham
+	version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApIFAIjdilDRVdyzm2dsb2JhbABEDoVDAbtzAoEBCCMBAQEBAQgJCwkUJ4I3AgUnARsRDQMSEF0BEQEFAT0ah1EBAw+bOIIJYgkDjDCCdoR6ChknDVmIdQEFDI1OgWGDJAOIWY0ajl0WKYNUXA
+X-IronPort-AV: E=Sophos;i="4.80,654,1344232800"; 
+   d="scan'208";a="51273649"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=4DRMDOVPSys8HVN+6Bs9bsKDaWwM3vdI/2UTah+9HeA=;
+        b=sAxlZFxadw0k/QeMmtYJqMxRBAEVHziKPqBdR2Ov9VWh03494yY/FNVAbkZqARd+8/
+         Uajr2YNEivYIrBAbttOikG8g2l6o77g0Xmiau0F9IZzrEPx6GH4E6J8sbDP/rdLc0EqT
+         RJIt1OrxZaBADldFg78oYqBguJojMzWl6oh1ZF6JWIc72sp5YDcwNLtf74rqRPm7GxkE
+         ZFcv+AzeURUm+y+RoyUXo9R5xvDqvBij3sCHjFaJolNoeGA9k0AGZreY+AsChButiy3q
+         iutP8uimTx4wE4BCcdKo6UeTefq7FAut3NqAj7tlOQoiMJCwmvGG7LXG5/JtaV3quey9
+         M0Iw==
+Date: Fri, 26 Oct 2012 13:02:05 -0600
+Subject: CSCI-6000 talk title
+From: Daniel McDonald <wasade@gmail.com>
+To: lizb@cs.colorado.edu
+
+Water torture and the detection of learning
+
+From abbie.jacobs@gmail.com  Fri Oct 26 14:15:13 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=e0cb4efe2dcc0374ae04ccfbfae1
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.3 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,HTML_MESSAGE,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AogCAInuilDRVdmzm2dsb2JhbABEDoVDAbx8CCMBAQEBAQgJCwkUJ4I3AiwBGxENAxIIAQIFXQERAQUBV4dRAQMPmyaCCWIJA4wwgnaEdgoZJw1ZiHUBBQyPL4MkA4hZjRqOXRYpg1Rc
+X-IronPort-AV: E=Sophos;i="4.80,656,1344232800"; 
+   d="scan'208";a="51443651"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:from:date:message-id:subject:to:content-type;
+        bh=Y+7ai4dg0H7hDdL2oQTzfoGrIOK460M5ucQhP0mPj8A=;
+        b=047S+1G7qgmv7ATPOXmzXsOy6t39vSikfNNa09dlS2m3eflqXPPvTwqJwkgcBBok1P
+         P6PRZZsFcNPmaw2TJH0nBXwP4e0CBBfEVyLfwJHi/86/kYDN43tONC1E+iLge64shEEy
+         URR4aMr8MeRRN/ogaJ4LKbSnNMZCyF85zyt+5pc+iYv+YYIMSi/Reju2nDqM4+CV3KqF
+         P4hJhhN8qJuW5Lif4q6+t3ucHg9Lc1cS9AICpzLzBJOuYfgYQTZsKwu3JBQZaHQJfaFy
+         56omUQhBjua/6dPDrDaa03sPG6CJV9viX6jBPvj+s9/JdkHkA+VIq8Peltu42g1lJiPb
+         DFzw==
+From: Abbie Jacobs <abbie.jacobs@gmail.com>
+Date: Fri, 26 Oct 2012 14:14:49 -0600
+Subject: CSCI 6000 - alternate title for Ryan Baker colloq. Oct 25
+To: lizb@cs.colorado.edu
+
+--e0cb4efe2dcc0374ae04ccfbfae1
+Content-Type: text/plain; charset=ISO-8859-1
+
+Models for Cognitive Assist: moment-by-moment learning
+
+--e0cb4efe2dcc0374ae04ccfbfae1
+Content-Type: text/html; charset=ISO-8859-1
+
+<div>Models for Cognitive Assist: moment-by-moment learning</div>
+
+--e0cb4efe2dcc0374ae04ccfbfae1--
+
+From liz.bradley88+caf_=lizb=cs.colorado.edu@gmail.com  Sun Oct 28 19:45:38 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=f46d04428eac34b2dc04cd28d338
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.2 required=5.0 tests=BAYES_00,HTML_MESSAGE,
+	RCVD_IN_DNSWL_MED autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AvUCAJPejVDRVdszlGdsb2JhbABBA78ggzcIIwEBAQEJCQsJEimCFSICWSoBB10SAQUBIjWHZJpeggliCQOUUIkIjymDKQOVdI5hFimELQ
+X-IronPort-AV: E=Sophos;i="4.80,668,1344232800"; 
+   d="scan'208";a="51700143"
+X-Forwarded-To: lizb@cs.colorado.edu
+X-Forwarded-For: liz.bradley88@gmail.com lizb@cs.colorado.edu
+Received-SPF: pass (google.com: domain of David.T.Coleman@colorado.edu designates 128.138.128.235 as permitted sender) client-ip=128.138.128.235;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of David.T.Coleman@colorado.edu designates 128.138.128.235 as permitted sender) smtp.mail=David.T.Coleman@colorado.edu
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AkILAFLejVDAqBGb/2dsb2JhbABBA7B6AY4lgzeBEIIVIgJZKgEHXRIBBQEiNYdkml6CCWIJA5ROiQiPKYMpA5V0jmEWKYEigws
+X-IronPort-AV: E=Sophos;i="4.80,668,1344232800"; 
+   d="scan'208";a="10132467"
+From: David Coleman <David.T.Coleman@Colorado.EDU>
+Date: Sun, 28 Oct 2012 21:45:17 -0400
+Subject: Alternative Title
+To: Liz Bradley <liz.bradley88@gmail.com>
+
+--f46d04428eac34b2dc04cd28d338
+Content-Type: text/plain; charset=ISO-8859-1
+
+Professor Bradley,
+
+My alternative title for Ryan Baker's talk is: "Using Machine Learning for
+Student Learning".
+
+However, I must confess that I actually did not attend his talk because of
+the after-school High School robotics club that I mentored had a important
+meeting that day. I visited Baker's website and read a few abstracts of his
+top papers though, if that helps.
+
+Thanks,
+
+--
+Dave Coleman
+Grad Student, Correll Lab
+University of Colorado Boulder
+251.463.2345
+
+--f46d04428eac34b2dc04cd28d338
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+
+
+
+
+<p class=3D"p1">Professor Bradley,</p>
+<p class=3D"p2">My alternative title for Ryan Baker&#39;s talk is: &quot;Us=
+ing Machine Learning for Student Learning&quot;.</p>
+<p class=3D"p1">However, I must confess that I actually did not attend his =
+talk because of the after-school High School robotics club that I mentored =
+had a important meeting that day. I visited Baker&#39;s website and read a =
+few abstracts of his top papers though, if that helps.</p>
+
+
+<p class=3D"p1">Thanks,</p>
+<p class=3D"p1">--</p>Dave Coleman<div><font color=3D"#666666">Grad Student=
+, Correll Lab<br></font><div><font color=3D"#666666">University of Colorado=
+ Boulder<br>251.463.2345</font></div></div><br>
+
+--f46d04428eac34b2dc04cd28d338--
+
+From shaosong2012@gmail.com  Sun Oct 28 21:01:45 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative;
+	boundary="----=_NextPart_000_0016_01CDB54F.6ED180C0"
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,HTML_MESSAGE autolearn=ham
+	version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AggDAErwjVDRVdazk2dsb2JhbABEDoI8gweIW6tSiFkIIwEBAQEJCQsJFAQjgiUIAggCFAUTARsRDQMJBQQJB1QKEQEFAR0BBB4FEodRAQMPmleCCWIJA4wwgnaECQoZJw1ZiHUBBQyPIoMkA4hZjRuOYT+DVFw
+X-IronPort-AV: E=Sophos;i="4.80,668,1344232800"; 
+   d="scan'208,217";a="52094806"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=from:to:subject:date:message-id:mime-version:content-type:x-mailer
+         :thread-index:content-language;
+        bh=EaNp38TtUUzfxhTCGwttMR92Moazq+I9C/1AqkXpbk8=;
+        b=MLqi14ZsZ3qz/ZTJPTps2ik6/QyE1WAOwaYu602spqWFXrz+LYwiiomGNRpEB49eqB
+         t6H4jVaoO46TrFp/hkgWgnHAwixOzDHbBSfvtJE106mITA1NsANerrT8dnFx79m2JCsB
+         P/uv4vUQr0hp4gvYV9tUk/pz5m5Ij6GzGQlF9j/Lh3++NLZAfer29ZIkcDfZJ5zyOELB
+         6TgLhNpu683JzS6wgF3bHcvUP5Md+adx1wR4IXLo/joXzO/aYi+vjagqYLKSSjbv4W42
+         Ei0ze6zald7s8W3ktSzw7jNkIG1fWo68xyLrDKuEWBoBGCZO8hLtUMtBar4FWUXyctoD
+         z1nA==
+From: "shaosong.li" <shaosong2012@gmail.com>
+To: <lizb@cs.colorado.edu>
+Subject: title for Ryan Baker's talk
+Date: Sun, 28 Oct 2012 21:01:41 -0600
+Thread-Index: Ac21gQ75n406hix9QseenjDMUY+a4Q==
+Content-Language: en-us
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0016_01CDB54F.6ED180C0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Professor Bradley,
+
+ 
+
+The title for Ryan Baker's talk is: Students Learning Predicting Model.
+
+ 
+
+Regards,
+
+Shaosong Li
+
+
+------=_NextPart_000_0016_01CDB54F.6ED180C0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 14 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"\@SimSun";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal>Professor =
+Bradley,<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal>The title for Ryan Baker's talk is: Students Learning =
+Predicting Model.<o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal>Regards,<o:p></o:p></p><p class=3DMsoNormal>Shaosong =
+Li<o:p></o:p></p></div></body></html>
+------=_NextPart_000_0016_01CDB54F.6ED180C0--
+
+From Ning.Gao@colorado.edu  Sun Oct 28 22:15:45 2012
+MIME-Version: 1.0 (Mac OS X Mail 6.2 \(1499\))
+Content-type: text/plain; charset=us-ascii
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.9 required=5.0 tests=BAYES_00 autolearn=ham
+	version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AgkFAKICjlDAqBGa/2dsb2JhbABEDo4etDOBCYJfGQMXgSYkiBmaXJdMiQiRcWEDiFmdXYIyXA
+X-IronPort-AV: E=Sophos;i="4.80,669,1344232800"; 
+   d="scan'208";a="10166474"
+From: Ning Gao <Ning.Gao@colorado.edu>
+Subject: Another title for Ryan Baker
+Date: Sun, 28 Oct 2012 22:14:57 -0600
+To: "lizb@cs.colorado.edu" <lizb@cs.colorado.edu>
+X-MIME-Autoconverted: from quoted-printable to 8bit by research.cs.colorado.edu id q9T4Fhja008197
+
+Hi,Liz
+	I'm Ning Gao. My title for Ryan Baker is "Machine learning model for student learning"
+
+From liz.bradley88+caf_=lizb=cs.colorado.edu@gmail.com  Mon Oct 29 08:30:14 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=14dae93404f58a431d04cd337f22
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.3 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,HTML_MESSAGE,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Aq0CAJ6SjlDRVdazk2dsb2JhbABBA4VRvQoIIwEBAQEJCQsJFAQjghUiAiwBGxENAxIIAQIFXQERAQUBIjWHUQEDD5sbggliCQOMMIJ2hDkKGScNWYh1AQUMjx2DKQOIWY0bjmEWKYQw
+X-IronPort-AV: E=Sophos;i="4.80,672,1344232800"; 
+   d="scan'208";a="51919419"
+X-Forwarded-To: lizb@cs.colorado.edu
+X-Forwarded-For: liz.bradley88@gmail.com lizb@cs.colorado.edu
+Received-SPF: pass (google.com: domain of mcevoy.andy@gmail.com designates 10.50.214.68 as permitted sender) client-ip=10.50.214.68
+Authentication-Results: mr.google.com; spf=pass (google.com: domain of mcevoy.andy@gmail.com designates 10.50.214.68 as permitted sender) smtp.mail=mcevoy.andy@gmail.com; dkim=pass header.i=mcevoy.andy@gmail.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=kM+9h/XsnYmC7it3gpxii3ID2DIe7JDBugHizWYGijA=;
+        b=eY3RvITbtRZOkFETi8jTaOcLl6vYwha8AbFdruKdq0EqFaescULPygvk3MDWPdfcwt
+         SMjLe30Ya2PFZmpPaUfRr9Dua1tLU5YD2SOEa5z8m98/UTRGd0Kqpp5eIXRzG4pBy15p
+         Ho1ZTDF50hFWQQmdx0TaHaft0NpzFiYEfwJfC34235gy6vkISukijQ1xJW84+9PgZ/p2
+         avTCShLLxUXj3xnMGdy837Gk4sMv3F1BvJVNigs1oNjmGOz7yoCGzEVvHxtu3WguE5+Y
+         Wc7jInquPkSAFGeA/KeZAuWcrfcAoHBe6OjJPglQAH5BoiUzKudEWk5QWPLraEkDS2mL
+         mISA==
+Date: Mon, 29 Oct 2012 08:29:33 -0600
+Subject: Title for talk
+From: Andy McEvoy <mcevoy.andy@gmail.com>
+To: Liz Bradley <liz.bradley88@gmail.com>
+
+--14dae93404f58a431d04cd337f22
+Content-Type: text/plain; charset=ISO-8859-1
+
+Learning when students learn
+
+
+
+Andy McEvoy
+
+Doctoral Student
+Correll Lab
+Department of Computer Science
+University of Colorado at Boulder
+
+(832) 439 - 6150
+
+--14dae93404f58a431d04cd337f22
+Content-Type: text/html; charset=ISO-8859-1
+
+Learning when students learn<br><br><br clear="all"><br>Andy McEvoy<br>
+<br>
+Doctoral Student <br>Correll Lab<br>
+Department of Computer Science<br>
+University of Colorado at Boulder<br>
+<br>
+(832) 439 - 6150<br>
+
+--14dae93404f58a431d04cd337f22--
+
+From liz.bradley88+caf_=lizb=cs.colorado.edu@gmail.com  Mon Oct 29 11:54:35 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=047d7b603e9616da4004cd365c4d
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-3.8 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	HTML_MESSAGE,HTML_OBFUSCATE_05_10,RCVD_IN_DNSWL_MED,T_DKIM_INVALID
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AskDAPXBjlDRVdszlGdsb2JhbABEgkqDB6sPkgoIIwEBAQEJCQsJEimCNwIsASwNAw0FCAEHXRIBBQFXh1IDD5puggliCQOPJoR3Jw1MiQIBBQyPIoMkA4hZjRuOYRYpgViCWA
+X-IronPort-AV: E=Sophos;i="4.80,673,1344232800"; 
+   d="scan'208";a="52185557"
+X-Forwarded-To: lizb@cs.colorado.edu
+X-Forwarded-For: liz.bradley88@gmail.com lizb@cs.colorado.edu
+Received-SPF: pass (google.com: domain of emily.panxin@gmail.com designates 10.14.175.71 as permitted sender) client-ip=10.14.175.71
+Authentication-Results: mr.google.com; spf=pass (google.com: domain of emily.panxin@gmail.com designates 10.14.175.71 as permitted sender) smtp.mail=emily.panxin@gmail.com; dkim=pass header.i=emily.panxin@gmail.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:date:x-google-sender-auth:message-id:subject
+         :from:to:content-type;
+        bh=/Lb2bFA/CHmN7hPfptjwOHZ4bO+fSBMa5dvhmo6/bmU=;
+        b=LHAYpb96+G4QWBvkGFO0E0E0o0G58fCBvE0pz33YHFomJH4p+I7eU4b4BtJKDBxUeZ
+         BZodBW9XAubX6qxhWlzOC4o7+2bafvy6i8dJEPx5VquLJpNXXgRiu28AreacAPglO/DI
+         eOfJw8s7al1NMU5l1QF0snvqI0lPViciwQ7sjCxY8NoN4lISBs2l4RGMFzuj1js76w0e
+         iagk/B6JfUekPUIW2QCqs7AEym8ozAQa1lf43vG66hiZu2m/pZHk5s4kJvJB+DUkkUq9
+         iPj6Fjljx/Dyo/BH7ZbhuwP6XfSq/qzM0Ch/up45ZrtFV42jz4wqXlNPxHZMII8vpLBr
+         BUAw==
+Sender: emily.panxin@gmail.com
+Date: Mon, 29 Oct 2012 11:54:23 -0600
+X-Google-Sender-Auth: s2t-hALEdbZq_PXWI9CoppYJoCg
+Subject: CSCI6000 - Alternative Title for Baker's Colloquium Talk
+From: "Xin (Emily) Pan" <Xin.Pan@colorado.edu>
+To: liz.bradley88@gmail.com
+
+--047d7b603e9616da4004cd365c4d
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hi Professor Bradley,
+
+My alternative title is A Model to Predict Student's Learning Behavior for T
+utoring.
+
+Regards,
+Xin
+
+--047d7b603e9616da4004cd365c4d
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div style=3D"color:rgb(34,34,34);font-family:arial,sans-serif;font-size:12=
+.800000190734863px;background-color:rgb(255,255,255)">Hi Professor Bradley,=
+</div><div style=3D"color:rgb(34,34,34);font-family:arial,sans-serif;font-s=
+ize:12.800000190734863px;background-color:rgb(255,255,255)">
+<br></div><span style=3D"color:rgb(34,34,34);font-family:arial,sans-serif;f=
+ont-size:12.800000190734863px;background-color:rgb(255,255,255)">My alterna=
+tive title is=A0</span>A Model to Predict Student&#39;s Learning Behavior f=
+or T<span style=3D"color:rgb(34,34,34);font-family:arial,sans-serif;font-si=
+ze:12.800000190734863px;background-color:rgb(255,255,255)">utoring.</span><=
+br clear=3D"all">
+<div><br></div><div>Regards,</div>
+<div>Xin</div><br>
+
+--047d7b603e9616da4004cd365c4d--
+
+From hadi.ra@gmail.com  Mon Oct 29 20:44:05 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=14dae9d716fc3900a804cd3dc2e0
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.3 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,HTML_MESSAGE,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AuACACA+j1DRVdczjWdsb2JhbABEDoI8gwe9ZAgjAQEBAQkJCwkSBiOCFSICLAEbEQ0DEggBB10BEQEFAVeHUQEDD5pmggliCQOMMIJ2hGgKGScNWYh1AQUMjyKDJAOIWY0bjmEWKYNUXA
+X-IronPort-AV: E=Sophos;i="4.80,676,1344232800"; 
+   d="scan'208";a="52281426"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:from:date:message-id:subject:to:content-type;
+        bh=HY4QJfs/FQrsIiCIk9QwILm+Xhw8f+fPlY+zeeZi/fg=;
+        b=aNgmSauI1LjFl+2euwcfETGF/VcftkfmTS0ZB8fMRiGHEBL4rkQMYLa6v44DZT79iR
+         WtOhW0Hi6ZmAAYcZ1bR4SlW7186kZg1lcA4gVHI/GWUjebvpxQSK4TRK+nZtjV+NW5x/
+         L9cHh0X4h4f5HSf8XZFYgATdNicH4q0WWM/iLZHFOvQJvecvF9GeO6OW4dsQLYBTqDvh
+         QFZU7FrMxjsFJkvRdvVo4ND8C6LH5wrE/Cr63zWkdLFHC2k8nlX4EWBW85GRiL3odjoe
+         dSD6fHVaxuWe7aRXnI7NCiGztC+Jubi32v16xGqNCwKDBGfPbHNO4kJrcY4xxBb9MKor
+         5MSg==
+From: Hadi RavanBakhsh <hadi.ra@gmail.com>
+Date: Mon, 29 Oct 2012 20:43:31 -0600
+Subject: Alternative Title for Ryan Baker's Colloquium Talk
+To: lizb@cs.colorado.edu
+
+--14dae9d716fc3900a804cd3dc2e0
+Content-Type: text/plain; charset=ISO-8859-1
+
+Dear Prof. Bradly,
+
+I assume that the following title suits the talk:
+
+Analyzing Different Learning Patterns on Students Learning Curve
+
+Regards,
+
+--Hadi Ravanbakhsh
+
+--14dae9d716fc3900a804cd3dc2e0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div style=3D"font-size:12.727272033691406px;color:rgb(34,=
+34,34);font-family:arial,sans-serif"><div>Dear Prof. Bradly,</div><div><br>=
+</div><div>I assume that the following title suits the talk:</div><div><br>=
+</div>
+
+
+
+<div><span style=3D"background-color:rgb(255,255,255)">Analyzing Different =
+Learning Patterns on Students Learning Curve</span></div><div><span style=
+=3D"background-color:rgb(255,255,255)"><br></span></div></div><div style=3D=
+"font-size:12.727272033691406px;color:rgb(34,34,34);font-family:arial,sans-=
+serif">
+
+
+
+Regards,</div><div style=3D"font-size:12.727272033691406px;color:rgb(34,34,=
+34);font-family:arial,sans-serif"><br></div><span style=3D"font-size:12.727=
+272033691406px;color:rgb(34,34,34);font-family:arial,sans-serif">--Hadi Rav=
+anbakhsh</span></div>
+
+
+--14dae9d716fc3900a804cd3dc2e0--
+
+From: Shang Ma <Shang.Ma@colorado.edu>
+To: <lizb@cs.colorado.edu>
+Subject: homework
+Date: Tue, 30 Oct 2012 10:55:54 -0600
+Content-Language: en-us
+Thread-Index: Ac22vwTRvJzVT+aeSmiWFP/9EDBIxA==
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_047C_01CDB68D.229E3510
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_047D_01CDB68D.229E3510"
+
+
+------=_NextPart_001_047D_01CDB68D.229E3510
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+The alternative title for Ryan Baker's talk:             To learn how
+students learn
+From liz.bradley88+caf_=lizb=cs.colorado.edu@gmail.com  Tue Oct 30 17:26:17 2012
+MIME-Version: 1.0
+Content-type: text/plain; charset=us-ascii
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.2 required=5.0 tests=BAYES_00,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AsEDAMBhkFDRVdazjWdsb2JhbABEwmEEBHsIIwEBAQEJCQsJEgYjghkeAiYegTYBBQFXh2SbF4IJYgkDjhyHHYkIjw6CQ2EDiFmNGwGOYT+EMA
+X-IronPort-AV: E=Sophos;i="4.80,683,1344232800"; 
+   d="scan'208";a="52598051"
+X-Forwarded-To: lizb@cs.colorado.edu
+X-Forwarded-For: liz.bradley88@gmail.com lizb@cs.colorado.edu
+Received-SPF: pass (google.com: domain of Eric.Goodman@colorado.edu designates 128.138.128.246 as permitted sender) client-ip=128.138.128.246;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of Eric.Goodman@colorado.edu designates 128.138.128.246 as permitted sender) smtp.mail=Eric.Goodman@colorado.edu
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApsIANVgkFDAqBGa/2dsb2JhbABEwmEEBIILghlGHrYehx2JCI8OgkNhA4hZjRsBk1A
+X-IronPort-AV: E=Sophos;i="4.80,683,1344232800"; 
+   d="scan'208";a="10400758"
+From: Eric L Goodman <Eric.Goodman@Colorado.EDU>
+Subject: Alternate title for Doug Sicker's talk
+To: liz.bradley88@gmail.com
+Date: Tue, 30 Oct 2012 17:26:11 -0600 (MDT)
+
+Dr. Bradley,
+Here is my alternate title:
+
+Squeezing more bits into available spectrum.
+
+Thanks,
+Eric Goodman
+
+From Mohammad.Khajah@colorado.edu  Tue Oct 30 19:23:12 2012
+MIME-Version: 1.0
+Content-type: text/plain; charset=ISO-8859-1; format=flowed
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.2 required=5.0 tests=BAYES_00,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AloJAH18kFDAqBGa/2dsb2JhbABEDo4etEUEBIEDgQmCXRsaCz0WGAMCAQIBWAgBAYgCmyaRE4cXiQiPDoMkA4hZnV6CMlw
+X-IronPort-AV: E=Sophos;i="4.80,683,1344232800"; 
+   d="scan'208";a="10411084"
+Date: Tue, 30 Oct 2012 19:23:14 -0600
+From: Mohammad Khajah <Mohammad.Khajah@colorado.edu>
+To: lizb@cs.colorado.edu
+Subject: Title for Dr. Ryan's Talk
+
+Dear Dr. Bradley
+
+The alternate title for Dr. Ryan's talk is "Mining for the Moment of 
+Learning in Educational Logs".
+
+Best Regards,
+Mohammad
+
+From gungjm@gmail.com  Tue Oct 30 20:55:30 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=bcaec54b4924c82c7604cd520818
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,HTML_MESSAGE autolearn=ham
+	version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: At0CAKCSkFDRVdyzlGdsb2JhbABEDsNoCCMBAQEBCQkLCRIpgh4BAQEWAiwBGxENAxIJBw1PAQERAQUBNQgah1EBAw+bIIIJYgkDjDCBbIEKhGYKGScNWYh1AQUMiwRngxeDJAOIWYtHgVWLMYMwFimDVFw
+X-IronPort-AV: E=Sophos;i="4.80,683,1344232800"; 
+   d="scan'208";a="53046475"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=xqUb6kbIEiKm7J4FF5PjmaV8ApLuvELP182QVduPrB4=;
+        b=REZqPkM0nBxi0De+6DG9t88DdhquR+sPh58P9iA1D3AHt7WEBJ3H1ZyFInZZNNch0k
+         q4kRfPkJoee6swWSHQDdRmBYHYEQizZntS3jLTyLWinB4bzAFNSxYUB3Vrw/0m6nlDj/
+         5uJ0r6s9Gr5RSQzEcEZUVeFxPkDGjKjAuEOng65ufrfDZ/VZADoYBW7mdulMHlXXWX8M
+         iMASPJJVU7Y7Y9q+w02HH9UW/p0XHuk4WahXMCDZkZVaM6aLwoaye+XAnaoyzc6duF53
+         9QEl97l6CMuF4TxobJfoEC7Kw0xDtsoguxomQiTK7ISqlOGhjOHgTomt2q6gR1qLpPsn
+         llEA==
+Date: Tue, 30 Oct 2012 20:55:25 -0600
+Subject: Alternative title for Dr. Baker's Talk
+From: James Gung <gungjm@gmail.com>
+To: lizb@cs.colorado.edu
+
+--bcaec54b4924c82c7604cd520818
+Content-Type: text/plain; charset=ISO-8859-1
+
+*Eureka! Modeling Learning using a Bayesian Approach*
+
+On Tue, Oct 23, 2012 at 3:47 PM, James Gung <gungjm@gmail.com> wrote:
+
+> *Spectrum Policy and You: Coexisting in Pieces*
+>
+> On Tue, Oct 9, 2012 at 4:16 PM, James Gung <gungjm@gmail.com> wrote:
+>
+>> *Methods for Teaching Robotics*
+>>
+>> On Tue, Oct 2, 2012 at 2:36 PM, James Gung <gungjm@gmail.com> wrote:
+>>
+>>> I would title Dr. Sankaranarayanan's talk, *An optimization-based
+>>> approach to falsification*
+>>>
+>>> James Gung
+>>>
+>>> On Tue, Sep 18, 2012 at 10:40 AM, James Gung <gungjm@gmail.com> wrote:
+>>>
+>>>> I would title Dr. Rozenberg's talk, *Formal Representation of
+>>>> Biochemical Reactions, an Introduction.*
+>>>>
+>>>> James Gung
+>>>>
+>>>
+>>>
+>>
+>
+
+--bcaec54b4924c82c7604cd520818
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<i>Eureka! Modeling Learning using a Bayesian Approach</i><br><br><div clas=
+s=3D"gmail_quote">On Tue, Oct 23, 2012 at 3:47 PM, James Gung <span dir=3D"=
+ltr">&lt;<a href=3D"mailto:gungjm@gmail.com" target=3D"_blank">gungjm@gmail=
+.com</a>&gt;</span> wrote:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex"><i>Spectrum Policy and You: Coexisting in Pi=
+eces</i><br><br><div class=3D"gmail_quote">On Tue, Oct 9, 2012 at 4:16 PM, =
+James Gung <span dir=3D"ltr">&lt;<a href=3D"mailto:gungjm@gmail.com" target=
+=3D"_blank">gungjm@gmail.com</a>&gt;</span> wrote:<br>
+
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex"><i>Methods for Teaching Robotics</i><br><br>=
+<div class=3D"gmail_quote">On Tue, Oct 2, 2012 at 2:36 PM, James Gung <span=
+ dir=3D"ltr">&lt;<a href=3D"mailto:gungjm@gmail.com" target=3D"_blank">gung=
+jm@gmail.com</a>&gt;</span> wrote:<br>
+
+
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex">I would title Dr. Sankaranarayanan&#39;s tal=
+k, <i>An optimization-based approach to falsification</i><div><br></div><di=
+v>
+
+
+James Gung<br><br><div class=3D"gmail_quote">On Tue, Sep 18, 2012 at 10:40 =
+AM, James Gung <span dir=3D"ltr">&lt;<a href=3D"mailto:gungjm@gmail.com" ta=
+rget=3D"_blank">gungjm@gmail.com</a>&gt;</span> wrote:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex"><div>I would title Dr. Rozenberg&#39;s talk,=
+=A0<i>Formal Representation of Biochemical Reactions, an Introduction.</i><=
+/div>
+
+
+
+<span><font color=3D"#888888"><div><br></div><div>James Gung</div>
+</font></span></blockquote></div><br></div>
+</blockquote></div><br>
+</blockquote></div><br>
+</blockquote></div><br>
+
+--bcaec54b4924c82c7604cd520818--
+
+From Marina.Kogan@colorado.edu  Tue Oct 30 21:07:30 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative;
+	boundary="_000_C9431BDF1443CF48954DB3F1C7BD2C40F699055CD1EXC4adcolorad_"
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.9 required=5.0 tests=BAYES_00,HTML_MESSAGE
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Ap4EAKOVkFDAqBGa/2dsb2JhbABEDoI7I8IZgiUtJhoeAQx0DxcBBBuHfgGbI5EThw6JCJFRYQOIWY0ckEKCMlw
+X-IronPort-AV: E=Sophos;i="4.80,683,1344232800"; 
+   d="scan'208,217";a="10398428"
+From: Marina Kogan <Marina.Kogan@colorado.edu>
+To: "lizb@colorado.edu" <lizb@colorado.edu>
+Date: Tue, 30 Oct 2012 21:07:28 -0600
+Subject: Baker Title
+Thread-Topic: Baker Title
+Thread-Index: Ac23FJbNhDKhk+TNSpmCbKzRbnPtJw==
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+acceptlanguage: en-US
+
+--_000_C9431BDF1443CF48954DB3F1C7BD2C40F699055CD1EXC4adcolorad_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Simple Machine Learning techniques for detecting the moment of learning
+
+--_000_C9431BDF1443CF48954DB3F1C7BD2C40F699055CD1EXC4adcolorad_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><META HTTP-EQUIV=3D"Content-Type" CONTENT=
+=3D"text/html; charset=3Dus-ascii"><meta name=3DGenerator content=3D"Micros=
+oft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue vli=
+nk=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal>Simple Machine L=
+earning techniques for detecting the moment of learning<o:p></o:p></p></div=
+></body></html>=
+
+--_000_C9431BDF1443CF48954DB3F1C7BD2C40F699055CD1EXC4adcolorad_--
+
+From james.balasalle@gmail.com  Tue Oct 30 21:12:05 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=20cf3071c812435a1804cd5244c9
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.3 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,HTML_MESSAGE,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AiYCAESWkFDRVdQzjWdsb2JhbABEDoVCAb4kCCMBAQEBCQkLCRIGI4I3AiwBGxENAxIIAQIFXQERAQUBBlGHUQEDD5skggliCQOMMIFsgQqEYQoZJw1ZiHUBBQyPAoMkA4hZjRyOYRYpg1Rc
+X-IronPort-AV: E=Sophos;i="4.80,683,1344232800"; 
+   d="scan'208";a="52744360"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=2DQOQpWO9JInJOTGh25cpHufOwQKX943xHvNw1XA0LA=;
+        b=kJGGNkk3PlZdZcQo5UWJfayxV5t/cKtH9rBRWtu/zch/bZyxg/NX87W4VkUdvXw6zQ
+         qaW7Us3sPenPttP8Uo8xZT3H04XFXiY/RYUQdUMMWk+VtNiWodW+W+8Dq3nVOyT37kGg
+         Pts88q0f6UICqV+VaHCaL7+5MUUNUkdX5yg1V7TEiQFlwocueeV/C6M/vUaPAfRd9OWg
+         CHTTQKxWTVK99LXtoIAMupqT8pJdqMUxhPIQNIfsb8J6ryoFIYR9NHysh6PvS4zOIh1e
+         3DLwviVuAhI9o14eaCXgzra51CDKBLqbJIiSuA46XzVhksSMH3TJCZpWd7YQc9aextCs
+         nXVQ==
+Date: Tue, 30 Oct 2012 21:12:03 -0600
+Subject: Talk Title
+From: James Balasalle <james.balasalle@gmail.com>
+To: lizb@cs.colorado.edu
+
+--20cf3071c812435a1804cd5244c9
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hi Liz,
+
+My title for last week's talk is: "Using Probability to Determine when
+Learning Happens."
+
+    James
+
+--20cf3071c812435a1804cd5244c9
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hi Liz,<div><br></div><div>My title for last week&#39;s talk is: &quot;Usin=
+g Probability to Determine when Learning Happens.&quot;</div><div><br></div=
+><div>=A0 =A0 James</div>
+
+--20cf3071c812435a1804cd5244c9--
+
+From homa.hosseinmardi@gmail.com  Tue Oct 30 22:31:51 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=bcaec54ee4ea89012604cd536185
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.3 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,HTML_MESSAGE,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AkQGAC2pkFDRVdszlGdsb2JhbABEDoVCAb0lA3wIIwEBAQEJCQsJEimCFSICLAEbEQ0DEggBB10BEQEFARYEIxqHUQEDD5skggliCQOMMIFsgQqEZgoZJw1ZiHUBBQyMWIIqgyQDiFmNHI5hFimDVFw
+X-IronPort-AV: E=Sophos;i="4.80,684,1344232800"; 
+   d="scan'208";a="52907374"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=iwCzFiQU01e0X3QdOSGJnhWCH9wnsvY3Rch91AcvnR4=;
+        b=oCL/thI/FixqARB/XG13twgQexY7hucFVumslsNu8l0wX8FAPtTZLyqvAut5E/4acD
+         BJJ2hGga1zMXAKwY7udlxuqc11zzKi7M8twFFELa67OERblLTE8yxEWXMUG3fw9OIxHV
+         A0YV/TOPudRZNQkgI6gFLVIu+r16v6EmaGLvuoZwSaNqTwBtbm9YFibMz71SyHCxhlnA
+         YZSlTmWwFo6p32YKwukOE5qBRYRbFVC/kDkfncnaaqcjjQu1lzz+WUO8HOCigrkdRctU
+         5A33Mf1HM4jKKYYC9qDQxemlufFOKOjZeEeIx5PzLdjcXVN6XrfzChl8/d6acjR938WV
+         Tvig==
+Date: Tue, 30 Oct 2012 22:31:49 -0600
+Subject: topic
+From: Homa Hosseinmardi <homa.hosseinmardi@gmail.com>
+To: lizb@cs.colorado.edu
+
+--bcaec54ee4ea89012604cd536185
+Content-Type: text/plain; charset=ISO-8859-1
+
+Dear Professor Bradley,
+
+Here is the alternative topic for Professor Ryan Baker' talk
+
+" a machine learning based assessment of learning process"
+
+Best Regards
+Homa
+
+--bcaec54ee4ea89012604cd536185
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Dear Professor Bradley,<div><br><div>Here is the alternative topic for Prof=
+essor=A0<span style=3D"background-color:rgb(255,255,255);font-family:Arial,=
+sans-serif;white-space:pre-wrap">Ryan Baker&#39; talk</span></div><div><spa=
+n style=3D"background-color:rgb(255,255,255);font-family:Arial,sans-serif;w=
+hite-space:pre-wrap"><br>
+</span></div><div><span style=3D"background-color:rgb(255,255,255)"><font f=
+ace=3D"Arial, sans-serif"><span style=3D"white-space:pre-wrap">&quot; a mac=
+hine learning based assessment of learning process&quot;</span></font></spa=
+n></div>
+<div><span style=3D"background-color:rgb(255,255,255);font-family:Arial,san=
+s-serif;white-space:pre-wrap"><br></span></div><div><span style=3D"backgrou=
+nd-color:rgb(255,255,255);font-family:Arial,sans-serif;white-space:pre-wrap=
+">Best Regards</span></div>
+<div><span style=3D"background-color:rgb(255,255,255);font-family:Arial,san=
+s-serif;white-space:pre-wrap">Homa</span></div></div>
+
+--bcaec54ee4ea89012604cd536185--
+
+
+Subject: Ryan Baker's Alternative Title
+From: Adam Cardenas <acardenas89@gmail.com>
+To: lizb <lizb@cs.colorado.edu>
+
+--f46d04462c0adf8ae104cd5f032a
+Content-Type: text/plain; charset=ISO-8859-1
+
+Good day Professor,
+
+Here is my alternate title.
+
+
+Mining the Learning Process

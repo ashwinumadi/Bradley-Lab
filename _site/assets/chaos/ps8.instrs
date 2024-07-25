@@ -1,0 +1,19 @@
+See <a href="http://www.cs.colorado.edu/~lizb/public_ftp/data1"> data 1 </a>.
+
+There are a couple of things that you should note:
+
+- These are real-world-size data acquisition files, and part of
+the point of this problem set is to learn how to deal with
+memory-intensive tasks like this.  You may have to hack around a
+bit: only reading in 1000 points at a time, etc etc.  If you have
+unavoidable trouble because of the size of these data sets and
+your (computer's) memory, please come see me.
+
+- If you end up rummaging around in ftp data somewhere and find a
+'.gz' suffix, it means that a file has been compressed with gzip.
+The way to decompress it is:
+
+gzip -d foo.gz
+
+...which will transform foo.gz into foo and leave it in the same
+directory.

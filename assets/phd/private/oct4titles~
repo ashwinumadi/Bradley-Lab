@@ -1,0 +1,1348 @@
+From abbie.jacobs@gmail.com  Thu Oct  4 22:13:02 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=0016e6db292346bcf204cb4815f3
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,HTML_MESSAGE autolearn=ham
+	version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AsUDAOJdblDRVdSzjWdsb2JhbABFDoU6AbhGBIECCCMBAQEBCQkLCRIGI4I5AiwBGx4DEggBAgVdAREBBQFLDIdQAQMPlxGCYQkDjCWCdYUEChknDVmIdQEFDItwgiqDIQOIWI0Rjk0WKYNSWg
+X-IronPort-AV: E=Sophos;i="4.80,538,1344232800"; 
+   d="scan'208";a="41444612"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:from:date:message-id:subject:to:content-type;
+        bh=+5j0tK2nczM6CaQ9bBEyjREE57Se7ykBQgxACZpzxNI=;
+        b=eiCmWlZKKc1yiHTAIpflFZrhxDUGWosH09m+9GuxTyP9gUvjD5Vz5oH/uQ01MN9mLN
+         7n3eHfflHf5DrW7CSfunyI/42rJEQ+wVZCesHTID7XxRtC3R7VhUhNLVZNDbyTwWr6QS
+         VNesw1lz1qKtsGsX6bCuv464Nvd/EIPejOFh0iZZydfLIfx7/3n5s70YRFNRbTPLViBq
+         a8f//OD55mP6BVhZF3uCmvKhcE8i8VDYLcG3ajhkgaQ2RY27aXIiGMhvQ/u7tXhZrRZw
+         1F8cib+LVdjrhAOWgEA11430jAQjCWTYx5lMv+rD4lPwv15UjCg7vAtNsqx+dNRew7Wy
+         rsag==
+From: Abbie Jacobs <abbie.jacobs@gmail.com>
+Date: Thu, 4 Oct 2012 22:12:21 -0600
+Subject: CSCI 6000 - alternate title for Correll colloquium, 10/4/12
+To: lizb@cs.colorado.edu
+
+--0016e6db292346bcf204cb4815f3
+Content-Type: text/plain; charset=ISO-8859-1
+
+Confronting computer science curricula through robotics education
+
+--0016e6db292346bcf204cb4815f3
+Content-Type: text/html; charset=ISO-8859-1
+
+<div>Confronting computer science curricula through robotics education</div>
+
+--0016e6db292346bcf204cb4815f3--
+
+From arashm81@gmail.com  Fri Oct  5 04:51:39 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=047d7b5da79d0682ab04cb4da8d2
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.3 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,HTML_MESSAGE,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ArAEAGG6blDRVdizk2dsb2JhbABFDoU7AbhIBIECCCMBAQEBCQkLCRQEI4I5AiwBGx4DEggBAgVdAREBBQFXh1ABAw+XLoJhCQOMJYJ1hHoKGScNWYh1AQUMizo2giqDIQOIWI0Tjk8WKYNSWg
+X-IronPort-AV: E=Sophos;i="4.80,541,1344232800"; 
+   d="scan'208";a="41240239"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=X/PGkNnaLbRfFy8iOPr0uFR7LABN1BS8wuQ+VGxDsd4=;
+        b=C7t/bpnqBifqc/hO93nZpXz3BKUjts8ywUKP5ielzsiXW9+Ck/lAQdJxU12IvqR32/
+         Z2KiGC4lwuljBjs3VlqzVccVzT96dQL2m4wrIfECH9FMW4X4cfjoy2gXLhPdOnE3MI0M
+         fKPjUOwbWJhms7Eqle/CCCmAMlSb8IUoSOaE7qKKt8D0vPehbGOvY7J788WMeFs/G2N1
+         v7CitpXfVvtt1YwGAshRDRPCH/mtHql5AY0NhqFGh0SC84NoPPl/stlpZfUnLPioSApx
+         ftYCtXCJX+WOeoC/JhW9MdtQdEK8NOs/gI58CtHmXYG+l62riC2iifEkalcj7mnxyVXv
+         hZ2Q==
+Date: Fri, 5 Oct 2012 04:51:38 -0600
+Subject: Thursday Oct 4th Talk: Nikolaus's topic
+From: Arash Mehraban <arashm81@gmail.com>
+To: lizb@cs.colorado.edu
+
+--047d7b5da79d0682ab04cb4da8d2
+Content-Type: text/plain; charset=ISO-8859-1
+
+An outline of the two semester sequence of robotic courses offered at CU
+boulder and possible research projects.
+
+--047d7b5da79d0682ab04cb4da8d2
+Content-Type: text/html; charset=ISO-8859-1
+
+An outline of the two semester sequence of robotic courses offered at CU boulder and possible research projects.<br>
+
+--047d7b5da79d0682ab04cb4da8d2--
+
+From emily.panxin@gmail.com  Thu Oct  4 16:36:55 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=047d7b343b2048010104cb436409
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.1 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	HTML_MESSAGE,RCVD_IN_DNSWL_MED,T_DKIM_INVALID autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AssDALYOblBKfVMzjWdsb2JhbABFDoU6AadSkG8EgQEIIwEBAQEJCQsJEgYjghciAiwBOQMNBQgBB10SAQUBV4dRAw+WdYJhCQOPGoUmJw1MiQIBBQyLcIIqgyEDiFiNEY5NFimBVoF8Wg
+X-IronPort-AV: E=Sophos;i="4.80,537,1344232800"; 
+   d="scan'208";a="40952755"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:date:x-google-sender-auth:message-id:subject
+         :from:to:content-type;
+        bh=Jk+uqgQ6ALU5YVV6Qp5THEA++NRByGSDKhQg5pd4Fg4=;
+        b=oFtdFOaPQuyqpKosUvsEujwAd3AfxiZGJBOpmavsgejBML2lp3HC2mhahb8pzFG4Hu
+         sB895UjXFSya0wLvhEB/WQikhscssRPdit+c4jSXi8St6wbDHR15Hd5FzSj52S9oFKc9
+         BSStD40YqUNF3ejUTn9kwtEB1xbnnLp8WekThh5ygxCkcP2i7dTXqqm6ib+6Myd4AnOq
+         RVLDV2PWpKVPs6nXCbUrc7NiBluKKegjEIRuc2evV8nt+S6POSfAhv/3OE4utWx9w08f
+         x4dnkYbxCZY1f13z/prKgEOJpX/k6o06exCDvuYc/QkeIb42dDOqWEycPXtJIOwNvHa/
+         u5Kw==
+Sender: emily.panxin@gmail.com
+Date: Thu, 4 Oct 2012 16:36:52 -0600
+X-Google-Sender-Auth: ZDlAcM8hQjMrxLqwAlMDrizr9QU
+Subject: CSCI6000 - Alternative title for Correll's colloquium talk
+From: "Xin (Emily) Pan" <Xin.Pan@colorado.edu>
+To: lizb@cs.colorado.edu
+
+--047d7b343b2048010104cb436409
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hi Professor Bradley,
+
+My alternative title is State of art robots and technical and educational
+challenges.
+
+Regards,
+Xin
+
+>
+
+-- 
+Regards,
+Xin
+
+--047d7b343b2048010104cb436409
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<font><span style=3D"line-height:normal;background-color:rgba(255,255,255,0=
+)">Hi Professor Bradley,</span></font><div><br><div><font><span style=3D"li=
+ne-height:normal;background-color:rgba(255,255,255,0)" dir=3D"ltr">My alter=
+native title is=A0</span><span style=3D"line-height:normal;background-color=
+:rgba(255,255,255,0)">State of art robots and technical and educational cha=
+llenges</span><span style=3D"line-height:normal;background-color:rgba(255,2=
+55,255,0)" dir=3D"ltr">.</span></font></div>
+<div><font><span style=3D"line-height:normal;background-color:rgba(255,255,=
+255,0)"><br></span></font></div><div><font><span style=3D"line-height:norma=
+l;background-color:rgba(255,255,255,0)">Regards,</span></font></div><div><f=
+ont><span style=3D"line-height:normal;background-color:rgba(255,255,255,0)"=
+>Xin<span></span></span></font></div>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex">
+</blockquote></div><br><br>-- <br><div>Regards,</div>
+<div>Xin</div><br>
+
+--047d7b343b2048010104cb436409--
+
+From Ahmet.Aydin@colorado.edu  Thu Oct  4 16:43:25 2012
+MIME-Version: 1.0
+Content-type: text/plain; charset=us-ascii
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.2 required=5.0 tests=BAYES_00,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApwEAPsPblDAqBGb/2dsb2JhbABFDsARghtGHoILtw6JCI4mgyEDiFiNEAGSXlo
+X-IronPort-AV: E=Sophos;i="4.80,537,1344232800"; 
+   d="scan'208";a="7395167"
+From: Ahmet Arif Aydin <Ahmet.Aydin@colorado.edu>
+Subject: Alternative title for the talk :
+To: lizb@cs.colorado.edu
+Date: Thu,  4 Oct 2012 16:43:23 -0600 (MDT)
+
+Dear liz;
+
+Alternative title for the talk :
+
+
+"How do robots effect our daily life and Difficulties of 
+Teaching Robotics " 
+
+Ahmet Aydin
+
+From fdkong.jd@gmail.com  Thu Oct  4 17:31:44 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=bcaec555571825d70a04cb442860
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.1 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	HTML_MESSAGE,RCVD_IN_DNSWL_MED,T_DKIM_INVALID autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AtIBANYbblDRVdmzm2dsb2JhbABFDoU6AadWkXUIIwEBAQEBCAkLCRQnghciAiwBOQMNBQgBAgVdEgEFAUsMh1EDD5Z9gmEJA48ahSMnDUyJAgEFDI4agyEDiFiNEY5NFimBVoF8Wg
+X-IronPort-AV: E=Sophos;i="4.80,537,1344232800"; 
+   d="scan'208";a="41039046"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:date:x-google-sender-auth:message-id:subject
+         :from:to:content-type;
+        bh=eS0AI5DtAjZeHOGD7Y0DMzdKkJbMpwknCu0/I9ZoEF4=;
+        b=b2zQNnQjGy1Ia/PcGz6CuboADfs5sj0S7X1is0Uk3TAJDRNaGNwNOVnmRRmIRu/H/T
+         credqdGc8iD9zhktXnNOP184Z2D1pDYm7X7Uwo6eKjPVe1vap1WMYLrsZXI1H9Ym4A1D
+         couq6ZiUXr+HGSmpw19BZ0km4odCqGKocKUqwFUcMAy1ajTJ5qVUkcVsFkMaH+s/l/0O
+         nmX8pHswjohF6ZsAZWFS9BNbz5lWUU+jKwMGxTTtvfHPhRKsFrAr+MzyB0cR9nRqNNRz
+         utka04EwlKYg9bM/obixaSQ1+pGtHvya+gud+MWuMeTjCzvKLIcXjMlL6udQg0BQcW6W
+         Zo9Q==
+Sender: fdkong.jd@gmail.com
+Date: Thu, 4 Oct 2012 17:31:38 -0600
+X-Google-Sender-Auth: oT3a0KCRqXyJ5Gp3dLrM0CFORvI
+Subject: my alternative title for Nikolaus's colloquium
+From: Fande Kong <Fande.Kong@colorado.edu>
+To: lizb@cs.colorado.edu
+
+--bcaec555571825d70a04cb442860
+Content-Type: text/plain; charset=ISO-8859-1
+
+Dear Prof. Bradley
+
+The title is:  some progresses and challenges in computer science education
+by personal robots
+
+-- 
+Fande Kong
+Department of Computer Science
+University of Colorado at Boulder
+
+--bcaec555571825d70a04cb442860
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Dear Prof.=A0Bradley<div><br></div><div>The title is: =A0some progresses an=
+d challenges in computer science education by personal robots<br clear=3D"a=
+ll"><div><br></div>--=A0<div>Fande Kong<br>Department of Computer Science<d=
+iv>University of Colorado at Boulder</div>
+<br>
+</div></div>
+
+--bcaec555571825d70a04cb442860--
+
+From Yogesh.Virkar@colorado.edu  Fri Oct  5 12:00:23 2012
+MIME-Version: 1.0 (Apple Message framework v1283)
+Content-type: text/plain; charset=us-ascii
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.2 required=5.0 tests=BAYES_00,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AtAGANcfb1DAqBGb/2dsb2JhbABFDo4Ksg6CYboCiQiOJoJBYAOIWJ9zWg
+X-IronPort-AV: E=Sophos;i="4.80,541,1344232800"; 
+   d="scan'208";a="7424599"
+From: Yogesh Shrikant Virkar <Yogesh.Virkar@colorado.edu>
+Subject: Title for Nikolaus Correll's colloquium
+Date: Fri, 5 Oct 2012 12:00:06 -0600
+To: lizb@cs.colorado.edu
+
+Hi Liz,
+
+Here is my title- 'About Correll's Robotics course at CU'.
+
+Thanks,
+Yogesh 
+
+From David.T.Coleman@colorado.edu  Fri Oct  5 13:06:02 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=bcaec54b4ac099b86104cb548f95
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.2 required=5.0 tests=BAYES_00,HTML_MESSAGE,
+	RCVD_IN_DNSWL_MED autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Ah0KAF4vb1DAqBGb/2dsb2JhbABCAw6FOwGoBgGRR4EQghciAoEDAQIFXRIBBQFXh2OXQYJhCQOVQYkIjiEFgyEDiFiNE45PFimBIIIyWg
+X-IronPort-AV: E=Sophos;i="4.80,541,1344232800"; 
+   d="scan'208";a="7496116"
+From: David Coleman <David.T.Coleman@colorado.edu>
+Date: Fri, 5 Oct 2012 13:05:37 -0600
+Subject: Alternative Title: Nikolaus Correll
+To: lizb@research.cs.colorado.edu
+
+--bcaec54b4ac099b86104cb548f95
+Content-Type: text/plain; charset=ISO-8859-1
+
+My alternative title:
+
+"Teaching Kids Robotics: An Eccentric Scientist's Approach"
+
+Thanks!
+
+--
+Dave Coleman
+Grad Student, Correll Lab
+University of Colorado Boulder
+251.463.2345
+
+--bcaec54b4ac099b86104cb548f95
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div>My alternative title:</div><div><br></div><div>&quot;Teaching Kids Rob=
+otics:=A0An=A0Eccentric=A0Scientist&#39;s Approach&quot;</div><div><br></di=
+v><div>Thanks!</div><br clear=3D"all">--<br>Dave Coleman<div><font color=3D=
+"#666666">Grad Student, Correll Lab<br>
+
+
+</font><div><font color=3D"#666666">University of Colorado Boulder<br><a hr=
+ef=3D"tel:251.463.2345" value=3D"+12514632345" target=3D"_blank">251.463.23=
+45</a></font></div></div><br>
+
+--bcaec54b4ac099b86104cb548f95--
+
+From gaoning777@gmail.com  Sun Oct  7 13:11:01 2012
+MIME-Version: 1.0 (Mac OS X Mail 6.2 \(1499\))
+Content-type: text/plain; charset=us-ascii
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-3.2 required=5.0 tests=BAYES_00,DKIM_ADSP_CUSTOM_MED,
+	DKIM_SIGNED,FREEMAIL_FROM,NML_ADSP_CUSTOM_MED,RCVD_IN_DNSWL_MED,
+	T_DKIM_INVALID autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AtkEADXTcVDRVd+zlGdsb2JhbABFDoU8iE+xAAgjAQEBAQcLCwkSKYI5AiYGARseAxIQXhEBBQEiNYdQAQMPl2yCYQkDjCWCdYNtChknDVmIdQEFDJBzYAOIWI0ThWKIbT+DUlo
+X-IronPort-AV: E=Sophos;i="4.80,547,1344232800"; 
+   d="scan'208";a="42339514"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=from:content-type:content-transfer-encoding:subject:message-id:date
+         :to:mime-version:x-mailer;
+        bh=fLVttnmlkkZsxbEVCZlUT4aYDn6TSX39WXUSzWGmiSY=;
+        b=09wDeaQqez/Z/KwtSsC7fOXf26Zoq0lWuyiYkGlZHGirqNESIHRVhNBvPgcVFlrGEr
+         +4w6v+v1a4t6oQ648pZL8HpyzhyJD8I4p2zT3g0jKP604Q/JayKfEy2lCRR4LyqG9oZI
+         A3aw2hFhFGZrrIAxtpD4nDtcWRojapx3xBSBVNYwK+VGW1ZPrI2HR3LJWjVeVeNsqUN+
+         Y3Emom8WmQNV97OPy8dgIAMtb4P4xsDA5OQ2Hat1s1hNeHhjsF95/P1w35pEDOoHPo4k
+         yHBG91No8N4ELzNyAjFrxWM8ov872gCvJbO0AhebxIJRgihKBKW21x5WpZez2WfJ/O5M
+         1FzA==
+From: Gao Ning <gaoning777@gmail.com>
+Subject: another title for Nicolaus talk
+Date: Sun, 7 Oct 2012 13:10:54 -0600
+To: "lizb@cs.colorado.edu" <lizb@cs.colorado.edu>
+X-MIME-Autoconverted: from quoted-printable to 8bit by research.cs.colorado.edu id q97JAxfk031404
+
+Hi, Liz
+I'm Ning Gao and my title for his talk is "robots worlds: meet the personal needs"
+Thank you
+
+From shaosong2012@gmail.com  Sun Oct  7 23:37:46 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative;
+	boundary="----=_NextPart_000_0001_01CDA4E4.BF7447E0"
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,HTML_MESSAGE autolearn=ham
+	version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AtwBAL9lclDRVdszm2dsb2JhbABFDoI9gn+xAYhTCCMBAQEBAQgJCwkUJ4InCAIIAhQFEwEbHgMJBQQJB1QKEQEFAR0BBB4FEodQAQMPmAKCYQkDjCWCdYN5ChknDVmIdQEFDI4ygyEDiFiNE45PP4NSWg
+X-IronPort-AV: E=Sophos;i="4.80,551,1344232800"; 
+   d="scan'208,217";a="42599282"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=from:to:subject:date:message-id:mime-version:content-type:x-mailer
+         :thread-index:content-language;
+        bh=bDmxp9cz2e4kAsoczntxDwBV8fTWo4fXsGALBOasnHY=;
+        b=tzMVdISCAuZ5EW2nIiDZ8l7oRK9T1/y5dX1lenPOdWzIO8PVS29IU5UK/ZG8JPYZQZ
+         r6u56qAmR4lzBDEmiYafdsVNM8bBLfpfpIgo97IhuGZxLuCRn6YNTMblddW7Pan15qaH
+         QSZyBZXjhgqdvmVhjdTXUWgFzcsmL571WAx0wCPtHobmKFB4LEiQYmKCykqUwOAO+gd8
+         b7RLaRHb/b8f/eaIh6FOlngYst/ACabzvxsv3fE5o6ljneqpW4N96SIo3/dDTmuI96Ov
+         M+J4EGuGM4hqk+5PkZax4jzVWeze5a2H5bTupkFnNhNdYCF2ZHjqZ6o4R+SEXolZqw6e
+         oIWg==
+From: "shaosong.li" <shaosong2012@gmail.com>
+To: <lizb@cs.colorado.edu>
+Subject: title of Nikolaus's talk
+Date: Sun, 7 Oct 2012 23:37:42 -0600
+Thread-Index: Ac2lFrwRXS4opAFYRmqIhX3p2ftimg==
+Content-Language: en-us
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0001_01CDA4E4.BF7447E0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Professor White,
+
+ 
+
+The title for Nikolaus's talk is  Key Challenges of Robotic System from
+Educational Perspective .
+
+ 
+
+Best Regards,
+
+Shaosong Li
+
+
+------=_NextPart_000_0001_01CDA4E4.BF7447E0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><META =
+HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 14 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"\@SimSun";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal>Professor =
+White,<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal>The title for Nikolaus&#8217;s talk is&nbsp; <i>Key =
+Challenges of Robotic System from Educational Perspective</i> =
+.<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal>Best Regards,<o:p></o:p></p><p =
+class=3DMsoNormal>Shaosong Li<o:p></o:p></p></div></body></html>
+------=_NextPart_000_0001_01CDA4E4.BF7447E0--
+
+From mcevoy.andy@gmail.com  Mon Oct  8 08:51:30 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=bcaec51a77d42afef804cb8d5bcf
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,HTML_MESSAGE autolearn=ham
+	version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AgkDAE7nclDRVdyzlGdsb2JhbABCAw6FPAG5VwgjAQEBAQkJCwkSKYIXIgIsARseAxIIAQddAREBBQFXh1ABAw+YVIJhCQOMJYJ1hD8KGScNWYh1AQUMji0FgyEDiFiNE45PFimDUlo
+X-IronPort-AV: E=Sophos;i="4.80,554,1344232800"; 
+   d="scan'208";a="42727279"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=x84UUsBlPN3x3OBDUTnvgdbpgAGGUei5T6WiVWNbnaQ=;
+        b=w+WHmhKUa8xlp0PIVThDIrEH6E16yXPrnagIhFJaalJfEt+ms3k9VgxpfcrvXEkqcE
+         14UAPYL/p20ocGt8qVrkB5ZypXsLxpmlReb4LyknlA+peRqhDi43aoS/Vqv0kDbyV5oJ
+         A/0u+vxdCqoGxSFMri1wVmBgcT4pzEfZhagRVMHOIWrEA9Ta6lCsPTPuZx2DVqwg5Uh9
+         J51482s15CfbpvkhN/Xputq9xzil5UCxIg3yxWswMXg1FQCyihI3kN0b5K9c16yWohfK
+         inTarVPYOhB/zpIDPDeXNZ2GWESw45bnzYSmii0xnKgKlev9OCUn0I/k4uaYgCCi0BmQ
+         hUEA==
+Date: Mon, 8 Oct 2012 08:51:27 -0600
+Subject: Title for Thursday's Talk
+From: Andy McEvoy <mcevoy.andy@gmail.com>
+To: lizb@cs.colorado.edu
+
+--bcaec51a77d42afef804cb8d5bcf
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hi Dr. Bradley,
+
+I ended up leaving town Wednesday afternoon with my family, so missed
+Thursday's talk.
+
+Let me know if there's anything you'd like me to do in the way of make up.
+>From what I hear, it wasn't one of the usual talks that I've heard before.
+
+
+Thanks,
+
+
+Andy McEvoy
+
+Doctoral Student
+Correll Lab
+Department of Computer Science
+University of Colorado at Boulder
+
+(832) 439 - 6150
+
+--bcaec51a77d42afef804cb8d5bcf
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hi Dr. Bradley,<br><br>I ended up leaving town Wednesday afternoon with my =
+family, so missed Thursday&#39;s talk.<br><br>Let me know if there&#39;s an=
+ything you&#39;d like me to do in the way of make up. From what I hear, it =
+wasn&#39;t one of the usual talks that I&#39;ve heard before.<br>
+<br><br>Thanks,<br><br clear=3D"all"><br>Andy McEvoy<br>
+<br>
+Doctoral Student <br>Correll Lab<br>
+Department of Computer Science<br>
+University of Colorado at Boulder<br>
+<br>
+<a href=3D"tel:%28832%29%20439%20-%206150" value=3D"+18324396150" target=3D=
+"_blank">(832) 439 - 6150</a><br>
+
+--bcaec51a77d42afef804cb8d5bcf--
+
+From Adam.Robbinspianka@colorado.edu  Mon Oct  8 12:13:10 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=0016369c8e1260616004cb902c98
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.2 required=5.0 tests=BAYES_00,HTML_MESSAGE,
+	RCVD_IN_DNSWL_MED autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AlAIAGMWc1DAqBGa/2dsb2JhbABFDoU9qBABkUuBEII5AoEDAQIFXRIBBQFXh2OZBoJhCQOVHYkIjj6DIQOIWI0Tjk8WKYEggjJa
+X-IronPort-AV: E=Sophos;i="4.80,555,1344232800"; 
+   d="scan'208";a="7618037"
+Date: Mon, 8 Oct 2012 12:13:07 -0600
+Subject: alternative title for Nikolaus's talk
+From: Adam Robbins-Pianka <Adam.Robbinspianka@colorado.edu>
+To: lizb@cs.colorado.edu
+
+--0016369c8e1260616004cb902c98
+Content-Type: text/plain; charset=ISO-8859-1
+
+"Does not compute": Teaching logical and mathematical underpinnings in
+robotics
+
+--0016369c8e1260616004cb902c98
+Content-Type: text/html; charset=ISO-8859-1
+
+&quot;Does not compute&quot;: Teaching logical and mathematical underpinnings in robotics
+
+--0016369c8e1260616004cb902c98--
+
+From John.Klingner@colorado.edu  Mon Oct  8 16:36:30 2012
+MIME-Version: 1.0
+Content-type: text/plain; charset=us-ascii
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.2 required=5.0 tests=BAYES_00,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApwEABhUc1DAqBGb/2dsb2JhbABFDsArghslIRkFggi5H4kIjjmDIQOIWI0SkmFa
+X-IronPort-AV: E=Sophos;i="4.80,556,1344232800"; 
+   d="scan'208";a="7729929"
+From: John Klingner <John.Klingner@colorado.edu>
+Subject: Alternative Talk Title
+To: lizb@cs.colorado.edu
+Date: Mon,  8 Oct 2012 16:36:26 -0600 (MDT)
+
+"Syllabi and Retrospectives on Robotics Education"
+
+From wasade@gmail.com  Mon Oct  8 17:17:02 2012
+MIME-Version: 1.0
+Content-type: text/plain; charset=ISO-8859-1
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.3 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,RCVD_IN_DNSWL_MED autolearn=ham
+	version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AvkBANZdc1DRVdszm2dsb2JhbABFDoU8AbleCCMBAQEBAQgJCwkUJ4I5AgUnARseAxIQXQERAQUBSwyHUAEDD5kTgmEJA4wlgnWEeAoZJw1ZiHUBBQyOLYMhA4hYjROOTxYpg1Ja
+X-IronPort-AV: E=Sophos;i="4.80,556,1344232800"; 
+   d="scan'208";a="42698199"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=tI+bB+4j+WHhMpqvx2/kxplWnpTIAqcM/V4PKQHGOhw=;
+        b=sgqIPKaFiEsPqNZYBsM9uJTvwnOMg9B4VhJQh0pDpLuXndum+qKkcFy3nYhXdkU9vw
+         CgOup4AVm+o98wZbWSKAbR6GcdyEDjEJm9Hia8UIOBvW7u7Drdb1AUJmwlwPNv12w5OA
+         FvfuYK55o011pXA12MIJuAWEOakWgSEVKtVEqJOU34f7AjE1XDA/Owtl5hWQSR+BH1qi
+         rzhs3Ca1E5769G8mcWJulLo6Bx+Dv1udDwJhJviZA4gCDfsLMMl4StrL6d7YYcwUpvgx
+         1zp2Nnk5qpLZ0jQ/whQoSKkNpC5GXyEbCfinvpoNoee3S9RyUmWUXkqCYMxQ4YGLEY0L
+         gWhA==
+Date: Mon, 8 Oct 2012 17:17:00 -0600
+Subject: Professor Correll's talk title
+From: Daniel McDonald <wasade@gmail.com>
+To: lizb@cs.colorado.edu
+
+"Robotics and Education"
+-Daniel
+
+From james.balasalle@gmail.com  Mon Oct  8 20:04:55 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=20cf307cfe6e85db1204cb96c3ee
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,HTML_MESSAGE autolearn=ham
+	version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AhkDAL+Fc1DRVdyzlGdsb2JhbABFDoU8AblgCCMBAQEBCQkLCRIpgjkCLAEbHgMSCAECBV0BEQEFAQZRh1ABAw+ZNIJhCQOMJYJ1hH4KGScNWYh1AQUMji2DIQOIWI0Tjk8WKYNSWg
+X-IronPort-AV: E=Sophos;i="4.80,556,1344232800"; 
+   d="scan'208";a="43117208"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=U0lJ1ybrtdBRk8RM+G6uNPwsA2ztDOVnUwNvAaWPDAg=;
+        b=qbqmlIzsbFSDFCDZmdDFtDGeO0FZAucVhRISA22nTJJZ8g+NhnNvS6OtD6mvsADKJ/
+         Xv5+y+YeMHpJkcuWV+3VaK07s7BGZpQacW51MCJdvDsZpfl9hH19jOGmhpyPZf4oT0t2
+         QS+L8pamKp388WEFAOK4+R+tL09OycCIe+ycttUl94oOUUhpTfZsksq0HlArJbr/GZ1V
+         OLIZs4AiKCZOTfKOyYdsDERyJ6bzKlIoDT4PhPvCZ5cfmO0Ps34jmG3phIPY2S6WiXhw
+         H8lDWAwipw9MX34LSBeNZjyFftM+i9ExO56tB8WOJM7nt79ae8vzx8LBZ84Vl15a78I0
+         x0bw==
+Date: Mon, 8 Oct 2012 20:04:52 -0600
+Subject: Talk Title
+From: James Balasalle <james.balasalle@gmail.com>
+To: lizb@cs.colorado.edu
+
+--20cf307cfe6e85db1204cb96c3ee
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hi Liz,
+
+My title for Prof. Correll's talk is "Philosophy and Structure of the
+Robotics Classes in our CS Dept."
+
+   James
+
+--20cf307cfe6e85db1204cb96c3ee
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hi Liz,<div><br></div><div>My title for Prof. Correll&#39;s talk is &quot;P=
+hilosophy and Structure of the Robotics Classes in our CS Dept.&quot;</div>=
+<div><br></div><div>=A0 =A0James</div>
+
+--20cf307cfe6e85db1204cb96c3ee--
+
+From acardenas89@gmail.com  Mon Oct  8 20:10:04 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=047d7b2e478aec6bef04cb96d5c7
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.1 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	HTML_MESSAGE,RCVD_IN_DNSWL_MED,T_DKIM_INVALID autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AvwBAJGGc1DRVaAzk2dsb2JhbABFDgiFNAGnaYkXiGAIIwEBAQEJCQsJFAQjghciAiwBOQMNBQgBB10SAQUBIjWHUQMPC5kogmEJA48ahSInDUyJAgEFDJFOA4hYjROBFYoRgykWKYFWgXxa
+X-IronPort-AV: E=Sophos;i="4.80,556,1344232800"; 
+   d="scan'208";a="42824847"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:date:x-google-sender-auth:message-id:subject
+         :from:to:content-type;
+        bh=Zg/S36EzZ2NSP9yTzXUXmdZddfk9B6EpiEoyTQVlJZ8=;
+        b=Fikvvk2G5Q8mEz4q8OTqgiFIHZfK9vy0ZRDUIYg4+hLAlhLZnH3dbqlSh10lRIIcM0
+         Wbn7y74bG3reynDR5f8gScDUsjE1O0+PG/wAbb05AzreaINCVjydfR6KoOgd5ZuIOPlt
+         9uv19M/FAdz36thUv+shrvj6dhkaNaFoJpW7ntN6f5veG/OubOG76rJdr95a4svpxTFr
+         cHR2dcWk3DRmodYwohrEPUoYRGMjEPPlBY4SZmpCxf/VkCkScPkqrBWCssm8eAdik+MW
+         oU5T1K517Y3JqL+VoSV9PhTyC0asKJqIq5t4uv4lPGu2EwcE2pWfhQs39AgnRJak/itI
+         0W9g==
+Sender: acardenas89@gmail.com
+Date: Mon, 8 Oct 2012 20:10:01 -0600
+X-Google-Sender-Auth: qQe1AsPNwO5wSRMoz8-YnyCqN2Y
+Subject: Alternate title for Prof. Correll's talk
+From: Adam Cardenas <Adam.Cardenas@colorado.edu>
+To: lizb <lizb@cs.colorado.edu>
+
+--047d7b2e478aec6bef04cb96d5c7
+Content-Type: text/plain; charset=ISO-8859-1
+
+Good day Professor,
+
+Here is my alternative title for Professor Correll's talk.
+
+Teaching Robots
+
+-- 
+Warm Regards,
+
+Adam Cardenas <http://csel.cs.colorado.edu/~adca8964/>
+Graduate Student <http://www.colorado.edu/cs/>
+University of Colorado Boulder <http://www.colorado.edu/>
+
+--047d7b2e478aec6bef04cb96d5c7
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Good day Professor,<div><br></div><div>Here is my alternative title for Pro=
+fessor Correll&#39;s talk.</div><div><br></div><div><h1 style=3D"font-famil=
+y:arial,verdana,helvetica,sans-serif;font-size:1.6em;color:rgb(134,133,89);=
+background-color:rgb(255,255,255);vertical-align:top;margin:0px;padding:0px=
+;border-width:0px;border-style:none">
+Teaching Robots</h1><div><br></div>-- <br>Warm Regards,=A0<div><br></div><d=
+iv><a href=3D"http://csel.cs.colorado.edu/~adca8964/" target=3D"_blank">Ada=
+m Cardenas</a><div><a href=3D"http://www.colorado.edu/cs/" target=3D"_blank=
+">Graduate Student</a></div>
+
+<div><a href=3D"http://www.colorado.edu/" target=3D"_blank">University of C=
+olorado Boulder</a></div></div><div><br></div><br>
+</div>
+
+--047d7b2e478aec6bef04cb96d5c7--
+
+From Eric.Goodman@colorado.edu  Tue Oct  9 10:33:27 2012
+MIME-Version: 1.0
+Content-type: text/plain; charset=us-ascii
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.2 required=5.0 tests=BAYES_00,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApwEAC5RdFDAqBGa/2dsb2JhbABFDsApghtGHrVPhzKJCI4rgyEDiFiNEQGSYlo
+X-IronPort-AV: E=Sophos;i="4.80,561,1344232800"; 
+   d="scan'208";a="7802331"
+From: Eric L Goodman <Eric.Goodman@colorado.edu>
+Subject: Alternate Title for Correll's talk
+To: Elizabeth.Bradley@colorado.edu
+Date: Tue,  9 Oct 2012 10:33:24 -0600 (MDT)
+
+Dr. Bradley,
+Here is my title for Dr. Correll's talk:
+
+Imprinting Robotics within the Minds of Impressionable Young Students
+
+From josenavasmolina@gmail.com  Tue Oct  9 15:54:15 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=f46d042f937ce83f8104cba7607d
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.3 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,HTML_MESSAGE,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AocEAAScdFDRVdwzlGdsb2JhbABFDoU8AbleCCMBAQEBCQkLCRIpgjkCLAEbHgMSCAECBV0BEQEFAVeHUAEDD5h6gmMJA4wlgWyBCYUXChknDVmIdQEFDI4pgyEDiFiNE45PFimDVFo
+X-IronPort-AV: E=Sophos;i="4.80,562,1344232800"; 
+   d="scan'208";a="43230165"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=HINj2AM5H+v8B6uBh12QXjU3DEtNJ5/+a6IbIhgTG1A=;
+        b=0De+n0Ph2FWsTSb35Y/fijQ/H5HoLj5wf0fAuFnufFp1I5CCWdvPmUFcriz4iuELoC
+         S0PPHYK478T7gaMpTJU0zNQv09MMXAkiubVQpZAgsjO4BtOVzi3ay8eeyYPEjWkbHhLP
+         /8ow9n5iNJdSWjMdOyaWMEif788s1wbx4BgruBvXxQfWWYFfpyBx1Vw+XIbNlIG854CN
+         VO+N9oN+HuqN/amoyRfMRX6R34DNZ12XlFu0IPcqDjEi5ACUxR2jqRFh2l5d6QnSBXW5
+         zZoCRyZteQ77FihkL9NTIsFBbQ0Rm3UVXbk1KnCYub9KD60SqvexS7KOx7uXb9jyi4WO
+         3u8g==
+Date: Tue, 9 Oct 2012 15:54:12 -0600
+Subject: CSCI 6000: alternative title for Nikolaus's colloquium talk
+From: Jose Navas <josenavasmolina@gmail.com>
+To: lizb@cs.colorado.edu
+
+--f46d042f937ce83f8104cba7607d
+Content-Type: text/plain; charset=ISO-8859-1
+
+"Teaching robotics: the challenge"
+
+-- 
+Jose Navas
+
+--f46d042f937ce83f8104cba7607d
+Content-Type: text/html; charset=ISO-8859-1
+
+&quot;Teaching robotics: the challenge&quot;<br clear="all"><div><br></div>-- <br>Jose Navas<br>
+
+--f46d042f937ce83f8104cba7607d--
+
+From gungjm@gmail.com  Tue Oct  9 16:16:51 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=20cf307f352cb6b80404cba7b106
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.3 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,HTML_MESSAGE,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AogEAPigdFDRVdyzlGdsb2JhbABFDoU8AbleCCMBAQEBCQkLCRIpghcJAQEBAxMCLAEbHgMBEQgBBw1PAQERAQUBNQgah1ABAwkGmQKCYwkDjCWBbIEJhRYKGScNWYh1AQUMilFmgnKDIQOIWIs+gVWLI4MsFimDVFo
+X-IronPort-AV: E=Sophos;i="4.80,562,1344232800"; 
+   d="scan'208";a="43377603"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=19axgwWxSP/pif3qSHWmAXxB57T3Xf3EA8LxhtlKvy0=;
+        b=jtK6ulN/06PUpJmg3Hf/E1tBJffS2iM9aLIZZOH+pmhbbLRgKS+Zq4Cdhpw8ELs4dW
+         MmRRUCcX6dqD5e+VfTSFnoznPLXjlC2UapQiSV3rUSZ1SQski7XVz1KMRog/3mPTNmNq
+         gRkfAZxN3kZ1IvD065Wm0Z6yR5wV0oj82+l2ehdF0sQzn+OeX7E1BXiHRej0K1n1vwea
+         jMwFWAyYdufpGSlNAVv11hCiELbcWW7ieX8C0ibn3hceW1KOqWpNhKk/tTZQOup+P0iR
+         n9pXnzjeEPj7IJ87pqI25tNKqlHRE+UJllu6qYS10GfWRyVXDedJq0D/+ACDY9Ry3g04
+         GqKw==
+Date: Tue, 9 Oct 2012 16:16:48 -0600
+Subject: Alternative title for Nikolaus's Talk
+From: James Gung <gungjm@gmail.com>
+To: lizb@cs.colorado.edu
+
+--20cf307f352cb6b80404cba7b106
+Content-Type: text/plain; charset=ISO-8859-1
+
+*Methods for Teaching Robotics*
+
+On Tue, Oct 2, 2012 at 2:36 PM, James Gung <gungjm@gmail.com> wrote:
+
+> I would title Dr. Sankaranarayanan's talk, *An optimization-based
+> approach to falsification*
+>
+> James Gung
+>
+> On Tue, Sep 18, 2012 at 10:40 AM, James Gung <gungjm@gmail.com> wrote:
+>
+>> I would title Dr. Rozenberg's talk, *Formal Representation of
+>> Biochemical Reactions, an Introduction.*
+>>
+>> James Gung
+>>
+>
+>
+
+--20cf307f352cb6b80404cba7b106
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<i>Methods for Teaching Robotics</i><br><br><div class=3D"gmail_quote">On T=
+ue, Oct 2, 2012 at 2:36 PM, James Gung <span dir=3D"ltr">&lt;<a href=3D"mai=
+lto:gungjm@gmail.com" target=3D"_blank">gungjm@gmail.com</a>&gt;</span> wro=
+te:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex">I would title Dr. Sankaranarayanan&#39;s tal=
+k, <i>An optimization-based approach to falsification</i><div><br></div><di=
+v>
+James Gung<br><br><div class=3D"gmail_quote">On Tue, Sep 18, 2012 at 10:40 =
+AM, James Gung <span dir=3D"ltr">&lt;<a href=3D"mailto:gungjm@gmail.com" ta=
+rget=3D"_blank">gungjm@gmail.com</a>&gt;</span> wrote:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex"><div>I would title Dr. Rozenberg&#39;s talk,=
+=A0<i>Formal Representation of Biochemical Reactions, an Introduction.</i><=
+/div>
+
+<span><font color=3D"#888888"><div><br></div><div>James Gung</div>
+</font></span></blockquote></div><br></div>
+</blockquote></div><br>
+
+--20cf307f352cb6b80404cba7b106--
+
+From Marina.Kogan@colorado.edu  Tue Oct  9 16:25:57 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative;
+	boundary="_000_C9431BDF1443CF48954DB3F1C7BD2C40F698751514EXC4adcolorad_"
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.2 required=5.0 tests=BAYES_00,HTML_MESSAGE,
+	RCVD_IN_DNSWL_MED autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Ap4EAE2jdFDAqBGa/2dsb2JhbABFDoI9I71LgictJjgBDHQPEAcBBBuHfQGZBJEAh0KJCJB2YAOIWI0TkDCCMlo
+X-IronPort-AV: E=Sophos;i="4.80,562,1344232800"; 
+   d="scan'208,217";a="7856649"
+From: Marina Kogan <Marina.Kogan@colorado.edu>
+To: "lizb@colorado.edu" <lizb@colorado.edu>
+Date: Tue, 9 Oct 2012 16:25:55 -0600
+Subject: talk title
+Thread-Topic: talk title
+Thread-Index: Ac2mbOgAIX8TFge3Qk6EPBEkdt3o3A==
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+acceptlanguage: en-US
+
+--_000_C9431BDF1443CF48954DB3F1C7BD2C40F698751514EXC4adcolorad_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Dr. Bradley,
+My alternative title for Dr. Carrell's talk is:
+
+"New robotics curriculum for the era of 'personal robots'"
+
+Thank you,
+Marina
+
+
+--_000_C9431BDF1443CF48954DB3F1C7BD2C40F698751514EXC4adcolorad_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><META HTTP-EQUIV=3D"Content-Type" CONTENT=
+=3D"text/html; charset=3Dus-ascii"><meta name=3DGenerator content=3D"Micros=
+oft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue vli=
+nk=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal>Hi Dr. Bradley,<=
+o:p></o:p></p><p class=3DMsoNormal>My alternative title for Dr. Carrell&#82=
+17;s talk is:<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p cl=
+ass=3DMsoNormal>&#8220;New robotics curriculum for the era of &#8216;person=
+al robots&#8217;&#8221;<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p=
+></p><p class=3DMsoNormal>Thank you,<o:p></o:p></p><p class=3DMsoNormal>Mar=
+ina<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></body></=
+html>=
+
+--_000_C9431BDF1443CF48954DB3F1C7BD2C40F698751514EXC4adcolorad_--
+
+From hadi.ra@gmail.com  Tue Oct  9 16:37:13 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=e0cb4efa6ed88a574904cba7fa8d
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.3 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,HTML_MESSAGE,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AucCANOmdFDRVdmzm2dsb2JhbABFDoI9gn8BuVwIIwEBAQEBCAkLCRQnghciAiwBGx4DEggBB10BEQEFAVeHUAEDD5kGgmMJA4wlgWyBCYUZChknDVmIdQEFDIs/gmqDIQOIWI0Tjk8WKYNUWg
+X-IronPort-AV: E=Sophos;i="4.80,562,1344232800"; 
+   d="scan'208";a="43243864"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:from:date:message-id:subject:to:content-type;
+        bh=mQzhDOf8vBKPO/cdbg283zFbw2N10AEfkrf2enJSkWw=;
+        b=nw6mgWIiPSEgzXXkb9WeTKbPghhyamxnTIPTJ5zb7tWPFWEbPVeGN6BGTNRgX5HUyo
+         tb1f6wQykPTRQ7v9E6z8YKYJdCj1vnigEV+hpdCe69b/6f+HqppfrRmCRCI/Q3Kjm8Zx
+         P72ok9I64KkWgmfFC2DXe6LY1gmXUtsO69DVEpCqMMOoCwBljJc54OR1CP97LMGnc5vG
+         g+eSkvyW4dev+Ug56wP8G999FBvA4FSwj4HHDAptktRBoaRnm8ZfD6iWuZBWZ4EEdzRZ
+         OLL7t/++0BAdDUleBICi6K3n9z6Ih8pHJdqsv8iAllDGI3cGW/Bfkav3UBf1NDaluinU
+         FL9Q==
+From: Hadi RavanBakhsh <hadi.ra@gmail.com>
+Date: Tue, 9 Oct 2012 16:36:50 -0600
+Subject: Alternative Title for Nikolaus's Colloquium Talk
+To: lizb@cs.colorado.edu
+
+--e0cb4efa6ed88a574904cba7fa8d
+Content-Type: text/plain; charset=ISO-8859-1
+
+Dear Prof. Bradly,
+
+I assume that the following title suits the talk:
+
+An Overview of Robotics Courses and Research at CU
+
+Regards,
+
+--Hadi Ravanbakhsh
+
+--e0cb4efa6ed88a574904cba7fa8d
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div style=3D"color:rgb(34,34,34);font-size:12.72727203369=
+1406px;font-family:arial,sans-serif"><div>Dear Prof. Bradly,</div><div><br>=
+</div><div>I assume that the following title suits the talk:</div>
+<div><br></div><div><span style=3D"background-color:rgb(255,255,255)">An Ov=
+erview of Robotics Courses and Research at CU</span></div><div><span style=
+=3D"background-color:rgb(255,255,255)"><br></span></div></div><div style=3D=
+"color:rgb(34,34,34);font-size:12.727272033691406px;font-family:arial,sans-=
+serif">
+
+
+Regards,</div><div style=3D"color:rgb(34,34,34);font-size:12.72727203369140=
+6px;font-family:arial,sans-serif"><br></div><div style=3D"color:rgb(34,34,3=
+4);font-size:12.727272033691406px;font-family:arial,sans-serif">
+--Hadi Ravanbakhsh</div></div>
+
+--e0cb4efa6ed88a574904cba7fa8d--
+
+From Dana.Hughes@colorado.edu  Tue Oct  9 16:51:27 2012
+MIME-Version: 1.0
+Content-type: text/plain; charset=us-ascii
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.2 required=5.0 tests=BAYES_00,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApwEADmpdFDAqBGb/2dsb2JhbABFDsApghtGGQWCCLF1h0aJCI41gyEDiFiNEgGSYlo
+X-IronPort-AV: E=Sophos;i="4.80,562,1344232800"; 
+   d="scan'208";a="7782922"
+From: Dana Hughes <Dana.Hughes@colorado.edu>
+Subject: CSCI6000: Alternative Title to Dr. Correll's
+ Talk
+To: lizb@cs.colorado.edu
+Date: Tue,  9 Oct 2012 16:51:24 -0600 (MDT)
+
+Good afternoon Dr. Bradley,
+
+The alternative title for Dr. Correll's talk:  "Robotics as a Vehicle for Computer Science Education:  An Overview of Curriculum"
+
+Thanks,
+
+Dana
+
+From Mohammad.Khajah@colorado.edu  Tue Oct  9 22:39:35 2012
+MIME-Version: 1.0
+Content-type: text/plain; charset=ISO-8859-1; format=flowed
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.2 required=5.0 tests=BAYES_00,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Av0EAEn7dFDAqBGb/2dsb2JhbABFDr8igQmCXxslPRYYAwIBAgFYCAEBiAGYcZEAh0GJCItOgneDIQOIWJ1DgjJa
+X-IronPort-AV: E=Sophos;i="4.80,563,1344232800"; 
+   d="scan'208";a="7881626"
+Date: Tue, 09 Oct 2012 22:39:38 -0600
+From: Mohammad Khajah <Mohammad.Khajah@colorado.edu>
+To: lizb@cs.colorado.edu
+Subject: Title for Dr. Correll's Talk
+
+Dear Dr. Bradley,
+
+The alternate title for Dr. Correll's talk is "Overview of Robotics 
+Courses at CU Boulder"
+
+I thought it was really interesting especially as he applies 
+probabilistic reasoning stuff (Bayesian inference, etc.) to the real 
+world. I am definitely interested in taking his courses in the future.
+
+Best Regards,
+Mohammad
+
+From homa.hosseinmardi@gmail.com  Tue Oct  9 22:42:14 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=bcaec54a328efd526304cbad137b
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.3 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,HTML_MESSAGE,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AmgCAEn7dFDRVdazjWdsb2JhbABFDoU9AbldCCMBAQEBCQkLCRIGI4I5AiwBGx4DEggBAgVdAREBBQFXh1ABAw+YcYJjCQOMJYFsgQqFFAoZJw1ZiHUBBQyOOYMhA4hYjROOTxYpg1Ra
+X-IronPort-AV: E=Sophos;i="4.80,563,1344232800"; 
+   d="scan'208";a="43389335"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=Onci5GG03tfCi8IavTSeioSRQcmviIQ4PHWARxsaoaU=;
+        b=JG2uyCKG81vWUZ2crAk66XLIVl8Mag1hjzuXODASZYw+9VgX0H6OfFcTlrYB6/gdx0
+         lY2idsumqDQaOcHW+LMWinuDzcMIrlWR9x2gslS96XTWtOlDvjm7uUwhyj+XRb4u6WQc
+         TJwsr/cmOWoQ8MOKz3o/rORyk6aUQwNW3j2Qk5Zsjuu5rui69PxxoskaoBTQ6yLHFXqx
+         PtK/rhjiVesTeoDFO+GID3W7uJdssPqhI6urANBmHuA0xIhVc5FfGx1bIfSAViK76PeQ
+         9+BH9apvGbM2/dCtvJkTFvfv+nZKDUwmxsNHAWh0nYqoBn9LqZj4F8/RT5h9ketyUrEj
+         +qFw==
+Date: Tue, 9 Oct 2012 22:42:11 -0600
+Subject: Topic for professor Correll's talk
+From: Homa Hosseinmardi <homa.hosseinmardi@gmail.com>
+To: lizb@cs.colorado.edu
+
+--bcaec54a328efd526304cbad137b
+Content-Type: text/plain; charset=ISO-8859-1
+
+Dear Professor Bradley,
+
+Here is my topic for Professor Correll's talk:
+
+"learn how to build your personal robots"
+
+Best Regards
+Homa
+
+--bcaec54a328efd526304cbad137b
+Content-Type: text/html; charset=ISO-8859-1
+
+Dear Professor Bradley,<div><br><div>Here is my topic for Professor Correll&#39;s talk:</div><div><br></div><div>&quot;learn how to build your personal robots&quot;</div><div><br></div><div>Best Regards</div><div>Homa</div>
+</div>
+
+--bcaec54a328efd526304cbad137b--
+
+From Murad.Kaplan@colorado.edu  Wed Oct 10 01:15:30 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative;
+	boundary="----=_NextPart_000_0016_01CDA684.BC1E03F0"
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.2 required=5.0 tests=BAYES_00,HTML_MESSAGE,
+	RCVD_IN_DNSWL_MED autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Ah4FAOMfdVDAqBGa/2dsb2JhbABBAw6CPbQVhReDO4EJgicIAh4FJgMwAQQGB1sCHh8BBB4Fh3WXDJMQhS+JCASOPAWDIQOIWJ1DgjIuLA
+X-IronPort-AV: E=Sophos;i="4.80,564,1344232800"; 
+   d="scan'208,217";a="8081062"
+From: Murad Kaplan <Murad.Kaplan@colorado.edu>
+To: <lizb@cs.colorado.edu>
+Subject: Title for Nikoulas's talk
+Date: Wed, 10 Oct 2012 01:15:25 -0600
+Thread-Index: Ac2mtua9A9q34Yq+TLaaIhQKIm6K+g==
+Content-Language: en-us
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0016_01CDA684.BC1E03F0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+"Dynamic Sensing for more Personalized Robots"
+
+ 
+
+----------------
+
+Murad Kaplan
+Ph.D. Student
+
+ECCR 1B 54 - Systems Lab
+
+Computer Science Department
+
+University of Colorado
+
+Boulder, CO 80309-0430
+Phone: +1 508 615 0768
+
+ 
+
+
+------=_NextPart_000_0016_01CDA684.BC1E03F0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><META =
+HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 14 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'>&#8220;Dynamic Sensing for more Personalized =
+Robots&#8221;<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'color:#1F497D'>----------------<o:p></o:p></span></p><p =
+class=3DMsoNormal><span style=3D'color:#1F497D'>Murad Kaplan<br>Ph.D. =
+Student<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'>ECCR 1B 54 - </span><span =
+style=3D'color:#1F497D'>Systems Lab</span><span =
+style=3D'color:#1F497D'><o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'>Computer Science =
+Department<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'>University of Colorado<o:p></o:p></span></p><p =
+class=3DMsoNormal><span style=3D'color:#1F497D'>Boulder, CO =
+80309-0430</span><span style=3D'color:#1F497D'><br>Phone: +1 508 615 =
+0768</span><span style=3D'color:#1F497D'><o:p></o:p></span></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+------=_NextPart_000_0016_01CDA684.BC1E03F0--
+
+From Shang.Ma@colorado.edu  Wed Oct 10 08:54:14 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative;
+	boundary="----=_NextPart_000_0049_01CDA6C4.D19B5030"
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.9 required=5.0 tests=BAYES_00,HTML_MESSAGE
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AvAGAPiKdVDAqBGa/2dsb2JhbABEDoI9i1OoR4lRgicIAh4FJjMFDVs/AQQeBbcWiQiORoMhA4hYn3Za
+X-IronPort-AV: E=Sophos;i="4.80,564,1344232800"; 
+   d="scan'208,217";a="8196643"
+From: Shang Ma <Shang.Ma@colorado.edu>
+To: <lizb@cs.colorado.edu>
+Subject: alternative title for Nikolaus's colloquium talk
+Date: Wed, 10 Oct 2012 08:54:12 -0600
+Content-Language: en-us
+Thread-Index: Ac2m9rpmbANVpoqBSrqE5fkrEMfhGA==
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0049_01CDA6C4.D19B5030
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Sorry for the delay.
+
+ 
+
+I think another title for Nikolaus's talk would  be "Creative ways to teach
+Robotics at CU".
+
+ 
+
+Shang Ma
+
+
+------=_NextPart_000_0049_01CDA6C4.D19B5030
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><META =
+HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 14 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:\5B8B\4F53;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:\5B8B\4F53;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"\@\5B8B\4F53";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal>Sorry for =
+the delay.<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal>I think another title for Nikolaus&#8217;s talk =
+would&nbsp; be &#8220;Creative ways to teach Robotics at =
+CU&#8221;.<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal>Shang Ma<o:p></o:p></p></div></body></html>
+------=_NextPart_000_0049_01CDA6C4.D19B5030--
+

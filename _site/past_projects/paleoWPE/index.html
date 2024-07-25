@@ -1,0 +1,543 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.26.2 by Michael Rose
+  Copyright 2013-2024 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+
+<html lang="en-US" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Bradley Lab - Bradley Lab</title>
+<meta name="description" content="">
+
+
+  <meta name="author" content="Your Name">
+  
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Bradley Lab">
+<meta property="og:title" content="Bradley Lab">
+<meta property="og:url" content="http://localhost:4000/bradley_lab/past_projects/paleoWPE/">
+
+
+  <meta property="og:description" content="">
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="http://localhost:4000/bradley_lab/past_projects/paleoWPE/">
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/bradley_lab/feed.xml" type="application/atom+xml" rel="alternate" title="Bradley Lab Feed">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script type="text/javascript">
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/bradley_lab/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--general_content" dir="ltr">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+          
+          <a class="site-title" href="/bradley_lab/" style='color:#7393B3'>
+            Bradley Lab
+            
+          </a>
+          <ul class="visible-links"><li class="masthead__menu-item">
+                <a
+                  href="/bradley_lab/research/"
+                  
+                  
+                ><span style='color:#7393B3'>Research</span></a>
+              </li><li class="masthead__menu-item">
+                <a
+                  href="/bradley_lab/course_materials/"
+                  
+                  
+                ><span style='color:#7393B3'>Course Materials</span></a>
+              </li><li class="masthead__menu-item">
+                <a
+                  href="/bradley_lab/publications/"
+                  
+                  
+                ><span style='color:#7393B3'>Publications</span></a>
+              </li><li class="masthead__menu-item">
+                <a
+                  href="/bradley_lab/vita/"
+                  
+                  
+                ><span style='color:#7393B3'>Vita</span></a>
+              </li><li class="masthead__menu-item">
+                <a
+                  href="/bradley_lab/#people"
+                  
+                  
+                ><span style='color:#7393B3'>People</span></a>
+              </li><li class="masthead__menu-item">
+                <a
+                  href="/bradley_lab/#contact"
+                  
+                  
+                ><span style='color:#7393B3'>Contact</span></a>
+              </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      <style>
+    .content-container {
+      padding-left: 10px; /* Adjust the padding as needed */
+      margin: 0 auto;
+      /*max-width: 1200px;*/
+      display: flex;
+    }
+    .sidebar {
+      width: 20%;
+      padding: 2px;
+      /*background-color: #f8f9fa;
+      top: 10px;
+      left: 10px;
+      max-height: 100vh;
+      overflow-y: auto;
+      height: 100%;
+      border: 1px solid gray;
+      max-height: none;*/
+      position: fixed;
+      padding-top: 5px;
+      height: 60vh;
+      box-sizing: border-box;
+      border-radius: 5px;
+      box-shadow: 0 12px 24px rgba(222, 34, 34, 0.1);
+      overflow-y: auto;
+      font-size: x-large;
+    }
+    .sidebar ul {
+      list-style-type: none; /* Remove bullet points */
+      padding: 0;
+    }
+    .sidebar ul li a {
+      font-weight: bold; /* Make each line appear bold */
+      text-decoration: none;
+      display: block;
+      padding: 5px 0;
+    }
+    .sidebar ul li a.active {
+      background-color: white; /* Stylish white background for active link */
+      border-radius: 5px; /* Optional: rounded corners for active link */
+    }
+    .main-content {
+      /*width: 70%;
+      margin-left: 25%;*/
+      padding-left: 25%;
+      padding-right: 5%;
+      overflow-y: auto;
+    }
+    body {
+      font-family: Arial, sans-serif;
+      font-size:large;
+      line-height: 1.6;
+      overflow-x: hidden;
+    }
+    /*header, footer {
+      background-color: #f8f9fa;
+      padding: 10px 0;
+      text-align: center;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 20px;
+      color: #343a40;
+    }
+    a {
+      color: #007bff;
+      text-decoration: none;
+    }*/
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+
+<div class="content-container">
+    <div class="sidebar" id="sidebar">
+        <!-- Sidebar content will be generated by JavaScript -->
+      </div>
+      <div class="main-content">
+          <h2>Information-theoretic analysis of ice-core data</h2>
+
+<table border="0" cellspacing="8" cellpadding="8">
+<tr align="Center">
+
+<td><a href="/bradley_lab/assets/paleoWPE/wais-pit.jpg" height="100" onmousemove="window.status='Show this image a little larger'; return
+true"><img src="/bradley_lab/assets/paleoWPE/wais-pit.jpg" height="100" /></a></td>
+
+</tr>
+</table>
+
+<h3>Project Description</h3>
+
+<p>We take an information-theoretic approach to analyzing 68,000 years of
+water isotope data from the WAIS Divide ice core, the longest,
+highest-resolution record yet recovered from Antarctica. The water
+isotopes are primarily a proxy for local temperature at the time of
+snow deposition, but also contain information about broader
+atmospheric circulation patterns.  Using estimates of the Shannon
+entropy rate of the isotope measurements, we find that the rate of
+information production reveals differences in analytical techniques,
+even when those differences leave no visible traces in the raw
+data. The entropy calculations also allow us to identify a number of
+intervals in the data that may be of direct relevance to paleoclimate
+interpretation.</p>
+
+<p>Here are a few of those results:</p>
+
+<table border="0" cellspacing="8" cellpadding="8">
+<tr align="Center">
+
+<td><a href="/bradley_lab/assets/paleoWPE/NGRIP_d18O_wpe.jpg" height="500" onmousemove="window.status='Show this image a little larger'; return
+true"><img src="/bradley_lab/assets/paleoWPE/NGRIP_d18O_wpe.jpg" height="300" /></a></td>
+
+<td><a href="/bradley_lab/assets/paleoWPE/WDC_d18O_wpe.jpg" height="500" onmousemove="window.status='Show this image a little larger'; return
+true"><img src="/bradley_lab/assets/paleoWPE/WDC_d18O_wpe.jpg" height="300" /></a></td>
+
+</tr>
+</table>
+
+<p>The blue traces in these images are the d18O measurements from the
+NGRIP (left) and WAIS Divide (right) cores; the black traces are estimates of the
+Shannon entropy rate calculated from those signals using a weighted
+variant of permutation entropy (WPE) technique described by
+<a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.87.022911">
+Fadlallah et al.</a>.  WPE measures the average rate at which new
+information-unrelated to anything in the past-is produced by the
+system that generated the time series.  If that rate is very low, the
+current observation contains a lot of information about the past and
+the signal is perfectly predictable.  If that rate is very high, all
+of the information in the observation is completely new: i.e., the
+past tells you nothing about the future.  The 2016 <i>Intelligent Data
+Analysis Symposium</i> paper and 2019 <i>Chaos</i> paper cited
+below describe these ideas and results in more depth.  You can also
+check
+out <a href="https://www.santafe.edu/news-center/news/predicting-unpredictability-information-theory-offers-new-way-read-ice-cores">this
+press release from the Santa Fe Institute</a> for a higher-level
+overview of the project.</p>
+
+<p>A very interesting feature in the right-hand curve above is the
+large jump in WPE between 5-8 ka.  As it turns out, an older
+instrument was used to analyze the ice in this region.  The WPE
+results suggest that that instrument introduced noise into the data:
+i.e., every measurement contains completely new information, unrelated
+to the previous ones.  That noise is not easy to see in the d18O data
+itself without a laborious, fine-grained examination by a human
+expert, but the anomaly is easily flagged with a quick calculation of
+WPE.  By going back and re-measuring this segment of the ice, we were
+able to confirm the conjecture that the jump in WPE was due to noise
+in the older instrument; please see the 2018
+<i>Entropy</i> paper cited below for more details or this
+<a href="https://santafe.edu/news-center/news/how-complexity-science-can-quickly-detect-anomalies-climate-records">
+press release from the Santa Fe Institute</a> for more details.</p>
+
+<p>It also turns out that WPE tracks accumulation, which is a very
+useful result, as described in 2019 the CHAOS paper below.</p>
+
+<p>We have recently discovered that permutation entropy techniques
+can also detect mixing effects in a data set - e.g., when successive
+measurements are not independent - and even estimate the scales on
+which this occurs.  This can happen in the laboratory apparatus (e.g.,
+if measurements are performed in a chamber or a pipe) or in the study
+system (e.g., diffusion in the ice sheet).  We are also studying this
+effect in methane data from Mauna Loa and ocean sediment cores.  See
+the Neuder et al. paper in the list below for more details.</p>
+
+<h3> People</h3>
+
+<ul> 
+	<li> <a href="joshuagarland.com">Joshua Garland</a>, Applied
+	Complexity Fellow at the <a href="http://www.santafe.edu">Santa Fe
+	Institute</a>.
+	</li>
+	<li>
+	<a href="https://instaar.colorado.edu/people/tyler-jones/"> Tyler
+	Jones</a>, research
+	associate, <a href="http://instaar.colorado.edu">INSTAAR</a>.
+	</li>
+	<li>
+	<a href="https://michaelneuder.github.io/"> Mike
+	Neuder</a>, BS student, University of Colorado (now in the MS program
+	at Harvard).
+	</li>
+	<li>
+	<a href="http://instaar.colorado.edu/people/james-w-c-white/">Jim
+	White</a>, Professor of Geological Sciences.
+	</li>
+	<li>
+	<a href="/bradley_lab/"> Liz Bradley</a>, Professor of Computer
+	Science.
+	</li>
+</ul>
+
+<h3> Papers, press, talks</h3>
+<ul>
+	<li> M. Neuder, E.  Bradley, E. Dlugokencky, J. W. C. White, and
+	J. Garland, 
+	<a href="https://aip.scitation.org/doi/10.1063/1.5127211">
+	"Detection of Local Mixing in Time-Series Data Using Permutation
+	Entropy," in revision,
+	</a> <i>Physical Review E</i>.  Preprint available
+	on <a href="https://arxiv.org/abs/2010.12384">arXiv</a>.
+	</li>
+	<li>
+	J. Garland, T. R. Jones, M. Neuder,
+	J. W. C. White, and E.
+	Bradley, <a href="https://aip.scitation.org/doi/10.1063/1.5127211">
+	"Climate entropy production recorded in a deep Antarctic ice core,"
+	</a> <i>CHAOS</i> <b>29</b> 101105 (2019).  Preprint available
+	on <a href="http://arxiv.org/abs/1806.10936">arXiv</a>.
+	</li>
+	<li>
+	Presentation at
+	the <a href="http://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=66901">
+	2019 SIAM GeoScience Meeting</a>
+	</li>
+	<li>
+	J. Garland, T. R. Jones, V. Morris, M. Neuder, J. W. C. White,
+	E. Bradley,
+	<a href="https://www.mdpi.com/journal/entropy/special_issues/theory_geosciences">"Anomaly
+	Detection in Paleoclimate Records using Information
+	Theory,"</a> <i>Entropy</i> <b>20</b>:931 (2018)
+	</li>
+	<li>
+	J. Garland and
+	E. Bradley, <a href="https://sinews.siam.org/Details-Page/information-theory-in-earth-and-space-science">"Information
+	Theory in Earth and Space Science,"</a> <i>SIAM News</i>, October 2018
+	</li>
+	<li>
+	J. Garland, T. Jones, E. Bradley, R. James and
+	J. W. C. White, <a href="/bradley_lab/assets/papers/Garland-IDA2016.pdf"> "A First Step
+	Toward Quantifying the Climate's Information Production Over the Last
+	68,000 Years,"</a> <a href="https://link.springer.com/book/10.1007/978-3-319-46349-0">IDA-16
+	(Proceedings of the 12th International Symposium on Intelligent Data
+	Analysis), Stockholm, October 2016.</a>
+	</li>
+	<li>
+	Poster presentation at
+	the <a href="https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/148855">
+	2016 AGU Fall Meeting</a>
+	</li>
+	<li>
+	Press releases from the <a href="http://www.santafe.edu">Santa Fe
+	Institute</a>
+	about <a href="https://www.santafe.edu/news-center/news/predicting-unpredictability-information-theory-offers-new-way-read-ice-cores">the
+	overall project</a> and
+	the <a href="https://santafe.edu/news-center/news/how-complexity-science-can-quickly-detect-anomalies-climate-records">
+	anomaly detection specifics</a>.
+	</li>
+</ul>
+
+<h3> Support</h3>
+<ul>
+	<li> This material is based upon work supported by the National
+	Science Foundation under grant number 1807478, among others.  Any
+	opinions, findings, and conclusions or recommendations expressed in
+	this material are those of the author(s) and do not necessarily
+	reflect the views of the National Science Foundation.
+	</li>
+</ul>
+
+<p><img src="/bradley_lab/assets/gifs/rainbow.gif" width="350" height="5" /></p>
+
+
+      </div>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const sidebar = document.getElementById("sidebar");
+    const headings = document.querySelectorAll(".main-content h3");
+
+    if (headings.length > 0) {
+      const navList = document.createElement("ul");
+
+      headings.forEach((heading, index) => {
+        const listItem = document.createElement("li");
+        const link = document.createElement("a");
+        const id = `heading-${index}`;
+
+        heading.id = id;
+        link.href = `#${id}`;
+        link.textContent = heading.textContent;
+
+        listItem.appendChild(link);
+        navList.appendChild(listItem);
+      });
+
+      sidebar.appendChild(navList);
+
+      const links = navList.querySelectorAll("a");
+
+      // Adding scroll behavior when clicking on links
+      links.forEach((link) => {
+        link.addEventListener("click", function(event) {
+          event.preventDefault();
+          const targetId = this.getAttribute("href").substring(1);
+          const targetElement = document.getElementById(targetId);
+
+          // Scroll to the target element with an offset of 70px
+          window.scrollTo({
+            top: targetElement.offsetTop - 70,
+            behavior: "smooth"
+          });
+        });
+      });
+
+      // Adding active class based on scroll position
+      window.addEventListener("scroll", function() {
+        let current = "";
+
+        headings.forEach((heading) => {
+          const headingTop = heading.getBoundingClientRect().top;
+          if (headingTop <= 70) { // Adjusting for the offset
+            current = heading.getAttribute("id");
+          }
+        });
+
+        links.forEach((link) => {
+          link.classList.remove("active");
+          if (link.getAttribute("href").substring(1) === current) {
+            link.classList.add("active");
+          }
+        });
+      });
+    }
+  });
+</script>
+
+      
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+      
+        
+      
+        
+          <li><a href="https://ashwinumadi.github.io" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+        
+      
+        
+      
+        
+      
+    
+
+    
+      <li><a href="/bradley_lab/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<p style="font-size: small;">Check out the home page of the <A HREF="http://www.cs.colorado.edu" style="color: blue;font-size: small;">Computer Science Department</A> at
+  the <A HREF="http://www.colorado.edu" style="color: blue;">University of Colorado</A> for more information.</p>
+
+<BR>
+
+<div class="page__footer-copyright">&copy; 2024 <a href="http://localhost:4000">Bradley Lab</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/bradley_lab/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+
+
+  </body>
+</html>

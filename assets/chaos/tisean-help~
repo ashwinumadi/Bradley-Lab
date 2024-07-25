@@ -1,0 +1,58 @@
+Windows:
+
+Just download the binaries and run them from the Windows command
+prompt.
+
+Some folks have gotten TISEAN to work by copying the executable files
+in the Bin folder of the Windows TISEAN Package and using the command
+prompt through MatLab's system( ) function.  
+
+For example if 'mutual.exe' and 'datafile' are in the current
+folder, we can run:
+
+  system('mutual datafile -o output')
+
+which creates the 'output' file in the current Matlab directory..
+
+-----
+Mac:
+
+Download the binaries, then install them and fire up a Terminal
+window.  (You can also install them by typing 'brew install tisean' if
+you're a brew user.)  Navigate to the Tisean folder to run the
+commands.  You may need to use the ./ syntax - i.e.,
+
+./mutual datafile -o outputfile
+
+rather than just mutual datafile -o outputfile.
+
+-----
+In the CSEL:
+
+TISEAN is in /usr/lib/tisean on all of the CSEL desktops, as well as
+these two ssh-accessible machines:
+
+ elra-01.cs.colorado.edu
+ elra-02.cs.colorado.edu
+
+You can sign up for an account on these machines by going to
+sac.colorado.edu and choosing "CSEL" from the dropdown.  If you have
+any trouble, email trouble@cs.colorado.edu.
+
+The IT folks were kind enough to add a shell function called 'tisean'
+that will put /usr/lib/tisean in your $PATH.  Just open up a shell,
+type 'tisean', then all of the tools should be available to you.
+
+To run {\tt mutual}, for instance, you would just type the command
+name and then the arguments that specify how you want to run it (e.g.,
+what input data, what parameter values, how you want it to output the
+data):
+
+mutual datafile -o outputfile
+
+If that doesn't work, try using the ./ syntax described above:
+
+./mutual datafile -o outputfile
+
+
+

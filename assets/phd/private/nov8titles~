@@ -1,0 +1,1266 @@
+From David.T.Coleman@colorado.edu  Thu Nov  8 15:52:09 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=001636ef0d1712df9104ce03afee
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.2 required=5.0 tests=BAYES_00,HTML_MESSAGE,
+	RCVD_IN_DNSWL_MED autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AmIIAJQ2nFDAqBGa/2dsb2JhbABBAw6xOwGOOoM3gRCCFYEnAQIFXRIBBQGIP5sIgm+VWYkIjy8FgyUDiFqNIY5iFimBIoIyXQ
+X-IronPort-AV: E=Sophos;i="4.80,741,1344232800"; 
+   d="scan'208";a="11392985"
+From: David Coleman <David.T.Coleman@colorado.edu>
+Date: Thu, 8 Nov 2012 15:51:49 -0700
+Subject: Alternate Title - Bruce Haddon
+To: lizb@cs.colorado.edu
+
+--001636ef0d1712df9104ce03afee
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hi Professor Bradley, my alternative title is:
+
+"REQUEST #335: A Radical Change To Java"
+
+
+
+--
+Dave Coleman
+Grad Student, Correll Lab
+University of Colorado Boulder
+251.463.2345
+
+--001636ef0d1712df9104ce03afee
+Content-Type: text/html; charset=ISO-8859-1
+
+<div>Hi Professor Bradley, my alternative title is:</div><div><br></div><div>&quot;REQUEST #335: A Radical Change To Java&quot;</div><div><br></div><div><br></div><br clear="all">--<br>Dave Coleman<div><font color="#666666">Grad Student, Correll Lab<br>
+
+</font><div><font color="#666666">University of Colorado Boulder<br>251.463.2345</font></div></div><br>
+
+--001636ef0d1712df9104ce03afee--
+
+From nksconnor@gmail.com  Thu Nov  8 16:27:48 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=f46d04428240f487d004ce042d96
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.1 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	HTML_MESSAGE,RCVD_IN_DNSWL_MED,T_DKIM_INVALID autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ArECAHM/nFDRVdSzjWdsb2JhbABEDoVDAatPkhsIIwEBAQEJCQsJEgYjgmUBOQMNBQgBAgVdEgEFARYnh3ADD5sJgm+PKIUwJw1MiQIBBQyPKIMlA4hajSGOYhYpgViBfF0
+X-IronPort-AV: E=Sophos;i="4.80,741,1344232800"; 
+   d="scan'208";a="56390520"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:date:x-google-sender-auth:message-id:subject
+         :from:to:content-type;
+        bh=cL6poD/bgtRmX9hoSSHWFLPdJMgIN/Vb+jUO19umKqo=;
+        b=wnHwjCKfM9ITi6Do//PHAfIla0b9F7C3+/GhPqso4h9dOESPHZhBp+eQz4XfEdrU1Z
+         0Ozw/kHI+yRjDygjGWRvjW3+tXI0du50df9zUkFlQ9dnlziLoekKTEKcHbanqxGMolu/
+         hfTyiH/EK0p6hPa1JU5WhRFL56aF4CSX3Kr2vBvirr1B5IBMOSgxcOet2Iu1l0dJV+NW
+         oa4QOffAVTvKBtKZYFzxrVnvGpY1dqzp0UotOkitI3cyZ/6+TvCVqPorMjg0eVczaz7p
+         /as+QHYuInK5/9E93Bbtjz8+sOLUgEZHNnEG+vQaHtilAqfnRauArD2Gqr72GEvbD7ed
+         tr+w==
+Sender: nksconnor@gmail.com
+Date: Thu, 8 Nov 2012 16:27:32 -0700
+X-Google-Sender-Auth: _rfWXx8vQxWtzTeNTTni7Ze6w1M
+Subject: alternative title for today's talk
+From: Nora Connor <Nora.Connor@colorado.edu>
+To: lizb@cs.colorado.edu
+
+--f46d04428240f487d004ce042d96
+Content-Type: text/plain; charset=ISO-8859-1
+
+"Changes to Java 8: Why programmers will need even deeper insight to
+understand what they are doing."
+
+Cheers, Nora
+
+--f46d04428240f487d004ce042d96
+Content-Type: text/html; charset=ISO-8859-1
+
+&quot;Changes to Java 8: Why programmers will need even deeper insight to understand what they are doing.&quot;<br><br>Cheers, Nora<br>
+
+--f46d04428240f487d004ce042d96--
+
+From John.Klingner@colorado.edu  Thu Nov  8 16:29:16 2012
+MIME-Version: 1.0
+Content-type: text/plain; charset=us-ascii
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.2 required=5.0 tests=BAYES_00,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApwIAHM/nFDAqBGb/2dsb2JhbABEDsIxBASCBYIZRhkFvUyJCI80gyUDiFqNIJJ2XQ
+X-IronPort-AV: E=Sophos;i="4.80,741,1344232800"; 
+   d="scan'208";a="11402216"
+From: John Klingner <John.Klingner@colorado.edu>
+Subject: Colloquium Title
+To: lizb@cs.colorado.edu
+Date: Thu,  8 Nov 2012 16:29:13 -0700 (MST)
+
+The Lambda Calculus in Java 8: Usage, Implementation Challenges, 
+and Controversy
+
+From Yogesh.Virkar@colorado.edu  Thu Nov  8 16:38:46 2012
+MIME-Version: 1.0 (Apple Message framework v1283)
+Content-type: text/plain; charset=windows-1252
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.9 required=5.0 tests=BAYES_00 autolearn=ham
+	version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AqQEADdCnFDAqBGa/2dsb2JhbABEDo4ithzATYkIjzSCRGEDiFqIY5czXQ
+X-IronPort-AV: E=Sophos;i="4.80,741,1344232800"; 
+   d="scan'208";a="11404096"
+From: Yogesh Shrikant Virkar <Yogesh.Virkar@colorado.edu>
+Subject: Title for Bruce Haddon's talk
+Date: Thu, 8 Nov 2012 16:38:35 -0700
+To: lizb@cs.colorado.edu
+X-MIME-Autoconverted: from quoted-printable to 8bit by research.cs.colorado.edu id qA8Nci1i030669
+
+'Lambda, Java, Collections, Inheritance, Classes, Interfaces,Lambda, Java,..blah blah.aaahhhh!!!!'
+
+From fdkong.jd@gmail.com  Thu Nov  8 17:23:54 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=047d7b621c5854395a04ce04f740
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.1 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	HTML_MESSAGE,RCVD_IN_DNSWL_MED,T_DKIM_INVALID autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ArECAFRMnFBKfVMzjWdsb2JhbABEDoVDAatPkhsIIwEBAQEHCwsJEgYjghVQATkDDQUIAQIFXRIBBQE9h3ADD5sQgm+PKIUwJw1MiQIBBQyPKIMlA4hajSGOYhYpgViBfF0
+X-IronPort-AV: E=Sophos;i="4.80,741,1344232800"; 
+   d="scan'208";a="56528395"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:date:x-google-sender-auth:message-id:subject
+         :from:to:content-type;
+        bh=wvhYsU5V2KhOtuPXb7KrttjVFqfiE/J7qVzsAnQndDQ=;
+        b=hCqQwdr2bXx3GUHV4pKkI0KY3B4P0FWbtiUfHBwc8eaBnKNmQv9AkSoycDRd8WjuYC
+         ndk92V802sL5XlGdM081rCjvSqSqtWxUHiCqyNXUb83iaAOKWGKzTd8+v5p7ON455b/e
+         TTtGs58OfAvqJRiZLr1kz7otAaGLk5u/xWmqcOVpqw5J5/pnxHvMVZajWhbvhQLawG3a
+         ln7SPO1EU9gS2z5DeCa7Ut/wVLrPZVGMqx+eGpqXEKYURY+44OO9XZapwX4RI1L87RGN
+         bH5tW5UViNXJ1ztH4ltns7u2KVZ1trEb2c42kkeujpthcakTNRLpS57IGNZtcN/gpbaP
+         Tkpg==
+Sender: fdkong.jd@gmail.com
+Date: Thu, 8 Nov 2012 17:23:51 -0700
+X-Google-Sender-Auth: ciEumZIt3pxmx-RRsy2p4tQakwE
+Subject: An alternative title for Bruce Haddon's talk
+From: Fande Kong <Fande.Kong@colorado.edu>
+To: Elizabeth.Bradley@colorado.edu
+
+--047d7b621c5854395a04ce04f740
+Content-Type: text/plain; charset=ISO-8859-1
+
+Dear Prof. Bradley,
+
+An alternative title for Bruce Haddon's talk:  how do lambda expressions
+effect the java language program style
+
+Regards,
+-- 
+Fande Kong
+Department of Computer Science
+University of Colorado at Boulder
+
+--047d7b621c5854395a04ce04f740
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Dear Prof.=A0Bradley,<div><br></div><div>An alternative title for Bruce Had=
+don&#39;s talk: =A0how do lambda expressions effect the java language progr=
+am style<br clear=3D"all"><div><br></div><div>Regards,</div>-- <br><div>Fan=
+de Kong</div>
+Department of Computer Science<div>University of Colorado at Boulder</div><=
+br>
+<br>
+</div>
+
+--047d7b621c5854395a04ce04f740--
+
+From arashm81@gmail.com  Thu Nov  8 17:43:56 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=14dae93996fbf6be7104ce053ec9
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.3 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,HTML_MESSAGE,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Ag0FAMNQnFDRVdgsjWdsb2JhbABEDoVDAbxrAgICAnUIIwEBAQEJCQsJEgYjgmUBGx4DEggBAgVdAREBBQGILAEDD5sZgm+MMIJ4hQsKGScNWYh1AQUMjyiDJQOIWo0hjmIWKYNUXQ
+X-IronPort-AV: E=Sophos;i="4.80,741,1344232800"; 
+   d="scan'208";a="56425050"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=xwQTDe0yw1MPVwxo86Io74NjAzv24y/3sG3f8VrLSw8=;
+        b=vaDzJqYuXPAL5tH5CFgL8S1DIUfGgN+RiRbCAmYsj+3CtS3Bj8Raype4dWT49kVSCV
+         VDCvH/HQ5gYrS8EmVq9KL6iByBLoF5WsAr0kVipnknDFGHmmLOcWfK45vAIyGR0IsW3a
+         vf+ql3kDv4tSJrgdnDKBsdLeVfDSzhglfjluzmMCs4x3eQ3ZmtIVUdQZ4cH9BZUblEne
+         +Nwq4oINgb9i8xhYChimob/+0bHWV7riXs4/pbMTAAldbxkwnWjumxa7kiK1sk/1j/Ay
+         Pb1Ub5P/kkqB9qsEOSOUceV5CrLW87Qamxwcb7mFsu4M3Abzc4zQRLwIQLkqX94FR1bl
+         2PZg==
+Date: Thu, 8 Nov 2012 17:43:53 -0700
+Subject: Alternative topic for the talk on 11/08/12
+From: Arash Mehraban <arashm81@gmail.com>
+To: lizb@cs.colorado.edu
+
+--14dae93996fbf6be7104ce053ec9
+Content-Type: text/plain; charset=ISO-8859-1
+
+How to mess up Java to look like C++.
+
+--14dae93996fbf6be7104ce053ec9
+Content-Type: text/html; charset=ISO-8859-1
+
+How to mess up Java to look like C++.<br>
+
+--14dae93996fbf6be7104ce053ec9--
+
+From Adam.Robbinspianka@colorado.edu  Fri Nov  9 08:41:22 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=485b397dd6ff6275f204ce11c823
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.2 required=5.0 tests=BAYES_00,HTML_MESSAGE,
+	RCVD_IN_DNSWL_MED autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AuAIAI0jnVDAqBGb/2dsb2JhbABEDrFAAZFqgRCDPAECBV0SAQUBiD+cH4JvlUiJCIwUgyODJwOIWo0hjmIWKYEigjJd
+X-IronPort-AV: E=Sophos;i="4.80,746,1344232800"; 
+   d="scan'208";a="11493482"
+Date: Fri, 9 Nov 2012 08:41:18 -0700
+Subject: title for talk 08 Nov 2012
+From: Adam Robbins-Pianka <Adam.Robbinspianka@colorado.edu>
+To: lizb@cs.colorado.edu
+
+--485b397dd6ff6275f204ce11c823
+Content-Type: text/plain; charset=ISO-8859-1
+
+Grande lambda java with syntactic sugar to go
+
+--485b397dd6ff6275f204ce11c823
+Content-Type: text/html; charset=ISO-8859-1
+
+Grande lambda java with syntactic sugar to go
+
+--485b397dd6ff6275f204ce11c823--
+
+From wasade@gmail.com  Fri Nov  9 10:21:35 2012
+MIME-Version: 1.0
+Content-type: text/plain; charset=ISO-8859-1
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.3 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,RCVD_IN_DNSWL_MED autolearn=ham
+	version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AnMFAGA6nVDRVdQzjWdsb2JhbABEDoVEAbxqBHkIIwEBAQEJCRQSBiOCZQEbHgMSEF0BEQEFAYgsAQMPnEiCb4wygniEfAoZJw1ZiHUBBQyMaoJBgycDiFqNIY5iFimDVF0
+X-IronPort-AV: E=Sophos;i="4.80,746,1344232800"; 
+   d="scan'208";a="56774300"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=9iTTkMxGljEVSXFXbc3vkT6to96p70p1HtZZI3ZuTtI=;
+        b=w/sJQqt5q0ekTLudRsZzcoYIvT2fTslN/DdKt7b+tE4tiVLYkXDzNrmkS+ZLbEOzwx
+         pLQFrJCxM6FMeMeUDebnO+bkQLq6dYSsWL0268Km1bwAHuIpgBD8t1PXsictrYcqgAiT
+         agi9FE7c/6PEAo96S/FGI0wkSg6LTIQhMJcRWWQL3Cre1uERg88byo+db7kkh1u9Hqap
+         v+pC/lCqrRuq3qwhLitHQkwnMY6cr/q00Iywdozr0coeSn3rBDmEBpnJGyRuwylxwgkt
+         sJVNn8ziIgTNptuUlco0/zPQWfM0WjIyKWQohC6ZXbDJ6SOzxK0fuTndrOQg31ICkHCu
+         hyWQ==
+Date: Fri, 9 Nov 2012 10:21:32 -0700
+Subject: Yesterdays talk
+From: Daniel McDonald <wasade@gmail.com>
+To: lizb@cs.colorado.edu
+
+Hey Liz,
+
+I wasn't able to make it to the talk yesterday. Antonio Gonzalez's PhD
+victory celebration was at 3:30, and I additionally had to head out at
+4pm to catch a bus to the airport.
+-Daniel
+
+From Abigail.Jacobs@colorado.edu  Fri Nov  9 15:31:31 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=90e6ba6e8f383ef34704ce17830d
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.9 required=5.0 tests=BAYES_00,HTML_MESSAGE
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AjgQAGaDnVDAqBGa/2dsb2JhbABEDrE/AZFqgQkHgzwBAgVdEgEFASKIHZxbgm+VQokIkl4DiFqNIY5iFimBIoIyXQ
+X-IronPort-AV: E=Sophos;i="4.80,747,1344232800"; 
+   d="scan'208";a="11546328"
+From: Abigail Zoe Jacobs <Abigail.Jacobs@colorado.edu>
+Date: Fri, 9 Nov 2012 15:31:08 -0700
+Subject: CSCI 6000 - alternate title for CS colloquium November 8
+To: "lizb@cs.colorado.edu" <lizb@cs.colorado.edu>
+
+--90e6ba6e8f383ef34704ce17830d
+Content-Type: text/plain; charset=ISO-8859-1
+
+The Java programming language is an exclusive club: considering lambda
+expressions for Java
+
+--90e6ba6e8f383ef34704ce17830d
+Content-Type: text/html; charset=ISO-8859-1
+
+<div><br></div>The Java programming language is an exclusive club: considering lambda expressions for Java<br><div><br></div>
+
+--90e6ba6e8f383ef34704ce17830d--
+
+From acardenas89@gmail.com  Fri Nov  9 16:15:18 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=047d7b15a619dfc88c04ce181f17
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.3 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,HTML_MESSAGE,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AugCAJ2NnVDRVaAzk2dsb2JhbABEDoI7gwkBvXAIIwEBAQEJCRQUBCOCFVABGx4DEggBB10BEQEFASKICgEDD5xUgm+MMoJ4hHUKGScNWYh1AQUMklIDiFqNIY5iFimDVF0
+X-IronPort-AV: E=Sophos;i="4.80,747,1344232800"; 
+   d="scan'208";a="56787759"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=odgWHUGpQ612IhVMesrBMYbSh9SoZQDvSyJgUyzWtz8=;
+        b=ZWVJpj1+WWKtZi6K9nxdWAWlf+OcJUrRJctdm2Ml9aFrzNUPx/z5Kve0Q9lcOgEGYA
+         MrlcaD79u04yQ4dgFisvwV48Xwk2J/0gt7X9sXfCfCSKYILfnHq+rN3trFFAaPJZAh9v
+         cCyiqTurqBqy0IKs038MzSOQxIebWWrUpVTiLodKho2kH3veFy91JaAQqRFvWOcriNcp
+         7OPMsU7bjwb+SmWn7dFin5Aj+eJaTbRwNg9mR/DVYQZBzgCWOiTWIzsGMDzrsw62eIgx
+         Yos0T1Xwfl44DM2MBHI1wh9ZWmBrphxuY0LBe28eTWyi637ZVznOoOeosM/OEX0kCouO
+         ptxw==
+Date: Fri, 9 Nov 2012 16:15:16 -0700
+Subject: Going to be missing class
+From: Adam Cardenas <acardenas89@gmail.com>
+To: lizb <lizb@cs.colorado.edu>
+
+--047d7b15a619dfc88c04ce181f17
+Content-Type: text/plain; charset=ISO-8859-1
+
+Good day Professor,
+
+I am emailing to inform you that till further notice, I will be missing
+school. On Tuesday, November 6th, I had a bicycle accident which I am
+currently recovering from. My parents are currently taking care of me here
+in Boulder. When I have more information, I will let you know. Thanks.
+
+-- 
+Warm Regards,
+Adam Leal Cardenas
+
+--047d7b15a619dfc88c04ce181f17
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Good day Professor,<div><br></div><div>I am emailing to inform you that til=
+l further notice, I will be missing school. On Tuesday, November 6th, I had=
+ a bicycle accident which I am currently recovering from. My parents are cu=
+rrently taking care of me here in Boulder. When I have more information, I =
+will let you know. Thanks.=A0<br clear=3D"all">
+<div><br></div>--=A0<br><div><span style=3D"font-family:arial,sans-serif;fo=
+nt-size:13px">Warm Regards</span><span style=3D"color:rgb(136,136,136);font=
+-family:arial,sans-serif;font-size:13px">,</span></div><div>Adam Leal Carde=
+nas</div>
+</div><div><br></div>
+
+--047d7b15a619dfc88c04ce181f17--
+
+From gaoning777@gmail.com  Mon Nov 12 00:59:30 2012
+MIME-Version: 1.0 (Mac OS X Mail 6.2 \(1499\))
+Content-type: text/plain; charset=us-ascii
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-3.2 required=5.0 tests=BAYES_00,DKIM_ADSP_CUSTOM_MED,
+	DKIM_SIGNED,FREEMAIL_FROM,NML_ADSP_CUSTOM_MED,RCVD_IN_DNSWL_MED,
+	T_DKIM_INVALID autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AuUGAPiroFDRVd+zlGdsb2JhbABEDoVFvXsIIwEBAQEJCQsJEiIHgl8GARseAxIQXhEBBQEiiAoBAw+aIIJvjDKCeIQQChknDVmIdQEFDJFyYQOIWo0ihWuIdz+DVF0
+X-IronPort-AV: E=McAfee;i="5400,1158,6893"; a="57316871"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=from:content-type:content-transfer-encoding:subject:message-id:date
+         :to:mime-version:x-mailer;
+        bh=CtC8RY1MJrDMq+30DvW5C09eJbcbWE5JbrUwxnF36kY=;
+        b=WC5Nk7mOte0VkWfL1kJj/v8WKCd7QuTK8xc6S/N0QzBL2ZJZSrhD4xH2HpIDNFyZt+
+         y6FFDUbpO1hCEJPCod/4/0YyBwMpusdl6cSU5MkaHy7I/48VxkvvT5L6SBwieOtqixeR
+         tQSyuXaowuiViy6R0Zdag/j8HHfoAeh9p8y5qaSZhtq2zisyumSah9AgbFp2aTzY3F7/
+         IMthsOCbrdr7F1qV2Dbs5Q2jC8qkiqBpO7Dw8Gm5ZLZaVTJcFqZdK80ObUPhRtYFUysM
+         PBRbVZS6/wwAOVCPAFjOmzrfeLXZ8Nwy6Vak3T645PwVf7w8sEUQNMTqTuwLFql2NGAR
+         fgvA==
+From: Gao Ning <gaoning777@gmail.com>
+Subject: title for Bruce Haddon's talk
+Date: Mon, 12 Nov 2012 00:59:25 -0700
+To: "lizb@cs.colorado.edu" <lizb@cs.colorado.edu>
+X-MIME-Autoconverted: from quoted-printable to 8bit by research.cs.colorado.edu id qAC7xS92013601
+
+Hi, Liz
+I'm Ning Gao and my title for Bruce Haddon's talk is "A big different for Java language".
+Thank you
+
+From liz.bradley88+caf_=lizb=cs.colorado.edu@gmail.com  Mon Nov 12 08:39:15 2012
+MIME-Version: 1.0
+Content-type: text/plain; charset=us-ascii
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.2 required=5.0 tests=BAYES_00,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AhQGAEIXoVDRVdszlGdsb2JhbABEwk4EBHsIIwEBAQEJCQsJEimCGUYegTYBBQGIP5kLgm+VEYkIjziDJwOIWo0hAY5iP4Qx
+X-IronPort-AV: E=McAfee;i="5400,1158,6893"; a="57331129"
+X-Forwarded-To: lizb@cs.colorado.edu
+X-Forwarded-For: liz.bradley88@gmail.com lizb@cs.colorado.edu
+Received-SPF: pass (google.com: domain of Eric.Goodman@colorado.edu designates 128.138.128.235 as permitted sender) client-ip=128.138.128.235;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of Eric.Goodman@colorado.edu designates 128.138.128.235 as permitted sender) smtp.mail=Eric.Goodman@colorado.edu
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApsIAPQVoVDAqBGa/2dsb2JhbABEwk4EBIIKghlGHrsOiQiPOIMnA4hajSEBk1I
+X-IronPort-AV: E=McAfee;i="5400,1158,6893"; a="11774762"
+From: Eric L Goodman <Eric.Goodman@Colorado.EDU>
+Subject: alternate title for Bruce Haddon's talk
+To: liz.bradley88@gmail.com
+Date: Mon, 12 Nov 2012 08:32:00 -0700 (MST)
+
+Dr. Bradley,
+
+My alternate title:
+lambda(java)
+
+Thanks,
+Eric
+
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.2 required=5.0 tests=BAYES_00,HTML_MESSAGE,
+	RCVD_IN_DNSWL_MED autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApoEAM+FoVDAqBGa/2dsb2JhbAA
+X-IronPort-AV: E=McAfee;i="5400,1158,6894"; a="11786990"
+From: Shang Ma <Shang.Ma@colorado.edu>
+To: <lizb@cs.colorado.edu>
+Subject: homework
+Date: Mon, 12 Nov 2012 16:31:46 -0700
+Content-Language: en-us
+Thread-Index: Ac3BLaJ3HGF+BULcSlGoafzYuXjXgA==
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0C6A_01CDC0F3.3530D0F0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_0C6B_01CDC0F3.3530D0F0"
+
+
+------=_NextPart_001_0C6B_01CDC0F3.3530D0F0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Homework:
+
+1.       Proposed research Essay Revised as attached.
+
+2.       Alternative title for the talk: " The biggest thing to happen to
+Java since Java"
+
+From mcevoy.andy@gmail.com  Tue Nov 13 08:12:38 2012
+MIME-Version: 1.0
+Content-type: text/plain; charset=ISO-8859-1
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.3 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,RCVD_IN_DNSWL_MED autolearn=ham
+	version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AvIDAAhiolDRVdKzlGdsb2JhbABBAw6FRQG+GggjAQEBAQkJFBIpgmUBGx4DEhBdAREBBQE9h28BAw+YaYJvjDOBboEKhH4KGScNWYh1AQUMjz0FgycDiFqNIo5iFimDVF0
+X-IronPort-AV: E=McAfee;i="5400,1158,6894"; a="57660027"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=STwJRAaKfnankoIOslOAFUXUg+h9KplPnDcV14MSS7A=;
+        b=lunz5+R06tKksBZ7EpQdKqVPnTXHG0TWYTK5LYm2k7QnpdU4PUcv3GURbGehh2X90Q
+         Gol1LJzd5vqfx1t9ILK0eGtZh9PxeSW8MOhER1SVaglgji4C8YHNIrj4gMECOuGJQVFP
+         pwJ8pLeMPD5zZsdJ8MQGccq3/0X49HcGYLVc1Gqat0rtMv0AgCYcayC6l0Qo0nY1vNts
+         us7HR60NhWiRK5QtZVWwhc7YpdobunQBNNVDXIt1rPLwFYSXj1ufnQNNPxesO2mlZZpu
+         BRK8EHnxEUtGtgdxqPnP3h/+6KIyRlx/uIZNvZv9+WRi+H21Kcq/ESR0qcl9dd+JlUKK
+         bUFg==
+Date: Tue, 13 Nov 2012 08:12:35 -0700
+Subject: Alt. Title
+From: Andy McEvoy <mcevoy.andy@gmail.com>
+To: lizb@cs.colorado.edu
+
+Java's next upgrade
+
+
+Sorry. Having almost no experience with operating systems I was lost
+from the start, and I never really grasped the importance of what he
+was presenting.
+
+
+
+Andy McEvoy
+
+Doctoral Student
+Correll Lab
+Department of Computer Science
+University of Colorado at Boulder
+
+(832) 439 - 6150
+
+From josenavasmolina@gmail.com  Tue Nov 13 09:54:22 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=047d7b10cf93df61ec04ce634472
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.3 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,HTML_MESSAGE,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AjkDADp4olDRVaAzjWdsb2JhbABEDoVFAb4eCCMBAQEBCQkLCRIGI4JMGQEbHgMSCAECBV0BEQEFAYgsAQMPmHyCb4wzgW6BCoR7ChknDVmIdQEFDI9LgycDiFqNIo5iFimDVF0
+X-IronPort-AV: E=McAfee;i="5400,1158,6894"; a="57818514"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=x8BudB4fJMr82F3ACYNfmD8L2y8FKJEn7A3aSW0BURk=;
+        b=bilXz+y317NE1tTKpliCScCi+iqHU/C3vZb9w1DDRPp99g4FevzXrSlTbdvrdaQLKM
+         NEH9iLZhpNgqImIvhvtQ0xTggGG2tEg4cpF6oIg0GdgHnZAvzp27LvfghWYyMpb5rIB8
+         vfujnIzWvoR+vQ0MqhvsR08JFC31FGXUKqIu5+imotv6IZwo6IoKRTB6alN1JUGCjjOx
+         wSVNOlqT9yZToiDow4QMivG11OySavqEK5a2wZPAeVh4KMxkkkk03+7jnwUgeU+Vi5JK
+         DZBdMhJh/7pMJiu1HZfAA5hFityIKA546e8CjO/ldmLUU0VN/KrYO9+6DQmRxYI/8RmQ
+         WYQg==
+Date: Tue, 13 Nov 2012 09:54:19 -0700
+Subject: CSCI 6000: Alternative title
+From: Jose Navas <josenavasmolina@gmail.com>
+To: lizb@cs.colorado.edu
+
+--047d7b10cf93df61ec04ce634472
+Content-Type: text/plain; charset=ISO-8859-1
+
+(ProgrammingLanguage Java, Expression Lambda) -> JDK8
+
+-- 
+Jose Navas
+
+--047d7b10cf93df61ec04ce634472
+Content-Type: text/html; charset=ISO-8859-1
+
+(ProgrammingLanguage Java, Expression Lambda) -&gt; JDK8<br clear="all"><div><br></div>-- <br>Jose Navas<br>
+
+--047d7b10cf93df61ec04ce634472--
+From shaosong2012@gmail.com  Tue Nov 13 16:00:31 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=e89a8fb1ef4a5d42fe04ce686216
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.3 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,HTML_MESSAGE,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AsoDAKrQolDRVdszlGdsb2JhbABEDoVFAb1bCCMBAQEBCQkLCRIpghVQARseAxIIAQddAREBBQE9h28BAw+ZXoJvjDOBboEKhHQKGScNWYh1AQUMj0uDJwOIWo0ijmIWKYNUXQ
+X-IronPort-AV: E=McAfee;i="5400,1158,6895"; a="57873723"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=2qgkGb3itW+o2kRpO2nxM7WKa61wnyKMHM6lAaCcHtc=;
+        b=gvwG8nal03a6x0uy478U47NiRxS2mjfpttKBFnYLFBwgDVay6BOh0qarA6UmG6A/vf
+         08DMZmCChqLLxp8RNlHMK+1x7qoO1bVzV5ZG2z2kkVq7t10Aw0HwwQYfNg8cHXa9jRxa
+         aonWjIem+6KXiDzx3TdfT5uGU32tqV5ZRm8PkJhbPkrA3SM2B0PZhP6R52x58nKi5rva
+         xfuu5eoOQcNjihu5AcFeLzUclWrygRS10ZaEV8U/hOQHZRHEJXIuUxAPu/LTdvoGd5+Z
+         fHl9A2hJuTSU7pfMnbcSVhZF6J7keVOkhF07RLuu5F+uYWr2eI7ohsLry/AaIWwnRgcE
+         yPNA==
+Date: Tue, 13 Nov 2012 16:00:28 -0700
+Subject: title for Bruce Haddon's talk
+From: shaosong li <shaosong2012@gmail.com>
+To: lizb@cs.colorado.edu
+
+--e89a8fb1ef4a5d42fe04ce686216
+Content-Type: text/plain; charset=ISO-8859-1
+
+Professor Bradley,
+
+My title for Bruce Haddon's talk is *Effects of Lambda Expressions to Java
+Programming Language.*
+
+Regards,
+Shaosong Li
+
+--e89a8fb1ef4a5d42fe04ce686216
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Professor Bradley,<div><br></div><div>My title for <span style=3D"font-fami=
+ly:&#39;Times New Roman&#39;;font-size:medium">Bruce Haddon&#39;s talk is <=
+i>Effects of Lambda Expressions to Java Programming Language.</i></span></d=
+iv>
+<div><span style=3D"font-family:&#39;Times New Roman&#39;;font-size:medium"=
+><br></span></div><div><span style=3D"font-family:&#39;Times New Roman&#39;=
+;font-size:medium">Regards,</span></div><div><span style=3D"font-family:&#3=
+9;Times New Roman&#39;;font-size:medium">Shaosong Li</span></div>
+
+--e89a8fb1ef4a5d42fe04ce686216--
+
+From gungjm@gmail.com  Tue Nov 13 18:31:12 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=20cf3079bb9840f91504ce6a7d35
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.3 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,HTML_MESSAGE,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Ah0JACHzolDRVdyzlGdsb2JhbABEDsIlA3oIIwEBAQEJCQsJEimCHgEBRQEbHgMSCQcNTwEBEQEFATUZh14BAw+Za4JvjDOBboEKhHIKGScNWYh1AQUMizVpgQKCA4MnA4hai02BVYsygzAWKYNUXQ
+X-IronPort-AV: E=McAfee;i="5400,1158,6895"; a="58133805"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=3pLeMmfvNNUM9NCMJRnkHlJ4ViT5FAl1Z26noceEkIo=;
+        b=x97Ja/VD4Ii1Ugdkww10J+XkZXXn3AL6FqWeGGK5f9PPmMK/32Z4q8s+ex1rDTV87q
+         aCsfwytpReffmi8XLPJ7FWuOUcgRMbkUF9lBaDMSVOhGIhMLUkHpbSn4087Vrt9GWmYq
+         51b0MliG3HKS6z0NVTxPk7XOd44sNC4QkR29XD5LSAtC5/762quCbVQMFRQdOvdtPJFl
+         7xCWzm4I6bFEbRudovZE4J2hSv6KabkyDXVaHdUQkoxVEMMxySYj2zmOxpgDEEWs9RRH
+         MZ4W0faGDynCg7Lb3hviE75SebIhr5TqX2yvOlITJk+043n+umNdK+pSnpIGQs+1sKdk
+         0Wmw==
+Date: Tue, 13 Nov 2012 18:31:10 -0700
+Subject: Alternative title for Bruce Hadden's Talk
+From: James Gung <gungjm@gmail.com>
+To: lizb@cs.colorado.edu
+
+--20cf3079bb9840f91504ce6a7d35
+Content-Type: text/plain; charset=ISO-8859-1
+
+*Javassic Park: Bringing New Life to a Fossilizing Language through Lambda
+Expressions*
+*
+*
+On Tue, Oct 23, 2012 at 3:47 PM, James Gung <gungjm@gmail.com> wrote:
+
+> *Spectrum Policy and You: Coexisting in Pieces*
+>
+> On Tue, Oct 9, 2012 at 4:16 PM, James Gung <gungjm@gmail.com> wrote:
+>
+>> *Methods for Teaching Robotics*
+>>
+>> On Tue, Oct 2, 2012 at 2:36 PM, James Gung <gungjm@gmail.com> wrote:
+>>
+>>> I would title Dr. Sankaranarayanan's talk, *An optimization-based
+>>> approach to falsification*
+>>>
+>>> James Gung
+>>>
+>>> On Tue, Sep 18, 2012 at 10:40 AM, James Gung <gungjm@gmail.com> wrote:
+>>>
+>>>> I would title Dr. Rozenberg's talk, *Formal Representation of
+>>>> Biochemical Reactions, an Introduction.*
+>>>>
+>>>> James Gung
+>>>>
+>>>
+>>>
+>>
+>
+
+--20cf3079bb9840f91504ce6a7d35
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<i>Javassic Park: Bringing New Life to a Fossilizing Language through Lambd=
+a Expressions</i><div><i><br></i><div class=3D"gmail_quote">On Tue, Oct 23,=
+ 2012 at 3:47 PM, James Gung <span dir=3D"ltr">&lt;<a href=3D"mailto:gungjm=
+@gmail.com" target=3D"_blank">gungjm@gmail.com</a>&gt;</span> wrote:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex"><i>Spectrum Policy and You: Coexisting in Pi=
+eces</i><br><br><div class=3D"gmail_quote">On Tue, Oct 9, 2012 at 4:16 PM, =
+James Gung <span dir=3D"ltr">&lt;<a href=3D"mailto:gungjm@gmail.com" target=
+=3D"_blank">gungjm@gmail.com</a>&gt;</span> wrote:<br>
+
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex"><i>Methods for Teaching Robotics</i><br><br>=
+<div class=3D"gmail_quote">On Tue, Oct 2, 2012 at 2:36 PM, James Gung <span=
+ dir=3D"ltr">&lt;<a href=3D"mailto:gungjm@gmail.com" target=3D"_blank">gung=
+jm@gmail.com</a>&gt;</span> wrote:<br>
+
+
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex">I would title Dr. Sankaranarayanan&#39;s tal=
+k, <i>An optimization-based approach to falsification</i><div><br></div><di=
+v>
+
+
+James Gung<br><br><div class=3D"gmail_quote">On Tue, Sep 18, 2012 at 10:40 =
+AM, James Gung <span dir=3D"ltr">&lt;<a href=3D"mailto:gungjm@gmail.com" ta=
+rget=3D"_blank">gungjm@gmail.com</a>&gt;</span> wrote:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex"><div>I would title Dr. Rozenberg&#39;s talk,=
+=A0<i>Formal Representation of Biochemical Reactions, an Introduction.</i><=
+/div>
+
+
+
+<span><font color=3D"#888888"><div><br></div><div>James Gung</div>
+</font></span></blockquote></div><br></div>
+</blockquote></div><br>
+</blockquote></div><br>
+</blockquote></div><br></div>
+
+--20cf3079bb9840f91504ce6a7d35--
+
+From Dana.Hughes@colorado.edu  Tue Nov 13 21:32:15 2012
+MIME-Version: 1.0
+Content-type: text/plain; charset=us-ascii
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.2 required=5.0 tests=BAYES_00,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: ApwEAHAdo1DAqBGb/2dsb2JhbABEDsQ3ghlGGQW0f4cSiQiPL4MnA4hajSEBknVd
+X-IronPort-AV: E=McAfee;i="5400,1158,6895"; a="11929058"
+From: Dana Hughes <Dana.Hughes@colorado.edu>
+Subject: CSCI6000:  Alternative Title for Bruce Haddon's
+ Talk
+To: lizb@cs.colorado.edu
+Date: Tue, 13 Nov 2012 21:32:12 -0700 (MST)
+
+Dr. Bradley,
+
+My alternative title (meant to be a bit tongue-in-cheek) for Thursday's colloquium is "Reinventing Scala:  Functional Programming for the JVM" 
+
+--Dana
+
+From Mohammad.Khajah@colorado.edu  Tue Nov 13 21:39:26 2012
+MIME-Version: 1.0
+Content-type: text/plain; charset=ISO-8859-1; format=flowed
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.2 required=5.0 tests=BAYES_00,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AlgJAFUgo1DAqBGb/2dsb2JhbABEDo4qs3oEBIECgQmCXRslPRYYAwIBAgFYCAEBiAaZdpEQhxOJCI8vgycDiFqdZYIyXQ
+X-IronPort-AV: E=McAfee;i="5400,1158,6895"; a="12008202"
+Date: Tue, 13 Nov 2012 21:39:12 -0700
+From: Mohammad Khajah <Mohammad.Khajah@colorado.edu>
+To: lizb@cs.colorado.edu
+Subject: Alternative title for Dr. Haddon's Talk
+
+Dear Dr. Bradley,
+
+The alternative title for Dr. Haddon's talk is " On the Challenges of 
+Implementing Lambda Syntax in Java".
+
+Best Regards,
+Mohammad
+
+From james.balasalle@gmail.com  Tue Nov 13 21:47:43 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=20cf307cfd02046efd04ce6d3ccd
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.3 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,HTML_MESSAGE,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AvoEAEYho1DRVdyzlGdsb2JhbABEDoVIAb1eCCMBAQEBCQkLCRIpgmUBGx4DEggBAgVdAREBBQEGiCYBAw+ZdoJvjDOBboEKhGYKGScNWYh1AQUMjyODJwOIWo0ijmIWKYNUXQ
+X-IronPort-AV: E=McAfee;i="5400,1158,6895"; a="58082476"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=qD+Gtxuy9rrztqfrJK0hIleJdpdwZ0/azEOhpBWy0UM=;
+        b=sB4LBixmYR797SnTz1xGIfCt6hn72ugok6RDdOP19NJwSo24tG3WPRLIIOmkqCF2R+
+         gD4Vt0QT6ocEMS0z6xjNDz6ZVrKMAoomAdY8STx6Dmys3e8iGQtFnHaUffmlTI5zlwzE
+         mOuuikqMDT+UUP7N9VaVFzYeC7PfcI/X6w6yn+crj+lk102Qqegdrf8hC2MPUhPWYvT4
+         5f7ZC7/jaeFJ0HSxGPcnZx75/tw5xSavg/ZPug0f9XWTvoppsKPXDjBC+NOZ8C/n4Zl1
+         rqhtq5wOXpviY5eKOGMiCNAOvcQR8W7Dyh3zw+eDKNXbaD5YiiM5KmmAhm6QmvOMVNsJ
+         YvJw==
+Date: Tue, 13 Nov 2012 21:47:40 -0700
+Subject: Talk Title
+From: James Balasalle <james.balasalle@gmail.com>
+To: lizb@cs.colorado.edu
+
+--20cf307cfd02046efd04ce6d3ccd
+Content-Type: text/plain; charset=ISO-8859-1
+
+My title for last week's talk is:
+
+The Process of Adding Lambda Expressions to Java
+
+--20cf307cfd02046efd04ce6d3ccd
+Content-Type: text/html; charset=ISO-8859-1
+
+My title for last week&#39;s talk is:<div><br></div><div>The Process of Adding Lambda Expressions to Java</div>
+
+--20cf307cfd02046efd04ce6d3ccd--
+
+From hadi.ra@gmail.com  Tue Nov 13 22:14:31 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=e0cb4efe322ad91d0304ce6d9b60
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.3 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,HTML_MESSAGE,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AuoDAGQno1DRVdczjWdsb2JhbABEDoI7gw0BvV4IIwEBAQEJCQsJEgYjgmUBGx4DEggBB10BEQEFAYgsAQMPmXGCb4wzgW6BCoRlChknDVmIdQEFDI8jgycDiFqNIo5iFimDVF0
+X-IronPort-AV: E=McAfee;i="5400,1158,6895"; a="57971495"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:from:date:message-id:subject:to:content-type;
+        bh=81Sx8V+T/7l2WR+xaJ2p7g7UFDywFbnx5XH7abpZ9B8=;
+        b=WV7ghxBZWIM0SNuaO813XhlgX+QTRwlkcu9CFc9EISTX8VG/EzS71Ju7pKcNVD5kTI
+         saqChv1/AIOdkqlumYR0CJju5hckSE8U4cRlc034JaxJ9f0PUYBPsCwtuWjsa5Wzj0Ze
+         1oxSdbC6AjSaGxtRDu/BdRrMlrzuDAv0Ufjc3RvhTG6ldWzNByvJYjf+MY5hzxbFKRqs
+         ZfvCLShf3fNxhJq2Quz5S4Kou2fIPxX9ZumvQrrhih4SGL1rZ/fcxnoOBh8XtkslorTY
+         P6TLuo0uecpeYpkAt0JW6PWbc0pTDaIAW/im01bOqDKSEjwSghTXV9j7kaikURqJHEG8
+         crvA==
+From: Hadi RavanBakhsh <hadi.ra@gmail.com>
+Date: Tue, 13 Nov 2012 22:13:58 -0700
+Subject: Alternative Title for Bruce Haddon's Colloquium Talk
+To: lizb@cs.colorado.edu
+
+--e0cb4efe322ad91d0304ce6d9b60
+Content-Type: text/plain; charset=ISO-8859-1
+
+Dear Prof. Bradly,
+
+I assume that the following title suits the talk:
+
+Changelog of Java 8
+
+Regards,
+
+--Hadi Ravanbakhsh
+
+--e0cb4efe322ad91d0304ce6d9b60
+Content-Type: text/html; charset=ISO-8859-1
+
+<div dir="ltr"><div class="gmail_quote"><div dir="ltr"><div style="color:rgb(34,34,34);font-size:12.727272033691406px;font-family:arial,sans-serif"><div>Dear Prof. Bradly,</div><div><br></div><div>I assume that the following title suits the talk:</div>
+
+
+<div><br></div><div>Changelog of Java 8</div><div><br></div></div><div style="color:rgb(34,34,34);font-size:12.727272033691406px;font-family:arial,sans-serif">
+Regards,</div><div style="color:rgb(34,34,34);font-size:12.727272033691406px;font-family:arial,sans-serif"><br></div><span style="color:rgb(34,34,34);font-size:12.727272033691406px;font-family:arial,sans-serif">--Hadi Ravanbakhsh</span></div>
+
+
+</div><br></div>
+
+--e0cb4efe322ad91d0304ce6d9b60--
+
+From khaled.alanezi@colorado.edu  Tue Nov 13 22:30:44 2012
+MIME-Version: 1.0
+Content-type: text/plain; charset=us-ascii
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.2 required=5.0 tests=BAYES_00,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AtsKADoso1DAqBGb/2dsb2JhbABEDsIkAgICAoILghlGHoFfsx+HEokIjCqGLAOIWo0hknZd
+X-IronPort-AV: E=McAfee;i="5400,1158,6895"; a="11932663"
+From: Khaled Alanezi <khaled.alanezi@colorado.edu>
+Subject: November 8,2012 - colloquium title
+To: Elizabeth Bradley <Elizabeth.Bradley@colorado.edu>
+Date: Tue, 13 Nov 2012 22:30:41 -0700 (MST)
+
+Hello Prof. Liz,
+
+I would suggest the below alternative title for the above mentioned colloquium.
+
+JDK 8: Redefine Java by the Introduction of Lambda Expressions.
+
+From Marina.Kogan@colorado.edu  Tue Nov 13 23:06:50 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative;
+	boundary="_000_C9431BDF1443CF48954DB3F1C7BD2C40F699055F8EEXC4adcolorad_"
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.2 required=5.0 tests=BAYES_00,HTML_MESSAGE,
+	RCVD_IN_DNSWL_MED autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AgIJADA0o1DAqBGb/2dsb2JhbABEDoI7I8FTB4IlLSY4AQx0DxAHAQQbiAIBmXSREIcWiQiRdWEDiFqNIpBDgjJd
+X-IronPort-AV: E=McAfee;i="5400,1158,6895"; a="12012569"
+From: Marina Kogan <Marina.Kogan@colorado.edu>
+To: "lizb@colorado.edu" <lizb@colorado.edu>
+Date: Tue, 13 Nov 2012 23:06:49 -0700
+Subject: talk title
+Thread-Topic: talk title
+Thread-Index: Ac3CLe/i6FGwnyS5TkiDE/OZ5g0ezA==
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+acceptlanguage: en-US
+
+--_000_C9431BDF1443CF48954DB3F1C7BD2C40F699055F8EEXC4adcolorad_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Dr. Bradley,
+Here is my talk title:
+
+"Introduction of lambda expressions into Java and its importance"
+
+Thanks,
+Marina
+
+--_000_C9431BDF1443CF48954DB3F1C7BD2C40F699055F8EEXC4adcolorad_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><META HTTP-EQUIV=3D"Content-Type" CONTENT=
+=3D"text/html; charset=3Dus-ascii"><meta name=3DGenerator content=3D"Micros=
+oft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue vli=
+nk=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal>Hi Dr. Bradley,<=
+o:p></o:p></p><p class=3DMsoNormal>Here is my talk title:<o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>&#8220;Introduc=
+tion of lambda expressions into Java and its importance&#8221;<o:p></o:p></=
+p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Thanks,<o:=
+p></o:p></p><p class=3DMsoNormal>Marina<o:p></o:p></p></div></body></html>=
+
+--_000_C9431BDF1443CF48954DB3F1C7BD2C40F699055F8EEXC4adcolorad_--
+
+From emily.panxin@gmail.com  Tue Nov 13 23:12:58 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=047d7b66f13de0285704ce6e6c8a
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.0 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	HTML_MESSAGE,HTML_OBFUSCATE_10_20,RCVD_IN_DNSWL_MED,T_DKIM_INVALID
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Ag4EAO81o1BKfVMzjWdsb2JhbABEDoI7gw0BqzySIwgjAQEBAQkJCwkSBiOCZQE5Aw0FCAEHXRIBBQGILQMPmXmCb44hgQqFDCcNTIkCAQUMjyODJwOIWo0ijmIWKYFYgXxd
+X-IronPort-AV: E=McAfee;i="5400,1158,6895"; a="58194377"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:date:x-google-sender-auth:message-id:subject
+         :from:to:content-type;
+        bh=Jyoi08Yb7mPkVy8s4M5pWjOB0lx3SfOUWfoaCwYZzuw=;
+        b=o/bOupOJehaLkXAzfw2xgJi73sg/JfynhgQj7nqPbc8Qe5ujYjiK+sYVjIbM6dbYOU
+         ErcDKacUe4DR/viap9Yb8VyNX26alUVWH9w9D8qgL89Xzt0Psvt/mwY8F/VKUC7U4ajP
+         44oXzJLlh7ZIyM/QHNl1e/YP9jycrE5Uz/9ugMHNmY5s+ZkPntK/II65tyjBDBdQQjta
+         Oy1OosIvyGabLPCkfKgBffFtABB5NU4DRiS31ofveUT0HVEKBnSUMFzMRP7x8PaVt4K3
+         JJ2plnOL4+MVqOIFaALqwxoUoA5QSCt3oAzuLZATq3Sed7HYO24gGpC+NM1a6NoBPTkJ
+         DcQw==
+Sender: emily.panxin@gmail.com
+Date: Tue, 13 Nov 2012 23:12:54 -0700
+X-Google-Sender-Auth: 2bgbepCOQb9RGQ7P9cObF5VZKds
+Subject: CSCI6000 - Alternative title for Haddon's colloquium talk
+From: "Xin (Emily) Pan" <Xin.Pan@colorado.edu>
+To: lizb@cs.colorado.edu
+
+--047d7b66f13de0285704ce6e6c8a
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hi Professor Bradley,
+
+My alternative title is the Largest Change in Java: Lambda Expression
+
+Regards,
+Xin
+
+--047d7b66f13de0285704ce6e6c8a
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<span style=3D"color:rgb(34,34,34);font-family:arial,sans-serif;font-size:1=
+2.800000190734863px;background-color:rgb(255,255,255)">Hi Professor Bradley=
+,</span><div><font color=3D"#222222" face=3D"arial, sans-serif"><br clear=
+=3D"all">
+</font><div><span style=3D"background-color:rgb(255,255,255);color:rgb(34,3=
+4,34);font-family:arial,sans-serif;font-size:12.800000190734863px">My alter=
+native title is t</span><span style=3D"color:rgb(34,34,34);font-family:aria=
+l,sans-serif;font-size:12.800000190734863px;background-color:rgb(255,255,25=
+5)">he Largest Change in Java: L</span><span style=3D"background-color:rgb(=
+255,255,255);color:rgb(34,34,34);font-family:arial,sans-serif;font-size:12.=
+800000190734863px">ambda E</span><span style=3D"background-color:rgb(255,25=
+5,255);color:rgb(34,34,34);font-family:arial,sans-serif;font-size:12.800000=
+190734863px">xpression</span></div>
+<div><br></div><div>Regards,</div>
+<div>Xin</div><br>
+</div>
+
+--047d7b66f13de0285704ce6e6c8a--
+
+From Murad.Kaplan@colorado.edu  Tue Nov 13 23:19:49 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative;
+	boundary="----=_NextPart_000_00B6_01CDC1F5.5DC2FAE0"
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.2 required=5.0 tests=BAYES_00,HTML_MESSAGE,
+	RCVD_IN_DNSWL_MED autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: Aq8FAO82o1DAqBGa/2dsb2JhbABBAw6CO7gGhTCDPoEJgiUIAh4FJgMwAQQGB1sCHh8BBB4Fh3qZdJEQhxaJCASPJgWDJwOIWp1lgjJd
+X-IronPort-AV: E=McAfee;i="5400,1158,6895"; a="12012971"
+From: Murad Kaplan <Murad.Kaplan@colorado.edu>
+To: <lizb@cs.colorado.edu>
+Subject: Alternative title for  Bruce Haddon's talk
+Date: Tue, 13 Nov 2012 23:19:42 -0700
+Content-Language: en-us
+Thread-Index: Ac3CL+as5KYNVzxhQvqZnPEBRhB5Wg==
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_00B6_01CDC1F5.5DC2FAE0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+"How to look at Java from a boring prospective. "
+
+ 
+
+----------------
+
+Murad Kaplan
+Ph.D. Student
+
+ECCR 1B 54 - Systems Lab
+
+Computer Science Department
+
+University of Colorado
+
+Boulder, CO 80309-0430
+Phone: +1 508 615 0768
+
+ 
+
+ 
+
+
+------=_NextPart_000_00B6_01CDC1F5.5DC2FAE0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><META =
+HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 14 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle18
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'>&#8220;How to look at Java from a boring =
+prospective. &#8220;<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'><o:p>&nbsp;</o:p></span></p><div><p =
+class=3DMsoNormal><span =
+style=3D'color:#1F497D'>----------------<o:p></o:p></span></p><p =
+class=3DMsoNormal><span style=3D'color:#1F497D'>Murad Kaplan<br>Ph.D. =
+Student<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'>ECCR 1B 54 - </span><span =
+style=3D'color:#1F497D'>Systems Lab</span><span =
+style=3D'color:#1F497D'><o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'>Computer Science =
+Department<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'>University of Colorado<o:p></o:p></span></p><p =
+class=3DMsoNormal><span style=3D'color:#1F497D'>Boulder, CO =
+80309-0430</span><span style=3D'color:#1F497D'><br>Phone: +1 508 615 =
+0768</span><span style=3D'color:#1F497D'><o:p></o:p></span></p></div><p =
+class=3DMsoNormal><span =
+style=3D'color:#1F497D'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+------=_NextPart_000_00B6_01CDC1F5.5DC2FAE0--
+
+From ehab.ababneh@gmail.com  Wed Nov 14 01:24:07 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=e89a8f502fc0f48c6e04ce70412c
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.3 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,HTML_MESSAGE,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AvoEAAxUo1DRVdKzlGdsb2JhbABEDoVIAb1fCCMBAQEBCQkLCRIpgmUBGx4DEggBAgVdAREBBQEiAYgJAQMPnHSMM4J4gQaDZwoZJw1ZiHUBBQySSgOIWo0ijmIWKYNUMC0
+X-IronPort-AV: E=McAfee;i="5400,1158,6895"; a="57989311"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=ANntBEKEWXtFAQs1/UhoS7+ww6DwfBPDF4dxwMgcDgY=;
+        b=D+H4+3OcA/z4ZrA5rmnygNwOxqADVLzRfucgKjss+Dy7YAm6s5sqLYn2Dkv523wxI1
+         h+TkXGJ1IzAHzo5e0d/cAKm1Bo3CiDDLJOBLtniNjGItAtkSd1vWhaNM8bwCShkISyFX
+         vxnez+5rcstZWSl8XbwkJp9oGzcAIl9IavitmIt6Zxw7iN3v3O8bxpK7ehQgBqP8ggfg
+         jF1KhVOXAx6ysfpCv/GfQWtu228xrpwKbfiAobbHPORp16vmL6/9PQpTQSnyNlU878FE
+         g62C09Gsqm7wC3ijlncYD9AarOWiDDr7H9omEOaAVHhoKvgcnpgjqrcpUUOvB+2tZssq
+         Ilow==
+Date: Wed, 14 Nov 2012 01:24:04 -0700
+Subject: title for Bruce Haddon's talk.
+From: Ehab Ababneh <ehab.ababneh@gmail.com>
+To: Liz Bradley <liz.bradley88@gmail.com>, lizb@cs.colorado.edu
+
+--e89a8f502fc0f48c6e04ce70412c
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hello Dr. Bradley,
+
+Here is the suggested new title:
+"Stick with JDK 7, JDK 8 will support closures as parameters".
+
+Thanks.
+
+--e89a8f502fc0f48c6e04ce70412c
+Content-Type: text/html; charset=ISO-8859-1
+
+Hello Dr. Bradley,<div><br></div><div>Here is the suggested new title:</div><div>&quot;Stick with JDK 7, JDK 8 will support closures as parameters&quot;.</div><div><br></div><div>Thanks.</div>
+
+--e89a8f502fc0f48c6e04ce70412c--
+
+From homa.hosseinmardi@gmail.com  Wed Nov 14 04:01:32 2012
+MIME-Version: 1.0
+Content-type: multipart/alternative; boundary=f46d04463168e11b7a04ce7274f9
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	research.cs.colorado.edu
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+	DKIM_VALID,DKIM_VALID_AU,FREEMAIL_FROM,HTML_MESSAGE autolearn=ham
+	version=3.3.2
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AuoDAB55o1DRVdazjWdsb2JhbABEDoVIAb1dCCMBAQEBCQkLCRIGI4IVUAEbHgMSCAEHXQERAQUBFg2ICQEDD5wdjDOCeIRzChknDVmIdQEFDJJKA4hajSKOYhYpg1Rd
+X-IronPort-AV: E=McAfee;i="5400,1158,6895"; a="58412358"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=otV1ZQRuatrAmK83KvsP6vRjhmdgk2NJk9CJL+Q5kE8=;
+        b=W7IGsWRi9LBUjpGy9awqKa1RFOEdEqR8XPHuyhnAcAIK2+MlJ1P1S8rJzmm36N70b3
+         tAj/3zL3F3bwmRlFi46D2dtxWENT5nsIp32pmcfB6NIFdJXTl61l3L2kF0YAPnadbItx
+         6lRhS1VQGjIUhIGjlVNzpQTV4JovZDu8qMAXjEdK8N3TIseu9PS8IJNDmhTc/t4xBbpq
+         iqNm7laEGpJXF3cWmXhvpK25EEht5zS/4QjfJPGBaMgp3PPw+jeAgFMdCYwl+KV9y9e9
+         pUWpYMuaFHUfw+gQ50yH6vRDlIZ7QKOAKJX7A+OnfZxOoXFyH95xAu59eSoUo3vvoWuY
+         LMzw==
+Date: Wed, 14 Nov 2012 04:01:29 -0700
+Subject: alternative topic
+From: Homa Hosseinmardi <homa.hosseinmardi@gmail.com>
+To: liz.bradley88@colorado.edu, lizb@cs.colorado.edu
+
+--f46d04463168e11b7a04ce7274f9
+Content-Type: text/plain; charset=ISO-8859-1
+
+Dear Professor Bradley,
+
+Here is the alternative topic for Professor Haddon's talk:
+"introducing the largest change to the Java language: addition of Lambda
+expression"
+
+Best Regards
+Homa
+
+--f46d04463168e11b7a04ce7274f9
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Dear Professor Bradley,<div><br></div><div>Here is the alternative topic fo=
+r=A0<font face=3D"arial, helvetica, sans-serif">Professor=A0Haddon&#39;s ta=
+lk:</font></div><div><font face=3D"arial, helvetica, sans-serif">&quot;intr=
+oducing the=A0</font><span style=3D"background-color:rgb(255,255,255);font-=
+family:Arial,sans-serif;white-space:pre-wrap">largest change to the Java la=
+nguage:=A0</span><span style=3D"background-color:rgb(255,255,255);font-fami=
+ly:Arial,sans-serif;white-space:pre-wrap">addition of </span><span style=3D=
+"background-color:rgb(255,255,255);font-family:Arial,sans-serif;white-space=
+:pre-wrap">Lambda expression</span><span style=3D"font-family:arial,helveti=
+ca,sans-serif">&quot;</span></div>
+<div><font face=3D"arial, helvetica, sans-serif"><br></font></div><div><fon=
+t face=3D"arial, helvetica, sans-serif">Best Regards</font></div><div><font=
+ face=3D"arial, helvetica, sans-serif">Homa</font></div>
+
+--f46d04463168e11b7a04ce7274f9--
+

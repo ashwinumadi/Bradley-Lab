@@ -1,0 +1,623 @@
+----------------------------------------------------------------
+Here is the mail they send you when you agree to serve:
+
+From liliana@supers1.ian.pv.cnr.it Thu Sep 10 06:29 MDT 1998
+Return-Path: <liliana@supers1.ian.pv.cnr.it>
+Date: Thu, 10 Sep 1998 14:25:45 --100
+From: liliana@supers1.ian.pv.cnr.it (Dott.sa Liliana Ironi)
+To: lizb@cs.colorado.edu
+Subject: Re: IJCAI 99 Reviewing
+X-Sun-Charset: US-ASCII
+
+Dear Liz,
+
+thanks for your acceptance to be a reviewer in the area of qualitative 
+reasoning for IJCAI 99.
+
+Here are the information about specific times that you must commit to in 
+order to ensure that we meet all of the deadlines. The point of making this
+commitment in advance is so that everyone can work to ensure that the
+necessary dates are kept free of other commitments. As in the case of
+PC member deadlines, these dates are not negotiable and the entire
+process is highly constrained by forces beyond our control.
+
+Here are the times that reviewers have to be aware of:
+
+Jan 15-17 - each reviewer receives by email a list of authors
+	and institutions and sends to an email server at Brown
+	by return email a list of those that pose a conflict of 
+	interest. These email exchanges must be completed by 
+	Sunday, January 17, 9:00am PST.
+
+Jan 22-26 - reviewers receive their papers. It's extremely important
+	that reviewers look at their papers immediately and note any
+	discrepancies between what they were told via email to expect
+	and what they actually received.  Also now is the time to fix
+	the errors regarding conflict of interest that inevitably
+	creep in despite all the effort to avoid such conflicts.
+
+Feb 9 - reviews are due to program committee members. Yes, this 
+	doesn't leave a lot of time for reviewing - doing it right 
+	means that you make sure you can commit the necessary time.
+
+Feb 10-17 - PC members work with reviewers to make final decisions;
+	this may require exchanging email with the PC member and the
+	other reviewers. Papers printed in the IJCAI proceedings are
+	often touted as being roughly equivalent to papers in journals;
+	whether or not this is true, we will do our best to ensure that
+	IJCAI'99 papers are reviewed as carefully as those submitted
+	to journals - as usual, allowing some flexibility for papers
+	that present really neat new ideas perhaps not quite in a form
+	suitable for an archival journal. 
+
+Feb 18 -  final reviews are due at the AAAI office.
+
+
+We need contact information for every reviewer, including an
+email address and a physical address for express mail that we
+can depend on. We also want your interest profile for its use in the 
+process of the assignments of papers.
+
+Here is the "form" for the contact and profile information
+(requirements regarding addresses in this case are imposed by the size
+of labels used for automatic addressing):
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Please note that your name and mailing address must fit on 5 lines with a
+maximum of 45 characters per line.  The address must be one that carriers
+like Federal Express can deliver to (no PO Boxes) and a phone number is
+also required by the carriers.  Please abbreviate appropriately so your
+name and address fit within these bounds.   This does not apply to e-mail
+and phone numbers.
+
+The "work or day phone" is required for express mail service.  The
+"home or weekend phone" is required in case we need to contact you
+during the weekend(s) on the schedule.  The keywords help in selecting
+papers and should come from those on the IJCAI'99 call for papers on the 
+<a href="http://www.dsv.su.se/ijcai-99/">IJCAI'99 home page</a>.
+
+The profile should be no more than fifty words. See
+
+    http://www.cs.brown.edu/people/tld/ijcai99/pc/form-reviewer.html
+
+for an example of a correctly filled out form.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+         1         2         3         4
+123456789012345678901234567890123456789012345
+
+First Name    Last Name
+Affiliation
+Address line 1
+Address line 2
+City, State, Zip, Country
+
+E-mail address:
+
+Work or day phone:
+
+Fax number:
+
+Keywords: 
+
+Profile:
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+Looking forward to your reply, meanwhile best regards
+
+
+Liliana
+
+----------------------------------------------------------------
+Here is my review of one of the papers I received:
+
+IJCAI-99 Paper Review Form / Comments for Author
+
+Title:  	On the nature of structure and its identification
+
+Number:		Z503
+
+Please return this form to the Program Committee Member for whom
+you are reviewing no later than February 9, 1999.
+
+1. How RELEVANT is this paper to AI researchers? (mark one box)
+
+[ ] Very relevant [X] Moderately relevant [ ] Not relevant
+
+2. How SIGNIFICANT is this paper?
+
+[ ] Very significant [X] Moderately significant [ ] Not significant
+
+3. How ORIGINAL is this paper?
+
+[ ] Very original [X] Moderately original [X] Not original
+
+4. Is this paper technically SOUND?
+
+[ ] Yes [X] Seems valid, but did not check completely
+[ ] Has minor errors [ ] Has major errors
+
+	[Can't tell because there's no definition of "optimum"]
+
+5. How well is this paper PRESENTED?
+
+                        Good    Average Poor
+Overall organization    [X]     [ ]     [ ]
+English                 [X]     [ ]     [ ]
+Readability             [X]     [ ]     [ ]
+
+6. My recommendation is:
+
+[ ] Accept      [X] Leaning to accept
+[ ] Leaning to reject [ ] Reject
+
+7. Further comments, advice or explanations (Please be specific and
+constructive, especially with respect to any negative judgements
+above. Point to the section(s) where an error occurs, cite omitted
+references, etc.) Use as much space as you need.
+
+A nice paper: well-posed problems, sensible solutions, nice
+applications, well written.  (Very good use of examples and figures,
+in particular.)  However, I wonder about the novelty: most of
+MAJORCLUST is right out of an algorithms textbook.  I also wonder why
+this is advertised as an AI paper (and particularly as a ML paper!)
+The real "AI" seems to be in choosing the metric to use to assign
+weights to the edges of the graph, but section 5 seems to indicate
+that that step is completely domain dependent and is done by a human
+expert.
+
+Define "optimum" in "optimum number of clusters" (p4, left bottom).
+Give a high-level qualitative description of the rationale behind
+\Lambda early on: in the abstract and intro, at least -- e.g.,
+"weighted according to the size and connectedness of the subgraph."
+Also, say more about why this is exactly the right way to choose this
+weighting -- what it gives you that other choices would not.  (The
+only "justification" that I found was the parenthetical comment on p4
+about how the results resemble human esthetics.)
+
+Explanations are lacking in many places.  "...may not apply to all
+kinds of systems...a broad class of..."  Which kinds of systems?  Why?
+Explain items 1 and 2 in the second paragraph of 2.1 using references
+to fig 1, and explain the strong splitting condition better.  Also
+point back to fig 1 in the definitions of domain concepts,
+connectivity, and contraction.
+
+Why do sections 4.2 and 4.3 exist?  If MAJORCLUST was really tested on
+circuit layout or graph visualization, show the results.  If it
+wasn't, make it clear (e.g., "there are two interesting problems on
+which we plan to test this...")
+
+Section 5.3 appears to have been written in some haste; it needs work.
+Various small typos here and there.
+
+==================== PLEASE DO NOT DELETE THIS LINE =====================
+
+
+IJCAI-99 Paper Review Form/ Confidential Comments
+for Programme Committee Members Only
+
+(This section of the review will be withheld from the author)
+
+Title:  	On the nature of structure and its identification
+
+Number:		Z503
+
+1. To the best of my knowledge, this paper conforms to IJCAI's policy
+on multiple submissions, which is not to accept any paper which at the
+time of submission is under review for a journal or another
+conference. Authors are also expected not to submit their papers
+elsewhere during IJCAI's review period. These restrictions apply only
+to journals and conferences, not to workshops and similar specialised
+presentations with a limited audience.
+
+[X] Yes [ ] No
+
+2. Should this paper be considered for an IJCAI-99 outstanding paper award?
+
+[ ] Yes [X] No
+
+
+If "yes", please briefly explain what distinguishes it.
+
+
+
+3. How confident are you in your appropriateness as a referee for
+this paper?
+
+[ ] Very confident - I am an expert in this area. [X] Confident - I have
+a reasonable knowledge of this area. [ ] Fairly confident - I have
+some knowledge of this area. [ ] Not confident - I have no significant
+knowledge of this area.
+
+
+4. If this paper is marginal or unusual in some way, can you comment
+on anything else that might help the Program Committee reach a decision?
+
+I enjoyed reading this paper, but most of MAJORCLUST looks like it's
+straight out of an algorithms textbook, and there's very little AI in
+here.  I checked "leaning to accept" because I believe the authors can
+address these concerns by with a careful reworking.
+
+Reviewer: (please fill in your name here)
+
+Liz Bradley
+(sore wrists these days, hence a terser review than usual.  apologies.)
+
+----------------------------------------------------------------
+
+Date: 	Fri, 12 Feb 1999 16:32:42 +0100
+From: Ulrich Heller <heller@informatik.tu-muenchen.de>
+Subject: Z503: IJCAI Review: weak disagreement
+
+Dear Liz Bradley,
+
+this is to inform you about the other reviews concerning paper
+no. Z503 (On the Nature of Structure and its Identification) which
+would override yours and give you the opportunity to make your points
+against them.  Additionally, or alternatively, you might want to
+revise your own review (in either direction). You can also communicate
+directly with the other reviewers whose e-mail addresses are given
+below. In this case, please cc ijcai-review@in.tum.de.
+
+In any case, please inform us EXPLICITLY whether or not you would
+like to turn in a modified review.
+
+The other reviewers are
+Leo Joskowicz (josko@cs.huji.ac.il) and
+Johan de Kleer (dekleer@parc.xerox.com).
+
+Regards,
+              Ulrich Heller
+
+----------------------------------------------------------------
+Here is deKleer's review:
+
+IJCAI-99 Paper Review Form / Comments for Author
+
+Title: On the Nature of Structure and its Identification
+
+Number: Z503
+
+Please return this form to the Program Committee Member for whom
+you are reviewing no later than February 9, 1999.
+
+1. How RELEVANT is this paper to AI researchers? (mark one box)
+
+[ ] Very relevant [ ] Moderately relevant [x ] Not relevant
+
+This paper presents an interesting analysis of what is structure.  However, it does not demonstrate reasoning nor utilizes the clustering for an AI task.  Hence the connection to AI is not adequate.
+
+2. How SIGNIFICANT is this paper?
+
+[ ] Very significant [ ] Moderately significant [x ] Not significant
+
+Its really hard to tell its significance to AI.
+
+3. How ORIGINAL is this paper?
+
+[ x] Very original [ ] Moderately original [ ] Not original
+
+4. Is this paper technically SOUND?
+
+[ ] Yes [ x] Seems valid, but did not check completely
+[ ] Has minor errors [ ] Has major errors
+
+5. How well is this paper PRESENTED?
+
+                        Good    Average Poor
+Overall organization    [ x]     [ ]     [ ]
+English                 [ x]     [ ]     [ ]
+Readability             [x ]     [ ]     [ ]
+
+6. My recommendation is:
+
+[ ] Accept      [ ] Leaning to accept
+[ ] Leaning to reject [ x] Reject
+
+7. Further comments, advice or explanations (Please be specific and
+constructive, especially with respect to any negative judgements
+above. Point to the section(s) where an error occurs, cite omitted
+references, etc.) Use as much space as you need.
+
+==================== PLEASE DO NOT DELETE THIS LINE =====================
+
+
+IJCAI-99 Paper Review Form/ Confidential Comments
+for Programme Committee Members Only
+
+(This section of the review will be withheld from the author)
+
+Title: On the Nature of Structure and its Identification
+
+Number: Z503
+
+1. To the best of my knowledge, this paper conforms to IJCAI's policy
+on multiple submissions, which is not to accept any paper which at the
+time of submission is under review for a journal or another
+conference. Authors are also expected not to submit their papers
+elsewhere during IJCAI's review period. These restrictions apply only
+to journals and conferences, not to workshops and similar specialised
+presentations with a limited audience.
+
+[x ] Yes [ ] No
+
+2. Should this paper be considered for an IJCAI-99 outstanding paper award?
+
+[ ] Yes [ x] No
+
+
+If "yes", please briefly explain what distinguishes it.
+
+
+
+3. How confident are you in your appropriateness as a referee for
+this paper?
+
+[ ] Very confident - I am an expert in this area. [ ] Confident - I have
+a reasonable knowledge of this area. [x ] Fairly confident - I have
+some knowledge of this area. [ ] Not confident - I have no significant
+knowledge of this area.
+
+
+4. If this paper is marginal or unusual in some way, can you comment
+on anything else that might help the Program Committee reach a decision?
+
+
+
+Reviewer: (please fill in your name here)
+
+Johan de Kleer
+
+----------------------------------------------------------------
+Here is Joskowicz's review:
+
+IJCAI-99 Paper Review Form / Comments for Author
+
+Title:	On the Nature of Structure and its Identification
+
+Number:	Z503
+
+Please return this form to the Program Committee Member for whom
+you are reviewing no later than February 9, 1999.
+
+1. How RELEVANT is this paper to AI researchers? (mark one box)
+
+[ ] Very relevant [X] Moderately relevant [ ] Not relevant
+
+2. How SIGNIFICANT is this paper?
+
+[ ] Very significant [X] Moderately significant [ ] Not significant
+
+3. How ORIGINAL is this paper?
+
+[ ] Very original [X] Moderately original [ ] Not original
+
+4. Is this paper technically SOUND?
+
+[X] Yes [ ] Seems valid, but did not check completely
+[ ] Has minor errors [ ] Has major errors
+
+5. How well is this paper PRESENTED?
+
+                        Good    Average Poor
+Overall organization    [X]     [ ]     [ ]
+English                 [X]     [ ]     [ ]
+Readability             [X]     [ ]     [ ]
+
+6. My recommendation is:
+
+[ ] Accept      [ ] Leaning to accept
+[X] Leaning to reject [ ] Reject
+
+7. Further comments, advice or explanations (Please be specific and
+constructive, especially with respect to any negative judgments
+above. Point to the section(s) where an error occurs, cite omitted
+references, etc.) Use as much space as you need.
+
+This paper presents the weighted partial connectivity criterion for graph
+clustering and a heuristic (local, suboptimal) algorithm for identifying
+clusters based on it.  As the authors correctly argue and illustrate,
+clustering is an important task in a variety of domains.
+
+While the criterion is indeed interesting and extends to weighted graphs,
+the clustering algorithm is relatively simplistic and does not sufficiently
+capture the proposed concept.  The authors should investigate other
+approximation heuristics and approximation criteria.  Also, no empirical
+results are presented in a domain of relevance to AI to better determine
+the adequacy of the proposed criterion.
+
+I suggest to the authors to continue the line of research and submit again
+the paper when more algorithmic and empirical results have been obtained.
+
+
+
+
+==================== PLEASE DO NOT DELETE THIS LINE =====================
+
+
+IJCAI-99 Paper Review Form/ Confidential Comments
+for Programme Committee Members Only
+
+(This section of the review will be withheld from the author)
+
+
+Title:	On the Nature of Structure and its Identification
+
+Number:	Z503
+
+1. To the best of my knowledge, this paper conforms to IJCAI's policy
+on multiple submissions, which is not to accept any paper which at the
+time of submission is under review for a journal or another
+conference. Authors are also expected not to submit their papers
+elsewhere during IJCAI's review period. These restrictions apply only
+to journals and conferences, not to workshops and similar specialized
+presentations with a limited audience.
+
+[X] Yes [ ] No
+
+2. Should this paper be considered for an IJCAI-99 outstanding paper award?
+
+[ ] Yes [X] No
+
+
+If "yes", please briefly explain what distinguishes it.
+
+
+
+3. How confident are you in your appropriateness as a referee for
+this paper?
+
+[ ] Very confident - I am an expert in this area. 
+[X] Confident - I have a reasonable knowledge of this area. 
+[ ] Fairly confident - I have some knowledge of this area. 
+[ ] Not confident - I have no significant knowledge of this area.
+
+4. If this paper is marginal or unusual in some way, can you comment
+on anything else that might help the Program Committee reach a decision?
+
+The idea of weighted partial connectivity is interesting, but the
+approximation algorithm is simplistic and there are no empirical results.
+In my opinion, there is not enough material yet to warrant conference
+publication.
+
+
+Reviewer: Leo Joskowicz
+
+-------------------------------------------------------------------------
+Then the referees argue by email for a while, cc'ing the program committee
+member who is in charge of the paper:
+
+From: Liz Bradley <lizb@peradam.cs.colorado.edu>
+Subject: Re: Z503: IJCAI Review: weak disagreement
+
+There's more agreement in these three reviews than it may initially
+appear, and the common concern ("Where's the AI?") is a very important
+one.  This paper should probably be rejected.
+
+Johan:
+> This paper presents an interesting analysis of what is structure.
+> However, it does not demonstrate reasoning nor utilizes the
+> clustering for an AI task.  Hence the connection to AI is not
+> adequate.
+> [ ] Leaning to reject [ x] Reject
+
+Leo:
+> While the criterion is indeed interesting and extends to weighted
+> graphs, the clustering algorithm is relatively simplistic and does
+> not sufficiently capture the proposed concept.  The authors should
+> investigate other approximation heuristics and approximation
+> criteria.  Also, no empirical results are presented in a domain of
+> relevance to AI to better determine the adequacy of the proposed
+> criterion.
+> [X] Leaning to reject [ ] Reject
+
+Liz:
+> I also wonder why this is advertised as an AI paper (and
+> particularly as a ML paper!)  The real "AI" seems to be in choosing
+> the metric to use to assign weights to the edges of the graph, but
+> section 5 seems to indicate that that step is completely domain
+> dependent and is done by a human expert.
+> [ ] Accept      [X] Leaning to accept
+
+
+[I think I'm missing a message here; clearly the program committee
+member weighed in with a "strong accept"]
+
+From: Johan de Kleer <dekleer@parc.xerox.com>
+Subject: Re: Z250: IJCAI review: disagreement
+
+I am struck that you would be leaning to accept if not for length
+issues.  So before I just argue more for reject, I'd like Gerhard to
+argue why its a strong accept.
+
+
+At 04:54 PM 2/11/99 -0800, Liz Bradley wrote:
+>The center of mass of these three assessments is below threshold:
+>
+>> Liz Bradley voted for "leaning to reject", Johan de Kleer for
+>> "reject" and Gerhard Friedrich for "accept".
+>
+>The reviews have a lot of the same tone and content; in general,
+>people seem to think that the problem and solution are probably
+>reasonable, but the presentation obscures the contribution (all three
+>of us checked "poor" on readability, for example).
+>
+>Given all of this -- and in view of IJCAI's short turnaround time and
+>lack of re-review step -- I am not comfortable arguing for accepting
+>this paper.
+>
+>Liz
+
+--------------------------------------------------------------------------
+This is the program committee member who is in charge of the paper:
+
+From: Gerhard Friedrich <gerhard.friedrich@ifi.uni-klu.ac.at>
+Subject: Re: Z250: IJCAI review: disagreement
+
+The authors give improvements regarding a method published at IJCAI
+97. In my opinion these improvements are significant and relevant (see
+Section 2 and Page 2, right column at the bottom and the comments of
+Liz). However, the presentation could be enhanced.
+
+If you are going to reject the paper then please revise your comments
+and tell them why their contributions are not significant and/or not
+relevant. I'm constantly approached by colleagues which complain about
+IJCAI review comments that cannot be understood.
+
+Regarding this paper the authors might get the impression that their
+paper is rejected because
+
+* they don't present a compelling example
+* it is hard to read for AI researchers
+* their paper is a little bit too long
+
+Which means the rejection is based on arguments w.r.t. the
+presentation and not the technical content.
+
+I think it will contribute a lot to the reputation of IJCAI if you can
+give them understandable reasons for rejecting their paper (or maybe
+you could accept it).
+
+Regards,
+Gerhard
+
+-------------------------------------------------------------------------
+The final decision was a "weak reject:"
+
+From: Jakob Mauss <mauss@informatik.tu-muenchen.de>
+Subject: IJCAI-99: final decisions
+
+Hello Liz,
+
+Peter Struss asked me to inform you about the final decisions
+regarding the papers that you have reviewed.
+We have sent the following decisions to IJCAI: 
+
+...
+##Z503#bradleyl=AL#dekleerj=R#joskowiczl=RL#strussp=R+1## 
+...
+
+reviews:
+A  Accept
+AL Leaning to accept
+RL Leaning to reject
+R  Recect
+
+final decision: strussp=
+A+2 accept definite
+A+1 accept weak
+A+0 accept marginal
+R+0 reject marginal
+R+1 reject weak
+R+2 reject definite
+
+The above decisions are actually recomendations by Peter Struss.  We
+have currently no information whether they have been finally approved
+by IJCAI-99.
+
+[Note that Peter Struss <> Gerhard Friedrich; Struss, being senior and
+busy, clearly offloaded the work onto a subordinate.]

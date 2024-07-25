@@ -1,0 +1,480 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.26.2 by Michael Rose
+  Copyright 2013-2024 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+
+<html lang="en-US" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Bradley Lab - Bradley Lab</title>
+<meta name="description" content="">
+
+
+  <meta name="author" content="Your Name">
+  
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Bradley Lab">
+<meta property="og:title" content="Bradley Lab">
+<meta property="og:url" content="http://localhost:4000/bradley_lab/resources/topology-defs/">
+
+
+  <meta property="og:description" content="">
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="http://localhost:4000/bradley_lab/resources/topology-defs/">
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/bradley_lab/feed.xml" type="application/atom+xml" rel="alternate" title="Bradley Lab Feed">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script type="text/javascript">
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/bradley_lab/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--general_content" dir="ltr">
+    <nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+          
+          <a class="site-title" href="/bradley_lab/" style='color:#7393B3'>
+            Bradley Lab
+            
+          </a>
+          <ul class="visible-links"><li class="masthead__menu-item">
+                <a
+                  href="/bradley_lab/research/"
+                  
+                  
+                ><span style='color:#7393B3'>Research</span></a>
+              </li><li class="masthead__menu-item">
+                <a
+                  href="/bradley_lab/course_materials/"
+                  
+                  
+                ><span style='color:#7393B3'>Course Materials</span></a>
+              </li><li class="masthead__menu-item">
+                <a
+                  href="/bradley_lab/publications/"
+                  
+                  
+                ><span style='color:#7393B3'>Publications</span></a>
+              </li><li class="masthead__menu-item">
+                <a
+                  href="/bradley_lab/vita/"
+                  
+                  
+                ><span style='color:#7393B3'>Vita</span></a>
+              </li><li class="masthead__menu-item">
+                <a
+                  href="/bradley_lab/#people"
+                  
+                  
+                ><span style='color:#7393B3'>People</span></a>
+              </li><li class="masthead__menu-item">
+                <a
+                  href="/bradley_lab/#contact"
+                  
+                  
+                ><span style='color:#7393B3'>Contact</span></a>
+              </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      <style>
+    .content-container {
+      padding-left: 10px; /* Adjust the padding as needed */
+      margin: 0 auto;
+      /*max-width: 1200px;*/
+      display: flex;
+    }
+    .sidebar {
+      width: 20%;
+      padding: 2px;
+      /*background-color: #f8f9fa;
+      top: 10px;
+      left: 10px;
+      max-height: 100vh;
+      overflow-y: auto;
+      height: 100%;
+      border: 1px solid gray;
+      max-height: none;*/
+      position: fixed;
+      padding-top: 5px;
+      height: 60vh;
+      box-sizing: border-box;
+      border-radius: 5px;
+      box-shadow: 0 12px 24px rgba(222, 34, 34, 0.1);
+      overflow-y: auto;
+      font-size: x-large;
+    }
+    .sidebar ul {
+      list-style-type: none; /* Remove bullet points */
+      padding: 0;
+    }
+    .sidebar ul li a {
+      font-weight: bold; /* Make each line appear bold */
+      text-decoration: none;
+      display: block;
+      padding: 5px 0;
+    }
+    .sidebar ul li a.active {
+      background-color: white; /* Stylish white background for active link */
+      border-radius: 5px; /* Optional: rounded corners for active link */
+    }
+    .main-content {
+      /*width: 70%;
+      margin-left: 25%;*/
+      padding-left: 25%;
+      padding-right: 5%;
+      overflow-y: auto;
+    }
+    body {
+      font-family: Arial, sans-serif;
+      font-size:large;
+      line-height: 1.6;
+      overflow-x: hidden;
+    }
+    /*header, footer {
+      background-color: #f8f9fa;
+      padding: 10px 0;
+      text-align: center;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 20px;
+      color: #343a40;
+    }
+    a {
+      color: #007bff;
+      text-decoration: none;
+    }*/
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+
+<div class="content-container">
+    <div class="sidebar" id="sidebar">
+        <!-- Sidebar content will be generated by JavaScript -->
+      </div>
+      <div class="main-content">
+          <h3>Topology Definitions</h3>
+
+<p><br /></p>
+
+<p>A <b>connected set</b> cannot be written as the union of two closed,
+disjoint subsets.</p>
+
+<p>A <b>simply connected set</b> can be contracted to a point.</p>
+
+<p>The <b>connected component</b> of a point is the largest connected 
+subset containing that point.</p>
+
+<p>A closed set is <b>disconnected</b> if it can be split into two
+parts, A and B, such that min |a-b| &gt; 0 for a in A and b in B.  (That
+is, it has a gap in it.)</p>
+
+<p>A <b>totally disconnected set</b> is one in which the connected
+component of each point is itself, and itself alone.</p>
+
+<p>A <b>closed set</b> is one that includes its boundary (or,
+equivalently, all of its limit points).</p>
+
+<p>A <b>perfect set</b>, common in the study of dynamical systems,
+has no isolated points (or, equivalently, every point in a perfect set
+is a limit point).</p>
+
+<p>An <b>epsilon chain</b>&lt;/a&gt; is a finite sequence of points x_0
+… x_N that are separated by distances of epsilon or less: |x_i -
+x_i+1| &lt; eps.</p>
+
+<p>Two points are <b>epsilon connected</b> if there is an epsilon
+chain joining them.</p>
+
+<p>Any two points in an <b>epsilon-connected set</b> can be linked
+by an epsilon chain.</p>
+
+<p>A <b>epsilon-isolated point</b> is an epsilon-component consisting of
+a single point.</p>
+
+<p>A <b>epsilon-connected component</b> is a maximal
+epsilon-connected subset.</p>
+
+<p>A <b>fractal</b>, loosely speaking, is an object that is self
+similar: it contains “copies” of itself.  Zooming in on a fractal
+always reveals more detail in the structure.  Fractals have noninteger
+Hausdorff dimension.  The prototypical example is the Cantor set,
+which is constructed by removing some portion of a line segment (say,
+the middle third) <i>ad infinitum</i>.</p>
+
+<p>A <b>tree</b> is a graph with no cycles (loops).</p>
+
+<p>The <b>minimal spanning tree</b> is the tree of minimum total
+branch length that spans the data.  To construct the MST, one starts
+with any point and its nearest neighbor, adds the closest point, and
+repeats until all points are in the tree (Prim’s algorithm).  See the
+center image below for an example.</p>
+
+<table border="0" cellspacing="8" cellpadding="8">
+<tr align="Center">
+
+<td><a href="/bradley_lab/assets/gifs/fig2.2.gif" height="400" onmousemove="window.status='Show this image a little larger'; return
+true"><img src="/bradley_lab/assets/gifs/fig2.2.gif" height="200" /></a></td>
+
+</tr>
+</table>
+
+<li> The nearest-neighbor graph (NNG) is a directed graph that has an
+edge from A to B if B is the nearest neighbor of A.  To construct the
+NNG, one starts with the MST and keeps the shortest MST edge emanating
+from each point.  Se the right-hand image above for an example.
+
+
+An <b>iterated function system</b> is a (fairly general) method for 
+generating a fractal as the attracting fixed set of a multi-image map.
+For example, the Sierpinski triangle, T is the set invariant under 
+the union of 3 linear transformations:
+  T = f1[T] u f2[T] u f3[T]
+with
+<ul>
+<li>  f1(x,y) = (x/2, y/2)</li>
+<li>  f2(x,y) = (x/2, y/2) + (1/2,0)</li>
+<li>  f3(x,y) = (x/2, y/2) + (0,1/2)</li>
+</ul>
+
+The <b>Voronoi diagram</b> of a set of points p_1,...,p_N is a
+division of space into regions V(p_i) such that every point x in
+V(p_i) is closer to p_i than to any other data point.  See below
+for an example.
+
+<table border="0" cellspacing="8" cellpadding="8">
+<tr align="Center">
+
+<td><a href="/bradley_lab/assets/gifs/voronoi.gif" width="400" onmousemove="window.status='Show this image a little larger'; return
+true"><img src="/bradley_lab/assets/gifs/voronoi.gif" width="200" /></a></td>
+
+</tr>
+</table>
+
+The <b>Delaunay triangulation</b> is the geometric dual obtained
+from the Voronoi diagram by drawing an edge between two data points if
+their Voronoi cells share a face, a triangle when three cells
+intersect, and so on.  See below for an example.
+
+<table border="0" cellspacing="8" cellpadding="8">
+<tr align="Center">
+
+<td><a href="/bradley_lab/assets/gifs/delaunay.gif" width="400" onmousemove="window.status='Show this image a little larger'; return
+true"><img src="/bradley_lab/assets/gifs/delaunay.gif" width="200" /></a></td>
+
+</tr>
+</table>
+
+The <b>alpha shape algorithm</b> "fattens" a set by a radius
+alpha.  It introduces a resolution parameter, alpha, to generate
+subsets of the Voronoi diagram and Delaunay triangulation.  This
+allows it to capture different levels of detail about an object.
+Click <a href="http://n.ethz.ch/student/fischerk/alphashapes/as/">here</a> or
+<a href="http://www.cs.uiuc.edu/whatsnew/newsletter/winter96/edelsbrunner.html">here</a>
+to see some related webpages.
+</li>
+
+      </div>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const sidebar = document.getElementById("sidebar");
+    const headings = document.querySelectorAll(".main-content h3");
+
+    if (headings.length > 0) {
+      const navList = document.createElement("ul");
+
+      headings.forEach((heading, index) => {
+        const listItem = document.createElement("li");
+        const link = document.createElement("a");
+        const id = `heading-${index}`;
+
+        heading.id = id;
+        link.href = `#${id}`;
+        link.textContent = heading.textContent;
+
+        listItem.appendChild(link);
+        navList.appendChild(listItem);
+      });
+
+      sidebar.appendChild(navList);
+
+      const links = navList.querySelectorAll("a");
+
+      // Adding scroll behavior when clicking on links
+      links.forEach((link) => {
+        link.addEventListener("click", function(event) {
+          event.preventDefault();
+          const targetId = this.getAttribute("href").substring(1);
+          const targetElement = document.getElementById(targetId);
+
+          // Scroll to the target element with an offset of 70px
+          window.scrollTo({
+            top: targetElement.offsetTop - 70,
+            behavior: "smooth"
+          });
+        });
+      });
+
+      // Adding active class based on scroll position
+      window.addEventListener("scroll", function() {
+        let current = "";
+
+        headings.forEach((heading) => {
+          const headingTop = heading.getBoundingClientRect().top;
+          if (headingTop <= 70) { // Adjusting for the offset
+            current = heading.getAttribute("id");
+          }
+        });
+
+        links.forEach((link) => {
+          link.classList.remove("active");
+          if (link.getAttribute("href").substring(1) === current) {
+            link.classList.add("active");
+          }
+        });
+      });
+    }
+  });
+</script>
+
+      
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+
+    
+      
+        
+      
+        
+      
+        
+          <li><a href="https://ashwinumadi.github.io" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+        
+      
+        
+      
+        
+      
+    
+
+    
+      <li><a href="/bradley_lab/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+<p style="font-size: small;">Check out the home page of the <A HREF="http://www.cs.colorado.edu" style="color: blue;font-size: small;">Computer Science Department</A> at
+  the <A HREF="http://www.colorado.edu" style="color: blue;">University of Colorado</A> for more information.</p>
+
+<BR>
+
+<div class="page__footer-copyright">&copy; 2024 <a href="http://localhost:4000">Bradley Lab</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/bradley_lab/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+
+
+  </body>
+</html>

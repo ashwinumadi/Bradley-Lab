@@ -1,0 +1,22 @@
+# main links
+main:
+  - title: "<span style='color:#7393B3'>Research</span>"
+    url: /research/
+  - title: "<span style='color:#7393B3'>Course Materials</span>"
+    url: /course_materials/
+  - title: "<span style='color:#7393B3'>Publications</span>"
+    url: "/publications/"
+  - title: "<span style='color:#7393B3'>Vita</span>"
+    url: "/vita/"
+  - title: "<span style='color:#7393B3'>People</span>"
+    url: "#people"
+  - title: "<span style='color:#7393B3'>Contact</span>"
+    url: "#contact"
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/

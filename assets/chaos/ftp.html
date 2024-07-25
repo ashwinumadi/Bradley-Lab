@@ -1,0 +1,64 @@
+The pendulum data files are in /pub/cs/misc/lizdata on
+ftp.cs.colorado.edu.  <p>
+
+The device is a driven-vertex single pendulum; the block holding the
+bearings on which the bob swings is attached to a ball slide (like a
+typewriter carriage) which is driven sinusoidally up and down.  The
+drive frequency can be controlled - from 0Hz to ~7Hz, and the natfreq
+of the device is ~1-2 Hz.  The third Bryant/Miles paper in the 1990
+<i> J Aust Math Soc </i> series describes this system, though in its
+antiseptic mathematical form.  The entire thing is on a telescope
+mount, so it can tilt back in increments from bob-vertical to
+bob-horizontal.  I'm not even going to attempt ASCII graphics to
+describe this - if you wish, I can send you a photo of the setup, as
+well as printouts of the data in graphical form.  I do have a double
+pendulum like the one in my .sig, but it is not instrumented yet
+(that's hard - involves telemetry.)  <p>
+
+The angle sensor is a 512-slit optical encoder, so angle can be
+measured to within ~.7 degree.  The student who was working on the
+hardware and I/O for me did three acquisition runs at each of the
+drive frequencies and 'gravities' that he tried.  The runs cover
+anywhere from 30 seconds to three minutes; one is sampled uniformly at
+512 microsecond intervals, another at 1.28 microseconds, and one was
+sampled *whenever the pendulum moved* (the latter, being nonuniform in
+time, is probably not of much interest to you time-series types unless
+someone has extended Takens while I wasn't looking.)  We tried four
+different 'gravities' and fourteen different drive frequencies, but
+not all combinations thereof.  In the 20 data sets, two converge to
+fixed points, ten to periodic orbits (many via 'chaotic' transients a
+la Pomeau-Mainville (sp?) intermittency), eight are solidly chaotic,
+and one is indetermininate.  Importantly, the initial conditions are
+NOT constant and weren't measured; you'll have to use the first data
+point as the initial condition.
+<p>
+
+Each data point is of the form #(time theta omega):
+<p>
+
+#(.09287931249999999 1.2271846644580364e-2 .13370408537099926)
+<p>
+
+Theta is mod 2 pi.  The omegas were computed from the thetas, not
+measured, and so are inaccurate to the extent that the hardware delays
+were inaccurate or not constant.  These I/O problems actually turned
+out to be serious enough to make the omega data useless, but if you
+are just going to embed the thetas, it shouldn't matter.  <p>
+
+You'll see all sorts of interesting things in the data, notably the
+fact that the bearing friction is <b> not </b> the nice linear/viscous
+term that we all like to write down for the pendulum (there is
+backlash and hysteresis and asymmetry.)  <p>
+
+I am working on a paper based on these data, on the topic of the
+disparities between the device and the standard model and the
+implications of that for control, to be submitted to <i>Chaos</i>.
+The abstract of that paper is given in the file that contained the
+hyperlink to the file that you are currently reading.  I don't mind if
+you use my data even if what you're doing closely resembles this, but
+I'd appreciate being cited (both the paper below and as the source of
+some of your data.)  I would also greatly appreciate reports of your
+results, either formal or informal, ASAP, so I can learn more about my
+pendulum - and cite you in my paper as well :-) <p> Have fun.  <p>
+
+
