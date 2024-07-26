@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/Bradley-Lab/sitemap.xml
+Sitemap: https://ashwinumadi.github.io/Bradley-Lab/sitemap.xml
