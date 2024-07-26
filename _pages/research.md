@@ -4,7 +4,7 @@ permalink: /research/
 ---
 
 <h3>Current Projects </h3> 
-This is nerw.
+
 <ul>
 
 <li> <a href="{{ '/current_projects/nltsa/' | relative_url }}">Nonlinear time-series 
