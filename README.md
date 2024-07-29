@@ -16,12 +16,12 @@
    - We want to add a hyperlink (reference link) to the **Collective behavior in honeybees** project.
    - The website page for **Collective behavior in honeybees** is present in the directory `_pages/current_projects/`. The name of the page is `bees.md`.
    - Below syntax is how you add it
-   - <a href="{{ '/current_projects/bees/' | relative_url }}">Collective behavior in honeybees</a>
+   - `<a href="{{ '/current_projects/bees/' | relative_url }}">Collective behavior in honeybees</a>`
 - Link files in `_pages` folder.
-   - <a href="<relative path to the file>' | relative_url }}"></a>.
+   - `<a href="<relative path to the file>' | relative_url }}"></a>`.
    - Relative path to a file present in `_pages/` directory will be : **'<folder name>/<file name>/'**. No need to add **_pages** in the beginning of the href path.
 - Link files in `assets` folder.
-   - <a href="<relative path to the file>' | relative_url }}"></a>.
+   - `<a href="<relative path to the file>' | relative_url }}"></a>`.
    - Relative path to a file present in `assets/` directory will be : **'/assets/<folder name>/<file name>/'**
 
 # Automated Scripts
