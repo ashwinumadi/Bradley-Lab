@@ -1,13 +1,13 @@
+# All types of Files present in the website
+
+- Any webpage present in the website will always be in `_pages/` folder.
+- Any metadata such as images, pdf files, gifs will always be present in `assets/` folder.
+
 # All Pages in Website
 
 - All pages in the website are present in `_pages/` folder. 
    - There are some markdown files (.md) present in the `_pages/` directory and these are the **main pages** present in the navigation bar.
    - There are other folders present in the `_pages/`, and all these contain other pages that are referenced by the **main pages**.
-
-# All types of Files present in the website
-
-- Any webpage present in the website will always be in `_pages/` folder.
-- Any metadata such as images, pdf files, gifs will always be present in `assets/` folder.
 
 # How to reference to other files?
 
