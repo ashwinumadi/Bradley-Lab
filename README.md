@@ -1,3 +1,45 @@
+# All Pages in Website
+
+- All pages in the website are present in `_pages/` folder. 
+   - There are some markdown files (.md) present in the `_pages/` directory and these are the **main pages** present in the navigation bar.
+   - There are other folders present in the `_pages/`, and all these contain other pages that are referenced by the **main pages**.
+
+# All types of Files present in the website
+
+- Any webpage present in the website will always be in `_pages/` folder.
+- Any metadata such as images, pdf files, gifs will always be present in `assets/` folder.
+
+# How to reference to other files?
+
+- Let's take an example.
+   - We are currently in the Research Projects page.
+   - We want to add a hyperlink (reference link) to the **Collective behavior in honeybees** project.
+   - The website page for **Collective behavior in honeybees** is present in the directory `_pages/current_projects/`. The name of the page is `bees.md`.
+   - Below syntax is how you add it
+   - <a href="{{ '/current_projects/bees/' | relative_url }}">Collective behavior in honeybees</a>
+- Link files in `_pages` folder.
+   - <a href="<relative path to the file>' | relative_url }}"></a>.
+   - Relative path to a file present in `_pages/` directory will be : **'<folder name>/<file name>/'**. No need to add **_pages** in the beginning of the href path.
+- Link files in `assets` folder.
+   - <a href="<relative path to the file>' | relative_url }}"></a>.
+   - Relative path to a file present in `assets/` directory will be : **'/assets/<folder name>/<file name>/'**
+
+# Automated Scripts
+
+Following files have automated scripts to generate a markdown file. Only update yaml files present in `.ruby_scripts/` folder.
+1. affiliations.yaml - To update Affiliations information.
+2. contact.yaml - To update Contact information.
+3. courses.yaml - To update Courses information.
+4. office_hours.yaml - To upadte Office Hourse information.
+5. people.yaml - To update current students and Alumnis content.
+
+These 5 files are automatically run on Github Actions. File responsibe : `.github/workflows/deploy.yml`
+
+**Note** If you wish to customize any of the above 5 web pages, make sure to delete the corresponding file in `ruby_scripts/` folder. Then, remove corresponding file name from `.github/workflows/deploy.yml`.
+
+
+---------------------------------------------------------------------------------------------
+
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
