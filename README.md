@@ -19,10 +19,10 @@
    - `<a href="{{ '/current_projects/bees/' | relative_url }}">Collective behavior in honeybees</a>`
 - Link files in `_pages` folder.
    - `<a href="<relative path to the file>' | relative_url }}"></a>`.
-   - Relative path to a file present in `_pages/` directory will be : **'<folder name>/<file name>/'**. No need to add **_pages** in the beginning of the href path.
+   - Relative path to a file present in `_pages/` directory will be : `<folder name>/<file name>/`. No need to add **_pages** in the beginning of the href path.
 - Link files in `assets` folder.
    - `<a href="<relative path to the file>' | relative_url }}"></a>`.
-   - Relative path to a file present in `assets/` directory will be : **'/assets/<folder name>/<file name>/'**
+   - Relative path to a file present in `assets/` directory will be : `/assets/<folder name>/<file name>/`
 
 # Automated Scripts
 
