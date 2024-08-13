@@ -18,9 +18,9 @@ File.open(output_file, 'w') do |file|
   # Write the current collaborators
   data['current_collaborators'].each do |collaborator|
     if collaborator['url']
-      file.puts "- [**#{collaborator['name']}**](#{collaborator['url']}), #{collaborator['description']}"
+      file.puts "- [**#{collaborator['name']}**](#{collaborator['url']}) #{collaborator['description']}"
     else
-      file.puts "- **#{collaborator['name']}**, #{collaborator['description']}"
+      file.puts "- **#{collaborator['name']}** #{collaborator['description']}"
     end
   end
   file.puts
@@ -32,9 +32,9 @@ File.open(output_file, 'w') do |file|
   # Write the alumni
   data['alumni'].each do |alum|
     if alum['url']
-      file.puts "- [**#{alum['name']}**](#{alum['url']}), #{alum['description']}"
+      file.puts "- [**#{alum['name']}**](#{alum['url']}) #{alum['description']}"
     else
-      file.puts "- **#{alum['name']}**, #{alum['description']}"
+      file.puts "- **#{alum['name']}** #{alum['description']}"
     end
   end
 end
