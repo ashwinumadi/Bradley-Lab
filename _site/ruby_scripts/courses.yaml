@@ -1,8 +1,0 @@
-- name: Chaotic Dynamics (CSCI 4446/5446)
-  href: "{{ '/courses/chaotic_dynamics/' | relative_url }}"
-
-- name: MOOC on nonlinear dynamics
-  href: 'https://www.complexityexplorer.org/courses/'
-
-- name: New PhD Student Seminar (CSCI 6000)
-  href: "{{ '/courses/phd_student_seminar/' | relative_url }}"

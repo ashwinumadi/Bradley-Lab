@@ -172,7 +172,7 @@ set:
         </li>
         <li>
         If you want to install TISEAN on your own machine,
-        these <a href="{{ '/assets/chaos/tisean-help' | relative_url }}">
+        these <a href="{{ '/assets/chaos/tisean-help.html' | relative_url }}">
         helpful hints regarding installing and using it</a> and the pytisean
         wrapper on github may be useful.
         </li>

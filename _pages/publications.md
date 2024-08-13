@@ -161,8 +161,7 @@ href="https://www.swsc-journal.org/articles/swsc/abs/2020/01/swsc190060/swsc1900
 
 <li>
 J. Garland, T. R. Jones, M. Neuder, J. W. C. White, and E. Bradley, <a 
-href="https://aip.scitation.org/doi/10.1063/1.5127211"> "Climate entropy production 
-recorded in a deep Antarctic ice core," </a>  <i>CHAOS</i> <b>29</b> 101105 (2019)
+href="https://aip.scitation.org/doi/10.1063/1.5127211"> "An information-theoretic approach to extracting climate signals from deep polar ice cores," </a>  <i>CHAOS</i> <b>29</b> 101105 (2019)
 </li>
 
 <li>
@@ -186,8 +185,8 @@ October 2018
 
 <li>
 J. Emile-Geay and D. Khider and D. Garijo and N. McKay and Y. Gil and V. Ratnatkar 
-and E. Bradley, <a href="https://www.semanticscholar.org/paper/The-Linked-Earth-Ontology-%3A-A-Modular-%2C-Extensible-Emile-Geay-Khider/91271b8c10291b04a0eff375fb1961082a927c1b"> "The Linked Earth Ontology : A 
-odular, Extensible Representation of Open Paleoclimate Data,"</a> <i>Earth 
+and E. Bradley, <a href="https://www.semanticscholar.org/paper/The-Linked-Earth-Ontology-%3A-A-Modular-%2C-Extensible-Emile-Geay-Khider/91271b8c10291b04a0eff375fb1961082a927c1b"> "The Linked Earth Ontology : A modular,
+ Extensible Representation of Open Paleoclimate Data,"</a> <i>Earth 
 Science Informatics</i>, May 2018.
 </li>
 
@@ -196,11 +195,6 @@ E. Bradley, T. Nelson, and L. Rassbach de Vesine,  <a href="http://pastglobalcha
 PAGES</i> <b>26</b>:72 (2018)
 </li>
 
-
-<li>
-A 2015 <a href="http://www.santafe.edu/gevent/detail/public/2046/"> "
-Science on screen"</a> presentation of Jurassic Park.
-</li>
 
 <li>
 N. Sanderson, E. Shugerman, S. Molnar, J. Meiss, and E. Bradley, <a href=
@@ -253,7 +247,7 @@ Preprint available on <a href="http://arxiv.org/abs/1503.01678">arxiv</a>.
 E. Bradley, A. Motter, and L. Pecora, <a href="http://scitation.aip.org/content/aip/journal/chaos/25/9/10.1063/1.4931448"> 
 "Introduction to Focus Issue: The 25th Anniversary of Chaos: Perspectives on Nonlinear Science--Past, Present, 
 and Future" </a> <i>Chaos</i> <b>25:</b>097501 (2015).  doi: 10.1063/1.4931448.  Here is a link to the <a 
-href="http://scitation.aip.org/content/aip/journal/chaos/25/9">Focus Issue itself</a>.
+href="https://pubs.aip.org/aip/cha/issue/25/9">Focus Issue itself</a>.
 </li>
 
 <li>
@@ -264,8 +258,7 @@ Systems</i> <b>51</b>:454-467 (2015).
 </li>
 
 <li>
-Z. Alexander, E. Bradley, J. D. Meiss, and N. Sanderson, <a href="{{ '/papers/SIAM-JDS-2015.pdf' | 
-relative_url }}"> "Simplicial Multivalued Maps and the Witness Complex for Dynamical Analysis of 
+Z. Alexander, E. Bradley, J. D. Meiss, and N. Sanderson, <a href="{{ '/assets/papers/SIAM-JDS-2015.pdf' | relative_url }}"> "Simplicial Multivalued Maps and the Witness Complex for Dynamical Analysis of 
 Time Series"</a> <i>SIAM Dynamical Systems</i> <b>14</b>:1278-1307 (2015).  Preprint available at 
 <a href="http://arxiv.org/abs/1406.2245">arxiv</a>.
 </li>
@@ -288,7 +281,7 @@ Reasoning about Paleoclimatology: Creating a System that Works,"</a>
 
 <li>
 N. Look, C. Arellano, A. Grabowski, W. McDermott, R. Kram, and E.  Bradley, <a href=
-"{{ 'papers/CHAOS-Look-2013.pdf' | relative_url }}">"Dynamic stability of running: The effects 
+"{{ '/assets/papers/CHAOS-Look-2013.pdf' | relative_url }}">"Dynamic stability of running: The effects 
 of speed and leg amputations on the maximal Lyapunov exponent,"</a> <i>Chaos</i> <b>23</b>
 :043131 (2013).  doi: 10.1063/1.4837095.  The pdf file above is copyright 2013 American Institute 
 of Physics.  This article may be downloaded for personal use only.  Any other use requires prior 
@@ -306,7 +299,7 @@ J. Garland and E. Bradley, "On the importance of nonlinear modeling in computer 
 </li>
 
 <li>
-L. Rassbach de Vesine, K. Anderson, M. Zreda, C. Zweck, and E. Bradley, <a href="{{ 'papers/AAAI-fall2013.pdf' 
+L. Rassbach de Vesine, K. Anderson, M. Zreda, C. Zweck, and E. Bradley, <a href="{{ '/assets/papers/AAAI-fall2013.pdf' 
 | relative_url }}"> "Forensic Reasoning about Paleoclimatology,"</a> the <a href=
 "http://www.aaai.org/Symposia/Fall/fall-symposia.php"> <i>AAAI Fall Symposium on Discovery 
 Informatics</i></a>, Arlington VA, November 2013.
@@ -322,7 +315,7 @@ href="http://arxiv.org/abs/1305.5408">arxiv</a>. </TD></TR>
 --> 
 
 <li>
-E. Komendera, D. Scheeres, and E. Bradley, <a href="{{ 'papers/IAAI12.pdf' | relative_url }}"> 
+E. Komendera, D. Scheeres, and E. Bradley, <a href="{{ '/assets/papers/IAAI12.pdf' | relative_url }}"> 
 ``Intelligent Computation of Reachability
 Sets for Space Missions,''</a> <i> IAAI-12 (Proceedings of the 24th Conference on Innovative 
 Applications of Artificial Intelligence)</i>, Toronto; July 2012.
@@ -371,7 +364,7 @@ Analysis X</i></a>, Springer <i>Lecture Notes in Computer Science</i> volume 701
 </li>
 
 <li>
-L. Rassbach, E. Bradley, and K. Anderson, <a href="{{ 'papers/aimag11.pdf' | relative_url }}">
+L. Rassbach, E. Bradley, and K. Anderson, <a href="{{ '/assets/papers/aimag11.pdf' | relative_url }}">
 "Providing Decision Support for Cosmogenic Isotope Dating," </a> <I>AI Magazine</I> <B>32</B>
 :69-78 (2011)
 </li>
@@ -383,13 +376,13 @@ When to Go It Alone," <i>Complexity</i> <b>17</b>:39-44 (2011).  Excerpted in <a
 </li>
 
 <li>
-N. Ross, J. Hertzberg, and E. Bradley, <A href="{{ 'papers/RossExptFluids2010.pdf' | relative_url }}"> 
+N. Ross, J. Hertzberg, and E. Bradley, <A href="{{ '/assets/papers/RossExptFluids2010.pdf' | relative_url }}"> 
 "Discretization of the Vorticity Field of a Planar Jet,"</a> <i> Experiments in Fluids</i> <b>49</b>
 :1161 (2010)
 </li>
 
 <li>
-E. Bradley, D. Capps, J. Luftig, and J. Stuart, <A href="{{ 'papers/OAIJ-08.pdf' | relative_url }}"> 
+E. Bradley, D. Capps, J. Luftig, and J. Stuart, <A href="{{ '/assets/papers/OAIJ-08.pdf' | relative_url }}"> 
 "Towards Stylistic Consonance in Human
 Movement Synthesis," </a> <i>Open AI Journal</i> <b>4</b>:1-19 (2010).  Extended version available 
 as Technical Report CU-CS (Department of Computer Science) <a href="http://www.colorado.edu/cs/technical-reports">
@@ -407,7 +400,7 @@ T. Peacock and E. Bradley, "Going with (or against) the Flow,"  <i> Science</i> 
 
 <li>
 K. Anderson, E. Bradley, M. Zreda, L. Rassbach, C. Zweck, and E.  Sheehan. <a href="
-{{ 'papers/ADVCOMP07.pdf' | relative_url }}"> "ACE: Age Calculation Engine: A Design
+{{ '/assets/papers/ADVCOMP07.pdf' | relative_url }}"> "ACE: Age Calculation Engine: A Design
  Environment for Cosmogenic Dating Techniques"</a>. In <i>Proceedings of the International 
  Conference on Advanced Engineering Computing and Applications in Sciences</i>. Nov. 
  2007
@@ -425,12 +418,12 @@ Control</i>,</a> Ph.D. thesis, 2004.
 </li>
 
 <li>
-V. Robins, N. Rooney, and E. Bradley, <A href="{{ '/papers/topo-filtering.pdf' | relative_url }}">
+V. Robins, N. Rooney, and E. Bradley, <A href="{{ '/assets/papers/topo-filtering.pdf' | relative_url }}">
 "Topology-based signal separation"</a> <I>Chaos</I>, <b>14</b>:305-316 (2004).
 </li>
 
 <li>
-V. Robins, J. Abernethy, N. Rooney, and E. Bradley, <A href="{{ '/papers/ida03.pdf' 
+V. Robins, J. Abernethy, N. Rooney, and E. Bradley, <A href="{{ '/assets/papers/ida03.pdf' 
 | relative_url }}">"Topology and intelligent data analysis"</a> <i> Intelligent Data 
 Analysis</i> <b>8</b>:505-515 (2004)
 </li>
@@ -447,74 +440,74 @@ Z. Ma, E. Bradley, T. Peacock, J. Hertzberg, and Y-C. Lee, "Solder-assembled lar
 </li>
 
 <li>
-E. Bradley and R. Mantilla, <A href="{{ '/papers/rps-upos.pdf' | relative_url }}"> 
+E. Bradley and R. Mantilla, <A href="{{ '/assets/papers/rps-upos.pdf' | relative_url }}"> 
 "Recurrence plots and unsul periodic orbits." </A> <I>Chaos</I> <b>12</b>:596-600 
 (2002).
 </li>
 
 <li>
-E. Bradley, N. Collins, and W. Kegelmeyer, <a href="{{ '/papers/ida01-features.pdf' | 
+E. Bradley, N. Collins, and W. Kegelmeyer, <a href="{{ '/assets/papers/ida01-features.pdf' | 
 relative_url }}">"Feature characterization in scientific datasets,"</a> <i>IDA-01 
 (International Symposium on Intelligent Data Analysis)</i>, Lisbon; September 2001.  
 </li>
 
 <li>
-E. Bradley, M. Easley, and R. Stolle, <a href="{{ '/papers/aij.pdf' | relative_url }}">
+E. Bradley, M. Easley, and R. Stolle, <a href="{{ '/assets/papers/aij.pdf' | relative_url }}">
 "Reasoning about nonlinear system identification,"</a> <i> Artificial Intelligence</i>, 
 <b>133</b>:139-188 (2001)
 </li>
 
 <li>
-V. Robins, J. Meiss, and E. Bradley, <A href="{{ '/papers/robins-physicad99.pdf' | 
+V. Robins, J. Meiss, and E. Bradley, <A href="{{ '/assets/papers/robins-physicad99.pdf' | 
 relative_url }}"> "Computing connectedness: Disconnectedness and discreteness,"</A> 
 <I> Physica D</I> <b>139</b>:276-300. (2000)
 </li>
 
 <li>
-E. Bradley, D. Capps, and A. Rubin, <A href="{{ '/papers/idat99.pdf' | relative_url }}">
+E. Bradley, D. Capps, and A. Rubin, <A href="{{ '/assets/papers/idat99.pdf' | relative_url }}">
 "Can computers learn to dance?,"</a><I>International Dance & Technology (IDAT)</I>, 
 Tempe AZ, Feb 1999.
 </li>
 
 <li>
-M. Easley and E. Bradley, <A href="{{ '/papers/ijcai99.pdf' | relative_url }}">"Generalized 
+M. Easley and E. Bradley, <A href="{{ '/assets/papers/ijcai99.pdf' | relative_url }}">"Generalized 
 physical networks for model building,"</a> Proceedings <i> International Joint Conference 
 on Artificial Intelligence </i> (IJCAI), Stockholm, August 1999.
 </li>
 
-<li> E. Bradley, <A href="{{ '/papers/ida-chapter.pdf' | relative_url }}">"Time-series 
+<li> E. Bradley, <A href="{{ '/assets/papers/ida-chapter.pdf' | relative_url }}">"Time-series 
 analysis,"</A> in M. Berthold and D. Hand, editors, <I>Intelligent Data Analysis: An 
 Introduction</I>, Springer Verlag, 1999.
 </li>
 
 <li>
-E. Bradley and J. Stuart, <A href="{{ '/papers/dance-chaos98.pdf' | relative_url }}"> 
+E. Bradley and J. Stuart, <A href="{{ '/assets/papers/dance-chaos98.pdf' | relative_url }}"> 
 "Using chaos to generate variations on movement sequences," </A> <I>Chaos</I>, <b>8</b>
 :800-807(1998)
 </li>
 
 <li>
 J. Iwanski and E. Bradley, "Recurrence plot analysis: To embed or not to embed?," 
-<I>Chaos</I>, <b>8</b>:861-871 (1998).  Here is the <A href="{{ '/papers/1.166372.pdf' | 
+<I>Chaos</I>, <b>8</b>:861-871 (1998).  Here is the <A href="{{ '/assets/papers/1.166372.pdf' | 
 relative_url }}"> published version</a>, which is in black and white.  This <A href="
-{{ '/papers/iwanski-chaos98.pdf' | relative_url }}"> preprint version</a> has the color 
+{{ '/assets/papers/iwanski-chaos98.pdf' | relative_url }}"> preprint version</a> has the color 
 images, but has (bizarrely) lost the B&W ones
 </li>
 
 <li>
-E. Bradley, A. O'Gallagher, and J. Rogers, <A href="{{ '/papers/ai-math98.pdf' | 
+E. Bradley, A. O'Gallagher, and J. Rogers, <A href="{{ '/assets/papers/ai-math98.pdf' | 
 relative_url }}">"Global solutions for nonlinear systems using qualitative reasoning,"</A>
  <I>Annals of Mathematics and Artificial Intelligence</I>, <b>23</b>:211-228 (1998)
 </li>
 
 <li>
-J. Stuart and E. Bradley, <A href="{{ 'papers/icml98.pdf' | relative_url }}"> 
+J. Stuart and E. Bradley, <A href="{{ '/assets/papers/icml98.pdf' | relative_url }}"> 
 "Learning the grammar of dance,"</A> <I>Proceedings International Conference on 
 Machine Learning (ICML-98)</I>, Madison, Wisconsin, July 1998.
 </li>
 
 <li>
-V. Robins, J. Meiss, and E. Bradley, <a href="{{ 'papers/robins-nonlinearity98.pdf' | 
+V. Robins, J. Meiss, and E. Bradley, <a href="{{ '/assets/papers/robins-nonlinearity98.pdf' | 
 relative_url }}">"Computing connectedness: An exercise in computational topology,"</A> 
 <I> Nonlinearity</I>, <B>11</B>:913-922 (1998).
 </li>
@@ -526,19 +519,19 @@ locked microwave MESFET oscillators," <I>IEEE Trans. on Microwave Theory and Tec
 </li>
 
 <li>
-E. Bradley and D. Straub, <A href="{{ 'papers/pll-casII.pdf' | relative_url }}">"Using 
+E. Bradley and D. Straub, <A href="{{ '/assets/papers/pll-casII.pdf' | relative_url }}">"Using 
 chaos to broaden the capture range of a phase-locked loop: Experimental verification"
 </A> <I>IEEE Transactions on Circuits and Systems</I>, <B>43</B>:914-922 (1996).
 </li>
 
 <li>
-E. Bradley and R. Stolle, <A href="{{ 'papers/ai-math95.pdf' | relative_url }}">"Automatic 
+E. Bradley and R. Stolle, <A href="{{ '/assets/papers/ai-math95.pdf' | relative_url }}">"Automatic 
 construction of accurate models of physical systems"</A> the <I>Annals of Mathematics and 
 Artificial Intelligence</I>, <B>17</B>:1-28, (1996).
 </li>
 
 <li>
-E. Bradley, <A href="{{ 'papers/pmoment.pdf' | relative_url }}">"Autonomous exploration 
+E. Bradley, <A href="{{ '/assets/papers/pmoment.pdf' | relative_url }}">"Autonomous exploration 
 and control of chaotic systems"</A> <I>Cybernetics and Systems</I>,
 <B> 26</B>:299-319 (1995).
 </li>
