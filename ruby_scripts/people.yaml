@@ -55,10 +55,8 @@ alumni:
   - name: Ryan James
     description: is in Jim Crutchfield's group at UC Davis.
   - name: Samantha Molnar
-    url: https://samanthamolnar.github.io/
     description: is at NREL.
   - name: Todd Mytkowicz
-    url: http://research.microsoft.com/en-us/people/toddm/
     description: is at Microsoft Research.
   - name: Mike Neuder
     description: is at Google.
@@ -73,10 +71,9 @@ alumni:
   - name: Natalie Ross
     description: is at Google.
   - name: Reinhard Stolle
-    url: http://www.ksl.stanford.edu/~stolle/
     description: is with Audi's autonomous vehicles division.
   - name: Josh Stuart
     url: https://sysbiowiki.soe.ucsc.edu
-    description: is a Professor of Biomolecular Engineering at UC Santa Cruz, and the winner of CU's 2006 [Kalpana Chawla award](http://engineering.colorado.edu/overview/Profiles/alumni-stuart.htm). Click [here](http://news.ucsc.edu/2011/06/ovarian-cancer-analysis.html) to read about some of what Josh has been up to lately.
+    description: is a Professor of Biomolecular Engineering at UC Santa Cruz, and the winner of CU's 2006 Kalpana Chawla award. Click [here](http://news.ucsc.edu/2011/06/ovarian-cancer-analysis.html) to read about some of what Josh has been up to lately.
   - name: Elizabeth White
     description: took an instructor position at the University of Colorado after finishing her Ph.D.

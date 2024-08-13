@@ -26,13 +26,13 @@
 - **Rhonda Hoenigman**, is still at the University of Colorado Boulder, but now in the Dean's office.
 - **Joe Iwanski**, is at the [Dwight Englewood School](http://www.d-e.org) outside New York City.
 - **Ryan James**, is in Jim Crutchfield's group at UC Davis.
-- [**Samantha Molnar**](https://samanthamolnar.github.io/), is at NREL.
-- [**Todd Mytkowicz**](http://research.microsoft.com/en-us/people/toddm/), is at Microsoft Research.
+- **Samantha Molnar**, is at NREL.
+- **Todd Mytkowicz**, is at Microsoft Research.
 - **Mike Neuder**, is at Google.
 - [**Tom Peacock**](http://web.mit.edu/peacocklab/), is a Professor of Mechanical Engineering at M.I.T.
 - **Laura Rassbach de Vesine**, is at Google.
 - [**Vanessa Robins**](http://people.physics.anu.edu.au/~vbr110/index.php), is an Associate Professor in Fundamental and Theoretical Physics at the Australian National University.
 - **Natalie Ross**, is at Google.
-- [**Reinhard Stolle**](http://www.ksl.stanford.edu/~stolle/), is with Audi's autonomous vehicles division.
-- [**Josh Stuart**](https://sysbiowiki.soe.ucsc.edu), is a Professor of Biomolecular Engineering at UC Santa Cruz, and the winner of CU's 2006 [Kalpana Chawla award](http://engineering.colorado.edu/overview/Profiles/alumni-stuart.htm). Click [here](http://news.ucsc.edu/2011/06/ovarian-cancer-analysis.html) to read about some of what Josh has been up to lately.
+- **Reinhard Stolle**, is with Audi's autonomous vehicles division.
+- [**Josh Stuart**](https://sysbiowiki.soe.ucsc.edu), is a Professor of Biomolecular Engineering at UC Santa Cruz, and the winner of CU's 2006 Kalpana Chawla award. Click [here](http://news.ucsc.edu/2011/06/ovarian-cancer-analysis.html) to read about some of what Josh has been up to lately.
 - **Elizabeth White**, took an instructor position at the University of Colorado after finishing her Ph.D.
