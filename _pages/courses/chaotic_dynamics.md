@@ -294,7 +294,7 @@ Notes on <a href="{{ '/assets/chaos/taylor.pdf' | relative_url }}"> Taylor serie
 but possibly useful)
 </li>
 <li>
-Notes on <a href="{{ '/assets/chaos/ode-notes.pdf' | relative_url }}">ordinary differential
+Notes on <a href="{{ '/assets/na/ode-notes.pdf' | relative_url }}">ordinary differential
 equations (ODEs) and solving them numerically</a>
 </li>
 <li>
